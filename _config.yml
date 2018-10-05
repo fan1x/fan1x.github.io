@@ -30,13 +30,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-subtitle: Your awesome subtitle
+title: Osobní stránky
 description: >- # this means to ignore newlines until "baseurl:"
   Tomas' personal web page.
 author: Tomas Faltin
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+email: faltin@ksi.mff.cuni.cz
+#avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
