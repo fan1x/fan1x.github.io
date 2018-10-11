@@ -7,7 +7,7 @@ order: 5
 
 Projekty
 ==========
-- Nabídka projektů na KSI [link](http://www.ksi.mff.cuni.cz/cs/page.php?page=projects)
+- Nabídka projektů na KSI - [link](http://www.ksi.mff.cuni.cz/cs/page.php?page=projects)
 - Nabídka (placených) projektů společně s Oracle Labs
   - PGX (#distributed #big-data #graph #parallel #hpc) - [handout](data/projects/PGX handout.pdf)
   - Data studio (#big-data #graph #notebook #frontend) - [handout](data/projetcs/data_studio_handout.pdf)
