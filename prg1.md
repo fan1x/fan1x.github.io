@@ -1,14 +1,36 @@
 ---
 title: Programování I
 layout: "page"
-icon: fa-university
+icon: fa-laptop
 order: 3
 ---
-**Obecné**
-==================
-TBD
 
-**1. cvičení (5.10.)**
-==================
+## Obecné
+- Přednášky:
+  - pondělí (Holan) - [link](https://ksvi.mff.cuni.cz/~holan/)
+  - pondělí (Dingle) - [link](https://ksvi.mff.cuni.cz/~dingle/2018/programming_i.html)
+  - čtvrtek (Pergel) - [link](https://kam.mff.cuni.cz/~perm/programovani/NNPRG030/index.html)
+- **Po domluvě** je možné programovat v jiném jazyce než Pascal (platí i pro zápočtový program). 
+- IDE pro Pascal:
+  - Free Pascal - [link](https://www.freepascal.org/)
+  - Lazarus - [link](https://www.lazarus-ide.org/)
+
+## Požadavky na zápočet
+- Zápočtový program
+  - Téma domluvené do 16.12.2018
+  - 1. odevdání do 30.4.
+- Domácí úkoly
+  - 70% úspěšnost
++ Zápočtová písemka
+  - Poslední 2 cvičení
+  - Dynamické proměnné
+
+## Cvičení
+### 1. cvičení (5.10.)
 - slidy ([PDF](data/prg1/cv1/prg1_cv1.pdf)) ([PPTX](data/prg1/cv1/prg1_cv1.pptx))
 - **DŮ:** Přihlásit se do ReCodexu [link](https://recodex.mff.cuni.cz/cs)
+
+### 2. cvičení (12.10.)
+- slidy ([PDF](data/prg1/cv2/prg1_cv2.pdf)) ([PPTX](data/prg1/cv1/prg1_cv2.pptx))
+- **DŮ (do středy 17.10.2018 23:59):** Analýza jednoduchého třídění čísel
+  - Popište pseudokód algoritmu na setřídění pole čísel. Napište časovou a paměťovou složitost algoritmu. Dokažte/nastiňte správnost a konečnost algoritmu. 

@@ -1,7 +1,7 @@
 ---
 title: Programování v C++
 layout: "page"
-icon: fa-university
+icon: fa-microchip
 order: 4
 ---
 **Obecné**
