@@ -21,3 +21,7 @@ TBD
 - Třídy v C++ (class, struct, public/private, speciální metody)
 - std::vector<T>
 
+**3. cvičení (15.10.)**
+=====================
+- slidy ([PDF](data/cpp/cv3/cpp_cv3.pdf)) ([PPTX](data/cpp/cv3/cpp_cv3.pptx))
+- TBD
