@@ -31,6 +31,10 @@ order: 3
 - **DŮ:** Přihlásit se do ReCodexu [link](https://recodex.mff.cuni.cz/cs)
 
 ### 2. cvičení (12.10.)
-- slidy ([PDF](data/prg1/cv2/prg1_cv2.pdf)) ([PPTX](data/prg1/cv1/prg1_cv2.pptx))
+- slidy ([PDF](data/prg1/cv2/prg1_cv2.pdf)) ([PPTX](data/prg1/cv2/prg1_cv2.pptx))
 - **DŮ (do středy 17.10.2018 23:59):** Analýza jednoduchého třídění čísel
-  - Popište pseudokód algoritmu na setřídění pole čísel. Napište časovou a paměťovou složitost algoritmu. Dokažte/nastiňte správnost a konečnost algoritmu. 
+  - Popište pseudokód algoritmu na setřídění pole čísel. Napište časovou a paměťovou složitost algoritmu. Dokažte/nastiňte správnost a konečnost algoritmu.
+
+### 3. cvičení (19.10.)
+- slidy ([PDF](data/prg1/cv3/prg1_cv3.pdf)) ([PPTX](data/prg1/cv3/prg1_cv3.pptx))
+TBD
