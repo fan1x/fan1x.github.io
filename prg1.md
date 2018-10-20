@@ -31,7 +31,7 @@ order: 3
 ### 1. cvičení (5.10.)
 - slidy ([PDF](data/prg1/cv1/prg1_cv1.pdf)) ([PPTX](data/prg1/cv1/prg1_cv1.pptx))
 - Organizace - požadavky na zápočet
-- **Teorie:** `	Hello World`, `if-else`, `while`, `for`, I/O, Crt knihovna [link](https://www.freepascal.org/docs-html/rtl/crt/)
+- **Teorie:**  `Hello World`, `if-else`, `while`, `for`, I/O, Crt knihovna [link](https://www.freepascal.org/docs-html/rtl/crt/)
 - **Programování:** Hello World, Hello user, Hello/Ahoj/Halo World, (Hello world)^n, Snake
 - **DŮ:** Přihlásit se do ReCodexu [link](https://recodex.mff.cuni.cz/cs)
 
