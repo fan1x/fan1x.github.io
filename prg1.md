@@ -18,7 +18,7 @@ order: 3
 ### ReCodex
 - Web pro zadávání/odevdávání domácích úkolů
 - [link](https://recodex.mff.cuni.cz/)
-- Jak otestovat program podobně jako ReCodex? Postup je pro Windows, na \*nix systémech je víceméně stejný: 
+- Jak otestovat program podobně jako ReCodex? Postup je pro Windows, na unixu je víceméně stejný: 
   1. Naprogramujte a zkompilujte svůj program. Najděte, kam se uložila binárka/přeložený program (např.: `prg.exe`).
   2. Spusťte v adresáři s binárkou command prompt/nalistujte do adresáře (např.: [link](https://www.digitalcitizen.life/7-ways-launch-command-prompt-windows-7-windows-8)), případně pogooglete nebo se zeptejte na cvičení.
   3.  Vytvořte si vstupní soubor se všemi vstupy (např.: `in.txt`). 
