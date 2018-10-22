@@ -33,3 +33,5 @@ TBD
   - Konzolová aplikace
   - Zadat velikost hracího pole, kontrola souřadnic a výhry/remízy
   - `std::vector<T>`
+
+### 5. cvičení (29.10.)

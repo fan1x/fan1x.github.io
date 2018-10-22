@@ -56,3 +56,5 @@ order: 3
 - **Programování:** Kreslení čtverců, trojúhelníků pomocí posloupností (pokračování)
 - **DÚ (do pátku 26.10. 2:00):** Čtverce a trojúhelníky (ReCodex)
 - **DÚ (do soboty 27.10. 2:00):** Oprava DÚ1
+
+### 4. cvičení (26.10.)
