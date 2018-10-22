@@ -26,7 +26,7 @@ TBD
 	2. třída Complex (obsahuje sčítání, odčítání, konstruktor, vypisování na obrazovku)
 
 ### 4. cvičení (22.10.)
-- slidy ([PDF](data/cpp/cv4/cpp_cv4.pdf)) ([PPTX](data/cpp/cv4/cpp_cv4.pptx))
+- slidy ([PDF](data/cpp/cv4/cpp_cv4.pdf))
 - Třídy pokračování, dynamický polymorfismus
 - Piškvorky pro 2 hráče
 - **DÚ (do neděle 28.10.2018 23:59):** Piškvorky pro 2 hráče
