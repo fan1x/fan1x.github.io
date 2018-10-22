@@ -15,7 +15,7 @@ order: 3
   - Free Pascal - [link](https://www.freepascal.org/)
   - Lazarus - [link](https://www.lazarus-ide.org/)
 
-## ReCodex
+### ReCodex
 - Web pro zadávání/odevdávání domácích úkolů
 - [link](https://recodex.mff.cuni.cz/)
 - Jak otestovat program podobně jako ReCodex? Postup je pro Windows, na \*nix systémech je víceméně stejný: 
