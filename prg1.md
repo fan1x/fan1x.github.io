@@ -37,21 +37,21 @@ order: 3
 
 ## Cvičení
 ### 1. cvičení (5.10.)
-- slidy ([PDF](data/prg1/cv1/prg1_cv1.pdf)) ([PPTX](data/prg1/cv1/prg1_cv1.pptx))
+- slidy ([PDF](data/2018-19/prg1/cv1/prg1_cv1.pdf)) ([PPTX](data/2018-19/prg1/cv1/prg1_cv1.pptx))
 - Organizace - požadavky na zápočet
 - **Teorie:**  `Hello World`, `if-else`, `while`, `for`, I/O, Crt knihovna [link](https://www.freepascal.org/docs-html/rtl/crt/)
 - **Programování:** Hello World, Hello user, Hello/Ahoj/Halo World, (Hello world)^n, Snake
 - **DÚ:** Přihlásit se do ReCodexu [link](https://recodex.mff.cuni.cz/cs)
 
 ### 2. cvičení (12.10.)
-- slidy ([PDF](data/prg1/cv2/prg1_cv2.pdf)) ([PPTX](data/prg1/cv2/prg1_cv2.pptx))
+- slidy ([PDF](data/2018-19/prg1/cv2/prg1_cv2.pdf)) ([PPTX](data/2018-19/prg1/cv2/prg1_cv2.pptx))
 - **Teorie:** složitost (příklad: `is_prime(n)`, `find_min()`)
 - **Programování:** Kreslení čtverců, trojúhelníků pomocí posloupností, Snake
 - **DÚ (do středy 17.10.2018 23:59):** Analýza jednoduchého třídění čísel
   - Popište pseudokód algoritmu na setřídění pole čísel. Napište časovou a paměťovou složitost algoritmu. Dokažte/nastiňte správnost a konečnost algoritmu.
 
 ### 3. cvičení (19.10.)
-- slidy ([PDF](data/prg1/cv3/prg1_cv3.pdf)) ([PPTX](data/prg1/cv3/prg1_cv3.pptx))
+- slidy ([PDF](data/2018-19/prg1/cv3/prg1_cv3.pdf)) ([PPTX](data/2018-19/prg1/cv3/prg1_cv3.pptx))
 - **Teorie:** složitost, konečnost, správnost algoritmů (příklad: Bubble sort), pole
 - **Programování:** Kreslení čtverců, trojúhelníků pomocí posloupností (pokračování)
 - **DÚ (do pátku 26.10. 2:00):** Čtverce a trojúhelníky (ReCodex)
