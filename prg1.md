@@ -58,3 +58,6 @@ order: 3
 - **DÚ (do soboty 27.10. 2:00):** Oprava DÚ1
 
 ### 4. cvičení (26.10.)
+- slidy ([PDF](data/2018-19/prg1/cv4/prg1_cv4.pdf)) ([PPTX](data/2018-19/prg1/cv4/prg1_cv4.pptx))
+- **Teorie:** pole, řetězce
+- **Programování:** Hledání v poli, řetězci
