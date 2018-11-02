@@ -24,6 +24,7 @@ order: 3
   3.  Vytvořte si vstupní soubor se všemi vstupy (např.: `in.txt`). 
   4.  Přesměrujte vstup ze souboru do programu a výstup do souboru: `prg.exe < in.txt > out.txt` ([link](http://www.ustrem.org/en/articles/redirecting-input-output-streams-en/))
   5.  Výstup je uložen v souboru `out.txt`
+- Pokud chcete odevdávat v C#, můžete použít předpřipravenou knihovnu viz [FAQ](https://recodex.mff.cuni.cz/cs/faq)
 
 ## Požadavky na zápočet
 - Zápočtový program
@@ -54,10 +55,16 @@ order: 3
 - slidy ([PDF](data/2018-19/prg1/cv3/prg1_cv3.pdf)) ([PPTX](data/2018-19/prg1/cv3/prg1_cv3.pptx))
 - **Teorie:** složitost, konečnost, správnost algoritmů (příklad: Bubble sort), pole
 - **Programování:** Kreslení čtverců, trojúhelníků pomocí posloupností (pokračování)
-- **DÚ (do pátku 26.10. 2:00):** Čtverce a trojúhelníky (ReCodex)
+- **DÚ (ReCodex, do pátku 26.10. 2:00):** Čtverce a trojúhelníky
 - **DÚ (do soboty 27.10. 2:00):** Oprava DÚ1
 
 ### 4. cvičení (26.10.)
 - slidy ([PDF](data/2018-19/prg1/cv4/prg1_cv4.pdf)) ([PPTX](data/2018-19/prg1/cv4/prg1_cv4.pptx))
 - **Teorie:** pole, řetězce
 - **Programování:** Hledání v poli, řetězci
+
+### 5. cvičení (2.11.)
+- slidy ([PDF](data/2018-19/prg1/cv5/prg1_cv5.pdf)) ([PPTX](data/2018-19/prg1/cv5/prg1_cv5.pptx))
+- **Teorie:** Předávání argumentů hodnotou/referencí
+- **Programování:** Hledání v poli, práce s maticemi
+- **DÚ (ReCodex, do pátku 9.10. 2:00) :** TBD
