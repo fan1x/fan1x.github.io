@@ -36,3 +36,5 @@ TBD
 
 ### 5. cvičení (29.10.)
 - slidy ([PDF](data/2018-19/cpp/cv5/cpp_cv5.pdf)) ([PPTX](data/2018-19/cpp/cv5/cpp_cv5.pptx))
+- Programování databáze
+  - poslat do večera co se stihlo na cvičení. Musí obsahovat alespoň minimální funkcionalitu.
