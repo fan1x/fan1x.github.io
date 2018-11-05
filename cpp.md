@@ -6,8 +6,8 @@ order: 4
 ---
 
 ## Obecné
-- Programy ze cvičení jsou k nalezení zde [link](https://github.com/fan1x/teaching-cpp-2018_19)
-TBD
+- Přednáška [link](http://www.ksi.mff.cuni.cz/en/lectures/NPRG041/html/nprg041.html)
+- Programy ze cvičení jsou k nalezení [zde](https://github.com/fan1x/teaching-cpp-2018_19)
 
 ## Cvičení
 ### 1. cvičení (1.10.)
@@ -38,3 +38,10 @@ TBD
 - slidy ([PDF](data/2018-19/cpp/cv5/cpp_cv5.pdf)) ([PPTX](data/2018-19/cpp/cv5/cpp_cv5.pptx))
 - Programování databáze
   - poslat do večera co se stihlo na cvičení. Musí obsahovat alespoň minimální funkcionalitu.
+
+### 6. cvičení (5.11.)
+- slidy ([PDF](data/2018-19/cpp/cv6/cpp_cv6.pdf)) ([PPTX](data/2018-19/cpp/cv6/cpp_cv6.pptx))
+- Ukazatele, reference, dynamická alokace - chytré ukazatele, RAII
+- Programování
+  - databáze - pomocí dynamické alokace + dědičnosti
+  - vlastní `shared_ptr`
