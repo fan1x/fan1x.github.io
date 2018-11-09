@@ -67,4 +67,9 @@ order: 3
 - slidy ([PDF](data/2018-19/prg1/cv5/prg1_cv5.pdf)) ([PPTX](data/2018-19/prg1/cv5/prg1_cv5.pptx))
 - **Teorie:** Předávání argumentů hodnotou/referencí
 - **Programování:** Hledání v poli, práce s maticemi
-- **DÚ (ReCodex, do pátku 9.10. 2:00) :** TBD
+- **DÚ (ReCodex, do pátku 9.12. 2:00) :** Počítání králíků
+
+### 6. cvičení (9.11.)
+- slidy ([PDF](data/2018-19/prg1/cv6/prg1_cv6.pdf)) ([PPTX](data/2018-19/prg1/cv6/prg1_cv6.pptx))
+-**Programování:** Hledávní v poli/stringách, práce s maticemi, začátek programování vlny
+**DÚ (do pondělí 12.11. 2:00): ** Počítání králíků (odevzdat do ReCodex) nebo poslat mailem část programu s popisem problémů.
