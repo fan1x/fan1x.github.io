@@ -45,3 +45,10 @@ order: 4
 - Programování
   - databáze - pomocí dynamické alokace + dědičnosti
   - vlastní `shared_ptr`
+
+### 7. cvičení (12.11.)
+- slidy ([PDF](data/2018-19/cpp/cv7/cpp_cv7.pdf)) ([PPTX](data/2018-19/cpp/cv7/cpp_cv7.pptx))
+- Feedback k piškvorkám
+- r-value reference/move semantika
+- Programování vlastního `std::vector`
+- **DÚ (do neděle 18.11.2018):** Přihlásit se do ReCodexu ([link](https://recodex.mff.cuni.cz/)) nebo napsat mail, pokud jsou problémy.
