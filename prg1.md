@@ -73,3 +73,8 @@ order: 3
 - slidy ([PDF](data/2018-19/prg1/cv6/prg1_cv6.pdf)) ([PPTX](data/2018-19/prg1/cv6/prg1_cv6.pptx))
 -**Programování:** Hledávní v poli/stringách, práce s maticemi, začátek programování vlny
 **DÚ (do pondělí 12.11. 2:00): ** Počítání králíků (odevzdat do ReCodex) nebo poslat mailem část programu s popisem problémů.
+
+### 7. cvičení (16.11.)
+- slidy ([PDF](data/2018-19/prg1/cv7/prg1_cv7.pdf)) ([PPTX](data/2018-19/prg1/cv7/prg1_cv7.pptx))
+- **Teorie:** Rekurze, NSD
+- **Programování:** Debugování, rekurze - fibonnaciho čísla, procházení pole, hledání palindromu, hledání prvočísel.
