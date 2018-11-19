@@ -9,10 +9,35 @@ order: 4
 - Přednáška [link](http://www.ksi.mff.cuni.cz/en/lectures/NPRG041/html/nprg041.html)
 - Programy ze cvičení jsou k nalezení [zde](https://github.com/fan1x/teaching-cpp-2018_19)
 
+### Požadavky
+1. docházka - 3 možné absence, potom po domluvě
+2. zápočtový program
+  - výběr tématu **do 31.12.**
+  - 1. odevzdání **do 30.4.**
+3. dva domácí úkoly (nepovinné, ale jsou za ně body ke zkoušce)
+
+### Zápočtový program
+Zkuste vymyslet vlastní téma. Zamyslete se nad tím, co by usnadnilo život Vám, známým, rodičům, případně celému světu. Zkuste si vzpomenout, co Vám vadí na Vašem oblíbeném/používaném programu. Chcete si zkusit, jak by se určitý program/věc programovala? Existuje nějaká činnost, kterou provádíte opakově a dala by se alespoň drobet zautomatizovat? 
+Až budete mít pár nápadů, tak mi je bez ohledu na jejich složitost pošlete. Společně už je doladíme a přetvoříme v materiál na zápočťák. Nebojte se toho, že nevíte, jak by se to programovalo, určitě společně vymyslíme, jak do toho :)
+
+Pokud jste líní něco vymýšlet, můžete se **inspirovat** zde: (stránky obsahují stará témata, která většinou nejsou již zajímavá, mohou ale dobře sloužit pro inspiraci)
+  - https://mj.ucw.cz/vyuka/zap/
+  - http://www.karlin.mff.cuni.cz/~hamacek/files/zapoctaky.txt
+
+### Domácí úkoly
+- nepovinné, ale jsou za ně body ke zkoušce
+- Odevzdání do ReCodexu ([link](https://recodex.mff.cuni.cz/))
+- Hodnotí se nejen správnost, ale i design a styl
+#### DÚ1
+- 0..15b
+- 14 dní na odevzdání
+#### DÚ2
+- 0..25b
+
+
 ## Cvičení
 ### 1. cvičení (1.10.)
 - slidy ([PDF](data/2018-19/cpp/cv1/cpp_cv1.pdf)) ([PPTX](data/2018-19/cpp/cv1/cpp_cv1.pptx))
-
 
 ### 2. cvičení (8.10.)
 - slidy ([PDF](data/2018-19/cpp/cv2/cpp_cv2.pdf)) ([PPTX](data/2018-19/cpp/cv2/cpp_cv2.pptx))
@@ -50,5 +75,11 @@ order: 4
 - slidy ([PDF](data/2018-19/cpp/cv7/cpp_cv7.pdf)) ([PPTX](data/2018-19/cpp/cv7/cpp_cv7.pptx))
 - Feedback k piškvorkám
 - r-value reference/move semantika
-- Programování vlastního `std::vector`
+- Programování vlastního negenerického `std::vector`
 - **DÚ (do neděle 18.11.2018):** Přihlásit se do ReCodexu ([link](https://recodex.mff.cuni.cz/)) nebo napsat mail, pokud jsou problémy.
+
+### 8. cvičení (19.11.)
+- slidy ([PDF](data/2018-19/cpp/cv8/cpp_cv8.pdf)) ([PPTX](data/2018-19/cpp/cv8/cpp_cv8.pptx))
+- Šablony úvod
+- Programování vlastního generického`std::vector<T>`, `std::array<T>` a polymorfního pole
+- **DÚ1 (ReCodex):** Variace na databázi
