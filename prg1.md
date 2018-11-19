@@ -26,7 +26,8 @@ order: 3
   5.  Výstup je uložen v souboru `out.txt`
 - Pokud chcete odevdávat v C#, můžete použít předpřipravenou knihovnu viz [FAQ](https://recodex.mff.cuni.cz/cs/faq)
 
-### [Zápočtový program](projects)
+### Zápočtový program
+- info [zde](projects#Zápočťáky)
 
 ## Požadavky na zápočet
 - Zápočtový program

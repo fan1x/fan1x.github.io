@@ -24,7 +24,9 @@ order: 5
 - AR Průvodce po hradech
 	- viz výše + augmented reality
 
+
 # Zápočťáky
+
 
 ## Témata
 
@@ -34,6 +36,9 @@ Až budete mít pár nápadů, tak mi je bez ohledu na jejich složitost pošlet
 Pokud jste líní něco vymýšlet, můžete se **inspirovat** zde: (stránky obsahují stará témata, která většinou nejsou již zajímavá, mohou ale dobře sloužit pro inspiraci)
   - https://mj.ucw.cz/vyuka/zap/
   - http://www.karlin.mff.cuni.cz/~hamacek/files/zapoctaky.txt
+
+## Požadavky
+- TBD
 
 ## Obhájené zápočťáky
 
