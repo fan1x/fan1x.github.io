@@ -26,13 +26,7 @@ order: 3
   5.  Výstup je uložen v souboru `out.txt`
 - Pokud chcete odevdávat v C#, můžete použít předpřipravenou knihovnu viz [FAQ](https://recodex.mff.cuni.cz/cs/faq)
 
-### Zápočtový program
-Zkuste vymyslet vlastní téma. Zamyslete se nad tím, co by usnadnilo život Vám, známým, rodičům, případně celému světu. Zkuste si vzpomenout, co Vám vadí na Vašem oblíbeném/používaném programu. Chcete si zkusit, jak by se určitý program/věc programovala? Existuje nějaká činnost, kterou provádíte opakově a dala by se alespoň drobet zautomatizovat? 
-Až budete mít pár nápadů, tak mi je bez ohledu na jejich složitost pošlete. Společně už je doladíme a přetvoříme v materiál na zápočťák. Nebojte se toho, že nevíte, jak by se to programovalo, určitě společně vymyslíme, jak do toho :)
-
-Pokud jste líní něco vymýšlet, můžete se **inspirovat** zde: (stránky obsahují stará témata, která většinou nejsou již zajímavá, mohou ale dobře sloužit pro inspiraci)
-  - https://mj.ucw.cz/vyuka/zap/
-  - http://www.karlin.mff.cuni.cz/~hamacek/files/zapoctaky.txt
+### [Zápočtový program](projects)
 
 ## Požadavky na zápočet
 - Zápočtový program
