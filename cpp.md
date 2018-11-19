@@ -17,7 +17,7 @@ order: 4
 3. dva domácí úkoly (nepovinné, ale jsou za ně body ke zkoušce)
 
 ### Zápočtový program
-- info [zde](projects#Zápočťáky)
+- info [zde](projects)
 
 ### Domácí úkoly
 - nepovinné, ale jsou za ně body ke zkoušce

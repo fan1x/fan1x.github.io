@@ -27,7 +27,7 @@ order: 3
 - Pokud chcete odevdávat v C#, můžete použít předpřipravenou knihovnu viz [FAQ](https://recodex.mff.cuni.cz/cs/faq)
 
 ### Zápočtový program
-- info [zde](projects#Zápočťáky)
+- info [zde](projects)
 
 ## Požadavky na zápočet
 - Zápočtový program

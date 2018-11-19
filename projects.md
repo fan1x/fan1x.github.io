@@ -24,27 +24,20 @@ order: 5
 - AR Průvodce po hradech
 	- viz výše + augmented reality
 
-
 # Zápočťáky
 
-
 ## Témata
-
 Zkuste vymyslet vlastní téma. Zamyslete se nad tím, co by usnadnilo život Vám, známým, rodičům, případně celému světu. Zkuste si vzpomenout, co Vám vadí na Vašem oblíbeném/používaném programu. Chcete si zkusit, jak by se určitý program/věc programovala? Existuje nějaká činnost, kterou provádíte opakově a dala by se alespoň drobet zautomatizovat? 
 Až budete mít pár nápadů, tak mi je bez ohledu na jejich složitost pošlete. Společně už je doladíme a přetvoříme v materiál na zápočťák. Nebojte se toho, že nevíte, jak by se to programovalo, určitě společně vymyslíme, jak do toho :)
 
 Pokud jste líní něco vymýšlet, můžete se **inspirovat** zde: (stránky obsahují stará témata, která většinou nejsou již zajímavá, mohou ale dobře sloužit pro inspiraci)
-  - https://mj.ucw.cz/vyuka/zap/
-  - http://www.karlin.mff.cuni.cz/~hamacek/files/zapoctaky.txt
+  - [stránky Martina Mareše](https://mj.ucw.cz/vyuka/zap/)
+  - [stránky Jana Hamáčka](http://www.karlin.mff.cuni.cz/~hamacek/files/zapoctaky.txt)
 
 ## Požadavky
 - TBD
 
 ## Obhájené zápočťáky
-
-### Programování
 - Simulace mraveniště: [github](https://github.com/kriskol/SimulaciaMraveniskaRep)
 - Sudoku: [github](https://github.com/LadyMalande/SudokuTM)
 - Virtual loop pedal: [github](https://github.com/Mnaukal/virtual-loop-pedal)
-
-### C++
