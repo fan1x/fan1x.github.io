@@ -13,7 +13,7 @@ order: 4
 1. docházka - 3 možné absence, potom po domluvě
 2. zápočtový program
   - výběr tématu **do 31.12.**
-  - 1. odevzdání **do 30.4.**
+  - první odevzdání **do 30.4.**
 3. dva domácí úkoly (nepovinné, ale jsou za ně body ke zkoušce)
 
 ### Zápočtový program
@@ -28,9 +28,11 @@ Pokud jste líní něco vymýšlet, můžete se **inspirovat** zde: (stránky ob
 - nepovinné, ale jsou za ně body ke zkoušce
 - Odevzdání do ReCodexu ([link](https://recodex.mff.cuni.cz/))
 - Hodnotí se nejen správnost, ale i design a styl
-#### DÚ1
+
+#### DÚ1 - variace na databázi
 - 0..15b
 - 14 dní na odevzdání
+
 #### DÚ2
 - 0..25b
 
