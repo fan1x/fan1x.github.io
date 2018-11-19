@@ -1,5 +1,5 @@
 ---
-title: Studentské projekty a témata
+title: Studentské projekty
 layout: "page"
 icon: fa-graduation-cap
 order: 5
@@ -7,7 +7,7 @@ order: 5
 
 # Softwaráky, bakalářky, diplomky
 
-## Projekty
+## Oficiální projekty
 - Nabídka projektů na KSI - [link](http://www.ksi.mff.cuni.cz/cs/page.php?page=projects)
 - Nabídka **placených** projektů společně s Oracle Labs
   - PGX (#distributed #big-data #graph #parallel #hpc) - [handout](data/projects/PGX handout.pdf)
