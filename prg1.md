@@ -84,3 +84,5 @@ order: 3
 
 ### 8. cvičení (16.11.)
 - slidy ([PDF](data/2018-19/prg1/cv8/prg1_cv8.pdf)) ([PPTX](data/2018-19/prg1/cv8/prg1_cv8.pptx))
+- **Teorie:** Záznamy, ukazatele, dynamická paměť.
+- **Programování:** Záznamy, pole záznamů o lidech.
