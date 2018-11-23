@@ -81,3 +81,6 @@ order: 3
 - slidy ([PDF](data/2018-19/prg1/cv7/prg1_cv7.pdf)) ([PPTX](data/2018-19/prg1/cv7/prg1_cv7.pptx))
 - **Teorie:** Rekurze, NSD
 - **Programování:** Debugování, rekurze - fibonnaciho čísla, procházení pole, hledání palindromu, hledání prvočísel.
+
+### 8. cvičení (16.11.)
+- slidy ([PDF](data/2018-19/prg1/cv8/prg1_cv8.pdf)) ([PPTX](data/2018-19/prg1/cv8/prg1_cv8.pptx))
