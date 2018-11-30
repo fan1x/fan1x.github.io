@@ -31,7 +31,7 @@ order: 3
 
 ## Požadavky na zápočet
 - Zápočtový program
-  - Téma domluvené do 16.12.2018
+  - Téma domluvené do 23.12.2018
   - První odevdání do 30.4.
 - Domácí úkoly
   - 70% úspěšnost
@@ -82,7 +82,24 @@ order: 3
 - **Teorie:** Rekurze, NSD
 - **Programování:** Debugování, rekurze - fibonnaciho čísla, procházení pole, hledání palindromu, hledání prvočísel.
 
-### 8. cvičení (16.11.)
+### 8. cvičení (23.11.)
 - slidy ([PDF](data/2018-19/prg1/cv8/prg1_cv8.pdf)) ([PPTX](data/2018-19/prg1/cv8/prg1_cv8.pptx))
 - **Teorie:** Záznamy, ukazatele, dynamická paměť.
 - **Programování:** Záznamy, pole záznamů o lidech.
+
+### 9. cvičení (30.11.)
+- slidy ([PDF](data/2018-19/prg1/cv9/prg1_cv9.pdf)) ([PPTX](data/2018-19/prg1/cv8/prg1_cv9.pptx))
+- **Programování:** Záznamy, pole záznamů o lidech (pokračování)
+
+### 10. cvičení (7.12.)
+
+### 11. cvičení (14.12.)
+
+### 12. cvičení (21.12.)
+
+### 13. cvičení (4.1.)
+- 1.zápočtová písemka - dynamické proměnné
+
+### 14. cvičení (11.1.)
+- 2.zápočtová písemka - dynamické proměnné
+
