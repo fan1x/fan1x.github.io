@@ -24,9 +24,12 @@ order: 4
 - Odevzdání do ReCodexu ([link](https://recodex.mff.cuni.cz/))
 - Hodnotí se nejen správnost, ale i design a styl
 
-#### DÚ1 - variace na databázi
+#### DÚ1 - Agregace dat
 - 0..15b
-- 14 dní na odevzdání
+  - 0..12b ~ funkcionalita
+  - 0..3b ~ kód
+- deadline **21.12.2018 23:59**
+  - pozdní odevzdání - za každý započatý týden -5b
 
 #### DÚ2
 - 0..25b
@@ -79,4 +82,19 @@ order: 4
 - slidy ([PDF](data/2018-19/cpp/cv8/cpp_cv8.pdf)) ([PPTX](data/2018-19/cpp/cv8/cpp_cv8.pptx))
 - Šablony úvod
 - Programování vlastního generického`std::vector<T>`, `std::array<T>` a polymorfního pole
-- **DÚ1 (ReCodex):** Variace na databázi
+
+### 9. cvičení (26.11.)
+- slidy ([PDF](data/2018-19/cpp/cv9/cpp_cv9.pdf)) ([PPTX](data/2018-19/cpp/cv9/cpp_cv9.pptx))
+- Kontainery, funktory
+- Programování agregování výsledků v databázi
+
+### 10. cvičení (3.12.)
+- slidy ([PDF](data/2018-19/cpp/cv10/cpp_cv10.pdf)) ([PPTX](data/2018-19/cpp/cv10/cpp_cv10.pptx))
+- Lambdy
+- Programování s pomocí knihovny <algorithm>, kalkulačka/expression engine
+
+### 11. cvičení (10.12.)
+
+### 12. cvičení (17.12.)
+
+### 13. cvičení (7.1.)
