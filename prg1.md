@@ -74,8 +74,8 @@ order: 3
 
 ### 6. cvičení (9.11.)
 - slidy ([PDF](data/2018-19/prg1/cv6/prg1_cv6.pdf)) ([PPTX](data/2018-19/prg1/cv6/prg1_cv6.pptx))
--**Programování:** Hledávní v poli/stringách, práce s maticemi, začátek programování vlny
-**DÚ (do pondělí 12.11. 2:00): ** Počítání králíků (odevzdat do ReCodex) nebo poslat mailem část programu s popisem problémů.
+- **Programování:** Hledávní v poli/stringách, práce s maticemi, začátek programování vlny
+- **DÚ (do pondělí 12.11. 2:00):** Počítání králíků (odevzdat do ReCodex) nebo poslat mailem část programu s popisem problémů.
 
 ### 7. cvičení (16.11.)
 - slidy ([PDF](data/2018-19/prg1/cv7/prg1_cv7.pdf)) ([PPTX](data/2018-19/prg1/cv7/prg1_cv7.pptx))
@@ -88,10 +88,13 @@ order: 3
 - **Programování:** Záznamy, pole záznamů o lidech.
 
 ### 9. cvičení (30.11.)
-- slidy ([PDF](data/2018-19/prg1/cv9/prg1_cv9.pdf)) ([PPTX](data/2018-19/prg1/cv8/prg1_cv9.pptx))
+- slidy ([PDF](data/2018-19/prg1/cv9/prg1_cv9.pdf)) ([PPTX](data/2018-19/prg1/cv9/prg1_cv9.pptx))
 - **Programování:** Záznamy, pole záznamů o lidech (pokračování)
 
 ### 10. cvičení (7.12.)
+- slidy ([PDF](data/2018-19/prg1/cv10/prg1_cv10.pdf)) ([PPTX](data/2018-19/prg1/cv10/prg1_cv10.pptx))
+- **Teorie:** Proměnné záznamy
+- **Programování:** Proměnné záznamy, spojové seznamy
 
 ### 11. cvičení (14.12.)
 
