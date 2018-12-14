@@ -97,6 +97,8 @@ order: 3
 - **Programování:** Proměnné záznamy, spojové seznamy
 
 ### 11. cvičení (14.12.)
+- slidy ([PDF](data/2018-19/prg1/cv11/prg1_cv11.pdf)) ([PPTX](data/2018-19/prg1/cv11/prg1_cv11.pptx))
+- **Programování:** fronta, zásobník, strom
 
 ### 12. cvičení (21.12.)
 
