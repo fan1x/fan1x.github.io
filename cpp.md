@@ -94,6 +94,9 @@ order: 4
 - Programování s pomocí knihovny <algorithm>, kalkulačka/expression engine
 
 ### 11. cvičení (10.12.)
+- slidy ([PDF](data/2018-19/cpp/cv11/cpp_cv11.pdf)) ([PPTX](data/2018-19/cpp/cv11/cpp_cv11.pptx))
+- Proudy (streams)
+- Programování  se soubory
 
 ### 12. cvičení (17.12.)
 
