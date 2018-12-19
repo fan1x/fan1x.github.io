@@ -29,11 +29,14 @@ order: 4
   - 0..12b ~ funkcionalita
   - 0..3b ~ kód
 - deadline **21.12.2018 23:59**
-  - pozdní odevzdání - za každý započatý týden -5b
+  - pozdní odevzdání - za každý započatý týden -5b (4+1)
 
-#### DÚ2
+#### DÚ2 - Kalkulačka výrazů
 - 0..25b
-
+  - 0..20b ~ funkcionalita
+  - 0..5b ~ kód
+- deadline **13.1.2018 23:59**
+  - pozdní odevzdání - za každý započatý týden -5b (4+1)
 
 ## Cvičení
 ### 1. cvičení (1.10.)
