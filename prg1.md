@@ -29,10 +29,16 @@ order: 3
 ### Zápočtový program
 - info [zde](projects)
 
+### Zápočtová písemka
+- dynamické proměnné (spojové seznamy, jednoduché stromy)
+- žádné pomůcky
+- buď na papír nebo na počítači (bez internetu)
+
 ## Požadavky na zápočet
 - Zápočtový program
   - Téma domluvené do 23.12.2018
-  - První odevdání do 30.4.
+  - První odevzdání do 30.4. (první alespoň částečně funkční verze)
+  - Finální odevzdání 30.9.
 - Domácí úkoly
   - 70% úspěšnost
 - Zápočtová písemka
@@ -101,6 +107,8 @@ order: 3
 - **Programování:** fronta, zásobník, strom
 
 ### 12. cvičení (21.12.)
+- slidy ([PDF](data/2018-19/prg1/cv11/prg1_cv12.pdf)) ([PPTX](data/2018-19/prg1/cv11/prg1_cv12.pptx))
+- **Programování:** dynamické proměnné složitější než spojový seznam
 
 ### 13. cvičení (4.1.)
 - 1.zápočtová písemka - dynamické proměnné
