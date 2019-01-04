@@ -107,11 +107,12 @@ order: 3
 - **Programování:** fronta, zásobník, strom
 
 ### 12. cvičení (21.12.)
-- slidy ([PDF](data/2018-19/prg1/cv11/prg1_cv12.pdf)) ([PPTX](data/2018-19/prg1/cv11/prg1_cv12.pptx))
+- slidy ([PDF](data/2018-19/prg1/cv12/prg1_cv12.pdf)) ([PPTX](data/2018-19/prg1/cv12/prg1_cv12.pptx))
 - **Programování:** dynamické proměnné složitější než spojový seznam
 
 ### 13. cvičení (4.1.)
 - 1.zápočtová písemka - dynamické proměnné
+- slidy ([PDF](data/2018-19/prg1/cv13/prg1_cv13.pdf)) ([PPTX](data/2018-19/prg1/cv13/prg1_cv13.pptx))
 
 ### 14. cvičení (11.1.)
 - 2.zápočtová písemka - dynamické proměnné
