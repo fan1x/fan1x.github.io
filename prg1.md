@@ -116,4 +116,5 @@ order: 3
 
 ### 14. cvičení (11.1.)
 - 2.zápočtová písemka - dynamické proměnné
+- slidy ([PDF](data/2018-19/prg1/cv14/prg1_cv14.pdf)) ([PPTX](data/2018-19/prg1/cv14/prg1_cv14.pptx))
 
