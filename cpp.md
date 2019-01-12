@@ -30,6 +30,7 @@ order: 4
   - 0..3b ~ kód
 - deadline **21.12.2018 23:59**
   - pozdní odevzdání - za každý započatý týden -5b (4+1)
+- vzorové řešení ([du1.cpp](data/2018-19/cpp/du1.cpp))
 
 #### DÚ2 - Kalkulačka výrazů
 - 0..25b
