@@ -108,5 +108,5 @@ order: 4
 - Vyhodnocování výrazů, šifrování souborů
 
 ### 13. cvičení (7.1.)
-- slidy ([PDF](data/2018-19/cpp/cv11/cpp_cv11.pdf)) ([PPTX](data/2018-19/cpp/cv11/cpp_cv11.pptx))
+- slidy ([PDF](data/2018-19/cpp/cv13/cpp_cv13.pdf)) ([PPTX](data/2018-19/cpp/cv13/cpp_cv13.pptx))
 - Zajímavé/pokročilé věci v C++
