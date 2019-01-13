@@ -103,8 +103,10 @@ order: 4
 - Programování  se soubory
 
 ### 12. cvičení (17.12.)
-- slidy ([PDF](data/2018-19/cpp/cv11/cpp_cv11.pdf)) ([PPTX](data/2018-19/cpp/cv11/cpp_cv11.pptx))
+- slidy ([PDF](data/2018-19/cpp/cv12/cpp_cv12.pdf)) ([PPTX](data/2018-19/cpp/cv12/cpp_cv12.pptx))
 - Politiky (policies)
 - Vyhodnocování výrazů, šifrování souborů
 
 ### 13. cvičení (7.1.)
+- slidy ([PDF](data/2018-19/cpp/cv11/cpp_cv11.pdf)) ([PPTX](data/2018-19/cpp/cv11/cpp_cv11.pptx))
+- Zajímavé/pokročilé věci v C++
