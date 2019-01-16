@@ -39,7 +39,7 @@ order: 4
 - deadline **13.1.2018 23:59**
   - pozdní odevzdání - za každý započatý týden -5b (4+1)
 
-## Zápočtový test
+## Zkouškový test
 ### 16.1.
 - slidy  [PDF](data/2018-19/cpp/zkouskova_pisemka_1_16.pdf)([PPTX](data/2018-19/cpp/zkouskova_pisemka_1_16.pptx))
 
