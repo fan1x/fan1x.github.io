@@ -45,7 +45,7 @@ order: 4
 
 ### 1.2.
 - slidy  [PDF](data/2018-19/cpp/zkouskova_pisemka_2_1.pdf)([PPTX](data/2018-19/cpp/zkouskova_pisemka_2_1.pptx))
-- example [test](data/2018-19/cpp/test.in)
+- example [unix](data/2018-19/cpp/test_unix.in) [win](data/2018-19/cpp/test_win.in)
 
 ## Cvičení
 ### 1. cvičení (1.10.)
