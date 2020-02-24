@@ -2,7 +2,7 @@
 title: INT eresting Quotes
 layout: "page"
 icon: fa-quote-right
-order: 6
+order: 3
 ---
 
 
