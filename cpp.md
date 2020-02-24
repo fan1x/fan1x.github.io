@@ -39,6 +39,14 @@ order: 4
 - deadline **13.1.2018 23:59**
   - pozdní odevzdání - za každý započatý týden -5b (4+1)
 
+## Zkouškový test
+### 16.1.
+- slidy  [PDF](data/2018-19/cpp/zkouskova_pisemka_1_16.pdf)([PPTX](data/2018-19/cpp/zkouskova_pisemka_1_16.pptx))
+
+### 1.2.
+- slidy  [PDF](data/2018-19/cpp/zkouskova_pisemka_2_1.pdf)([PPTX](data/2018-19/cpp/zkouskova_pisemka_2_1.pptx))
+- example [unix](data/2018-19/cpp/test_unix.in) [win](data/2018-19/cpp/test_win.in)
+
 ## Cvičení
 ### 1. cvičení (1.10.)
 - slidy ([PDF](data/2018-19/cpp/cv1/cpp_cv1.pdf)) ([PPTX](data/2018-19/cpp/cv1/cpp_cv1.pptx))
@@ -103,8 +111,10 @@ order: 4
 - Programování  se soubory
 
 ### 12. cvičení (17.12.)
-- slidy ([PDF](data/2018-19/cpp/cv11/cpp_cv11.pdf)) ([PPTX](data/2018-19/cpp/cv11/cpp_cv11.pptx))
+- slidy ([PDF](data/2018-19/cpp/cv12/cpp_cv12.pdf)) ([PPTX](data/2018-19/cpp/cv12/cpp_cv12.pptx))
 - Politiky (policies)
 - Vyhodnocování výrazů, šifrování souborů
 
 ### 13. cvičení (7.1.)
+- slidy ([PDF](data/2018-19/cpp/cv13/cpp_cv13.pdf)) ([PPTX](data/2018-19/cpp/cv13/cpp_cv13.pptx))
+- Zajímavé/pokročilé věci v C++

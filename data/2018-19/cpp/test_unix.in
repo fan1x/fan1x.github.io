@@ -1,0 +1,11 @@
+10
+p 2018
+i 3 2000 12 3 "Note Dec 3rd"
+i 3 2000 1 1 "New Year"
+i -10 2019 2 1 "cpp exam"
+d 2000
+p 2000
+p 2000 1 1
+i 0 2019 "good year"
+i 0 2019  "March 2019"
+pp 2019
