@@ -29,17 +29,16 @@ order: 4
 - **DÚ (do 8.3. 23:59):**
   - půjčit & přinést si Arduino
   - naprogramovat zadaných 5 funkcí: 1-4 povinně + 5 nebo 6
-    - **požadavky:** 
-	  - rozdělit kód hezky do funkcí (minimálně bude k dispozici 5 funkcí)
-	  - požívat pojmenované konstany
-	  - hezky pojmenovat proměnné
     1. Nakreslit vánoční stromeček
     2. Nakreslit trojúhelník
     3. Vypsat průměr hodnot v poli
     4. Nakreslit graf hodnot v poli
     5. Nakreslit graf klouzavého průměru hodnot v poli obecně pro N po sobě jdoucích hodnot
     6. Histogram hodnot v poli
-	
+  - **požadavky na funkce:** 
+	- rozdělit kód hezky do funkcí (minimálně bude k dispozici 5 funkcí)
+	- požívat pojmenované konstany
+	- hezky pojmenovat proměnné
 
 ### 2. liché cvičení (2.3.)
 - TBD
