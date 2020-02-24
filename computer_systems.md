@@ -37,7 +37,7 @@ order: 4
     6. Histogram hodnot v poli
   - **požadavky na funkce:** 
 	- rozdělit kód hezky do funkcí (minimálně bude k dispozici 5 funkcí)
-	- požívat pojmenované konstany
+	- požívat pojmenované konstanty
 	- hezky pojmenovat proměnné
 
 ### 2. liché cvičení (2.3.)

@@ -3,6 +3,7 @@ title: Programování I
 layout: "page"
 icon: fa-laptop
 order: 7
+hide: true
 ---
 
 ## Obecné

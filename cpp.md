@@ -3,6 +3,7 @@ title: Programování v C++
 layout: "page"
 icon: fa-microchip
 order: 6
+hide: true
 ---
 
 ## Obecné
