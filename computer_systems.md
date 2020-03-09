@@ -42,6 +42,7 @@ order: 4
 
 ### 2. liché cvičení (2.3.)
 - úvod do Arduina
+- blikání s LEDkami
 - **slidy:** [PPTX](data/2019-20/cs/tf-cs-02-arduino_leds.pptx)
 - **DÚ (do 15.3. 23:59):**
   - naprogramovat následujících 5 funkcí:
@@ -58,6 +59,7 @@ order: 4
 
 ### 2. sudé cvičení (9.3.)
 - úvod do Arduina
+- blikání s LEDkami
 - **slidy:** [PPTX](data/2019-20/cs/tf-cs-02-arduino_leds.pptx)
 - **DÚ (do 22.3. 23:59):**
   - naprogramovat následujících 5 funkcí:
