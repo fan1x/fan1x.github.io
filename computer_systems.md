@@ -25,7 +25,7 @@ order: 4
 
 ### 1. sudé cvičení (24.2.)
 - úvod do C
-- **slidy:** [PPTX](data/2019-20/cs/tf-cs-02-C.pptx)
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-01-C.pptx)
 - **DÚ (do 8.3. 23:59):**
   - půjčit & přinést si Arduino
   - naprogramovat zadaných 5 funkcí: 1-4 povinně + 5 nebo 6
@@ -41,10 +41,36 @@ order: 4
 	- hezky pojmenovat proměnné
 
 ### 2. liché cvičení (2.3.)
-- TBD
+- úvod do Arduina
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-02-arduino_leds.pptx)
+- **DÚ (do 15.3. 23:59):**
+  - naprogramovat následujících 5 funkcí:
+    1. Inicializace LEDek
+	2. Blikání zadanou LEDkou (podle indexu dané LED)
+	3. vlastní funkce delay()
+	4. Blikání všemi LEDkami
+	5. Vytvořit hada zadané délky (argument funkci)
+  - **požadavky na funkce:**
+    - rozdělit hezky do funkcí
+	- používat konstanty
+	- hezky pojmenovat funkce a proměnné
+	- stejné proměnné vložit do pole
 
 ### 2. sudé cvičení (9.3.)
-- TBD
+- úvod do Arduina
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-02-arduino_leds.pptx)
+- **DÚ (do 22.3. 23:59):**
+  - naprogramovat následujících 5 funkcí:
+    1. Inicializace LEDek
+	2. Blikání zadanou LEDkou (podle indexu dané LED)
+	3. vlastní funkce delay()
+	4. Blikání všemi LEDkami
+	5. Vytvořit hada zadané délky (argument funkci)
+  - **požadavky na funkce:**
+    - rozdělit hezky do funkcí
+	- používat konstanty
+	- hezky pojmenovat funkce a proměnné
+	- stejné proměnné vložit do pole
 
 ### 3. liché cvičení (16.3.)
 - TBD
