@@ -75,10 +75,16 @@ order: 4
 	- stejné proměnné vložit do pole
 
 ### 3. liché cvičení (16.3.)
-- TBD
+- používání tlačítek
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-03-buttons.pptx)
+- **DÚ (do 29.3. 23:59):**
+  - úkol č. 8, viz slides
 
 ### 3. sudé cvičení (23.3.)
-- TBD
+- používání tlačítek
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-03-buttons.pptx)
+- **DÚ (do 5.4. 23:59):**
+  - úkol č. 8, viz slides
 
 ### 4. liché cvičení (30.3.)
 - TBD
