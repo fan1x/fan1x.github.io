@@ -90,7 +90,7 @@ order: 4
 - začátky se segmentovým displejem
   - zobrazování čísel, had
 - **slidy:** [PPTX](data/2019-20/cs/tf-cs-04-seg1.pptx)
-- **DÚ (do 12.5. 23:59):**
+- **DÚ (do 12.4. 23:59):**
   - úkoly č. 2, 4, 5, viz slides
 
 ### 4. sudé cvičení (6.4.)
