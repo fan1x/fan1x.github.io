@@ -94,7 +94,11 @@ order: 4
   - úkoly č. 2, 4, 5, viz slides
 
 ### 4. sudé cvičení (6.4.)
-- TBD
+- začátky se segmentovým displejem
+  - zobrazování čísel, had
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-04-seg1.pptx)
+- **DÚ (do 19.4. 23:59):**
+  - úkoly č. 2, 4, 5, viz slides
 
 ### 5. liché cvičení (13.4.)
 - **volno:** Velikonoční pondělí
