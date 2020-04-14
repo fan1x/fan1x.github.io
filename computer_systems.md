@@ -103,7 +103,7 @@ order: 4
 ### 5. liché cvičení (13.4.)
 - časový multiplex se segmentových displejem
 - **slidy:** [PPTX](data/2019-20/cs/tf-cs-05-seg2.pptx)
-- **DÚ (do 21.4. 23:59):**
+- **DÚ (do 27.4. 23:59):**
   - úkoly č. 3, 5 viz slides
 
 ### 5. sudé cvičení (20.4.)
