@@ -113,7 +113,10 @@ order: 4
   - úkoly č. 3, 5 viz slides
 
 ### 6. liché cvičení (27.4.)
-- TBD
+- řetězce a práce s nimi
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-06-seg3.pptx)
+- **DÚ (do 10.5. 23:59):**
+  - úkoly č. 1, 3 viz slides
 
 ### 6. sudé cvičení (4.5.)
 - TBD
