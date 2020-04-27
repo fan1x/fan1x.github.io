@@ -102,19 +102,21 @@ order: 4
 
 ### 5. liché cvičení (13.4.)
 - časový multiplex se segmentových displejem
-- **slidy:** [PPTX](data/2019-20/cs/tf-cs-05-seg2.pptx)
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-05-seg2.pptx) [PDF](data/2019-20/cs/tf-cs-05-seg2.pdf)
+  - video: [zip](https://drive.google.com/open?id=1llVsqOpcswIbgliqfusb1XHTx93AFP6J)
 - **DÚ (do 27.4. 23:59):**
   - úkoly č. 3, 5 viz slides
 
 ### 5. sudé cvičení (20.4.)
 - časový multiplex se segmentových displejem
-- **slidy:** [PPTX](data/2019-20/cs/tf-cs-05-seg2.pptx)
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-05-seg2.pptx) [PDF](data/2019-20/cs/tf-cs-05-seg2.pdf)
+  - video: [zip](https://drive.google.com/open?id=1llVsqOpcswIbgliqfusb1XHTx93AFP6J)
 - **DÚ (do 3.5. 23:59):**
   - úkoly č. 3, 5 viz slides
 
 ### 6. liché cvičení (27.4.)
 - řetězce a práce s nimi
-- **slidy:** [PPTX](data/2019-20/cs/tf-cs-06-seg3.pptx)
+- **slidy:** [PPTX](data/2019-20/cs/tf-cs-06-seg3.pptx) [PDF](data/2019-20/cs/tf-cs-06-seg3.pdf)
 - **DÚ (do 10.5. 23:59):**
   - úkoly č. 1, 3 viz slides
 
