@@ -127,7 +127,15 @@ order: 4
   - úkoly č. 1, 3 viz slides
 
 ### 7. liché cvičení (11.5.)
-- TBD
+- **Závěrečný úkol:** [link](https://www.ksi.mff.cuni.cz/teaching/nswi170-web/#@tab_assignments)
+  - první odevzdání **do 31.8.** 
+  - do SISu + pošlete mi mail
+  - pokud nebudou splněny požadavky, dojde k vrácení úkolu s možností opětovného odevzdání
+  - požadavky:
+    - funkční
+	- čitelný, srozumitelný kód (kód by měl být ideálně čitelný i bez komentářů)
+	- kód je rozdělený do funkcí,polí,cyklů atp. (stejné výrazy/konstrukty by se neměli opakovat vícekrát; nedělat copy&paste)
+	- hezky pojmenováné funkce, proměnné, konstanty (objektový návrh, ...)
 
 ### 7. sudé cvičení (18.5.)
-- TBD
+- **Závěrečný úkol:** [link](https://www.ksi.mff.cuni.cz/teaching/nswi170-web/#@tab_assignments)
