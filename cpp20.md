@@ -6,10 +6,10 @@ order: 4
 ---
 
 ## Obecné
-- Přednáška [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
+- Přednáška: [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
 
 ### Gitlab
-- Odkaz: https://gitlab.mff.cuni.cz/
+- Odkaz: [link](https://gitlab.mff.cuni.cz/)
 - Přihlášení pomocí CAS (MFF login)
 - Poté dostanete přístup do repository: `teaching/nprg041/2020-21/faltin/XXXX`
 - Doporučení
@@ -32,7 +32,7 @@ order: 4
   - Microsoft Visual Studio
   - Clion
   - Visual Studio Code + překladač
-  ... 
+  - ... 
 
 ### 1. cvičení (30.9.)
 - TBD
