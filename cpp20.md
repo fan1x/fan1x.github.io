@@ -37,4 +37,4 @@ order: 4
   - ... 
 
 ### 1. cvičení (30.9.)
-- prezentace: [pptx](C:\Users\tfaltin\Projects\fan1x.github.io\data\2020-21\cpp\ex01_v1.pptx), [pdf](C:\Users\tfaltin\Projects\fan1x.github.io\data\2020-21\cpp\ex01_v1.pdf)
+- prezentace: [pptx](data/2020-21/cpp/ex01_v1.pptx), [pdf](data/2020-21/cpp/ex01_v1.pdf)
