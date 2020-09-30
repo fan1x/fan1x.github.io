@@ -19,12 +19,14 @@ order: 4
 ## Cvičení
 - Středa 15:40
 - Zoom:
-  - Meeting ID: [5810560116](https://cesnet.zoom.us/j/5810560116)
+  - Meeting ID: [3531346050](https://matfyz.zoom.us/j/3531346050)
   - Heslo na přihlášení je v modulu SISu Nástěnka
 
 - Slack
   - workspace:`parg-mff.slack.com`, channel:`#nprg041-cpp-faltin`
   - Odkaz na přihlášení je v modulu SISu Nástěnka
+  
+- Recodex: [link](https://recodex.mff.cuni.cz/)
   
 ### Před prvním cvičení
 - Nainstalovat + přihlásit se na Zoom, Slack
