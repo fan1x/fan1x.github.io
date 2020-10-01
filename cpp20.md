@@ -8,12 +8,9 @@ order: 4
 ## Obecné
 - Přednáška: [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
 
-### Gitlab
-
-
 ## Cvičení
 - Středa 15:40
-- Zoom:
+- Zoom
   - **Streamování cvičení**
   - Meeting ID: [3531346050](https://matfyz.zoom.us/j/3531346050)
   - Heslo na přihlášení je v modulu SISu Nástěnka
@@ -45,4 +42,4 @@ order: 4
 ### 1. cvičení (30.9.)
 - prezentace: [pptx](data/2020-21/cpp/ex01_v2.pptx), [pdf](data/2020-21/cpp/ex01_v2.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/9793e64e-8151-4627-88c4-03dd09671804)
-- **DÚ (deadline 5.10. 23:59): ** Úkoly 1-4 nahrát do svojí složky na Gitlabu
+- **DÚ (deadline 5.10. 23:59):** Úkoly 1-4 nahrát do svojí složky na Gitlabu
