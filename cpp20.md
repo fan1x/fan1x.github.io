@@ -46,3 +46,6 @@ order: 4
 
 ### 2. cvičení (7.10.)
 - prezentace: [pptx](data/2020-21/cpp/ex02_v1.pptx), [pdf](data/2020-21/cpp/ex02_v1.pdf)
+
+## Test
+![mr1](data/2020-21/cpp/mr1.png "MR1")
