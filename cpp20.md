@@ -12,7 +12,7 @@ order: 4
 - Středa 15:40
 - Zoom
   - **Streamování cvičení**
-  - Meeting ID: [581 056 0116](https://cuni-cz.zoom.us/j/5810560116)
+  - Meeting ID: [973 1735 5782](https://cuni-cz.zoom.us/j/97317355782)
   - Heslo na přihlášení je v modulu SISu Nástěnka
 - Slack
   - **Kanál cvičení s informacemi**
