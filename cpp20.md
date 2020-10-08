@@ -24,9 +24,7 @@ order: 4
   - **Odevzdávání ostatních úkolů a zápočťáku**
   - Přihlášení pomocí CAS (MFF login), např. `novakk` pro Karla Nováka
   - Poté dostanete přístup do repository: `teaching/nprg041/2020-21/faltin/XXXX`
-  - Doporučení
-    - Nainstalujte a vyzkoušejte si nějakého rozumného GIT klienta (např. TortoiseGit na Windows)
-    - Nahrávejte pouze zdrojové, konfigurační, projektové a datové soubory!  
+  - Práce s Gitlabem (viz dole)
 - MS Stream: [link](https://web.microsoftstream.com)
   - **Nahrávky přednášek a cvičení**
   - Přihlášení pomocí CAS čísla, např. `123456789@cuni.cz`
@@ -49,20 +47,34 @@ order: 4
 - nahrávka: [link](https://web.microsoftstream.com/video/a3a8de9a-d91f-4a05-a0f2-2484d63ea52a)
 - **DÚ (deadline 12.10. 23:59):** Matice pro čísla (nahrát do Gitlab + vytvořit merge request)
 
-## Jak na merge request 
+## Práce s Gitlabem
+- Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
+- Nahrávejte pouze zdrojové, konfigurační, projektové a datové soubory (soubory, z kterých jde program přeložit (zdrojáky) ve vašem IDE (konfigurační a projektové soubory) a otestovat (datové soubory)
+  - Ne: `*.obj`, `*.tmp`, `*.pdb`, ...
+  - Pokud nevíte, zkuste pogooglit: `gitignore ...`, např. `gitignore Visual Studio`
+
+### (Doporučený) Postup práce
+- `master` je hlavní branch (větev) ve vašem repository. Měla by obsahovat všechnu vaši ukončenou-výstavní práci. Když začínáte pracovat na novém projektu (úkolu), vytvořte si novou větev, do té ukládejte změny
+a když je vše odladěno, otestováno tak větev zamergeujte do `master` větve. Pokud je to pouze pro vás, můžete to udělat lokálně přes vašeho GIT klienta, pokud se chcete o své výsledky podělit s vyučujím/kamarády, 
+vytvořte merge request (viz níže). 
+
+### Jak na merge request 
 Preferovaný postup je verze 1, ale pokud už jste změny vložili do masteru, tak zvolte verzi 2
-### Verze 1: mám speciální branch s úkolem
+#### Verze 1: mám speciální branch s úkolem/projektem
 0. Mám branch (větev), kde mám uložené změny z úkolu (commit + push). Ty změny by měly být novější než v `master`u.
 1. Otevřu svojí repository v Gitlabu, vyberu větev, z které chci dělat merge request a stisknu tlačítko `Create merge request`
+
 ![mr1](data/2020-21/cpp/mr1.png "mr1")
-2. Zvolte rozumný název, jako `Assignee` zvolte mě, v záložkách `Commits`/`Changes` byste měli vidět změny, které se budou review-ovat. Pokud je vše v pořádku, zvolte `Submit merge request`.
+2. Zvolte rozumný název, jako `Assignee` zvolte člověka, který má kontrolovat merge request, v záložkách `Commits`/`Changes` byste měli vidět změny, které se budou kontrolovat. Pokud je vše v pořádku, zvolte `Submit merge request`.
+
 ![mr2](data/2020-21/cpp/mr2.png "mr2")
 3. Merge request je vytvořený. Až úkol zkontroluji, tak ho označím jako `Approved` a pak už s ním můžete dělat, jak uznáte za vhodné. Doporučený postup je `Merge` zmíněnou větev do masteru (automaticky si větev zamerguje, 
 pokud tam nejsou žádné konflikty) a zavřít merge request. 
+
 ![mr3](data/2020-21/cpp/mr3.png "mr3")
 
-### Verze 2: úkol mám v masteru
-0. Změny/úkol mám nahrané v `master`u
-TBD
+#### Verze 2: úkol mám v masteru (TBD)
+0. Změny/úkol mám nahrané v `master` větvi.
+1. Zhluboka dýchám, uklidním se, dojdu si pro teplý nápoj (kafe, čaj, ...) a kontaktuji svého cvičícího, aby vám poradil :) 
 
 
