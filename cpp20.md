@@ -48,4 +48,4 @@ order: 4
 - prezentace: [pptx](data/2020-21/cpp/ex02_v1.pptx), [pdf](data/2020-21/cpp/ex02_v1.pdf)
 
 ## Test
-![mr1](data/2020-21/cpp/mr1.png =100x100 "MR1")
+![mr1](data/2020-21/cpp/mr1.png =100x100)
