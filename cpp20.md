@@ -46,6 +46,10 @@ order: 4
 
 ### 2. cvičení (7.10.)
 - prezentace: [pptx](data/2020-21/cpp/ex02_v1.pptx), [pdf](data/2020-21/cpp/ex02_v1.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/a3a8de9a-d91f-4a05-a0f2-2484d63ea52a)
+- **DÚ (deadline 12.10. 23:59):** Matice pro čísla (nahrát do Gitlab + vytvořit merge request)
 
-## Test
-![mr1](data/2020-21/cpp/mr1.png =100x100)
+## Jak na merge request 
+![mr1](data/2020-21/cpp/mr1.png "mr1")
+![mr2](data/2020-21/cpp/mr2.png "mr2")
+![mr3](data/2020-21/cpp/mr3.png "mr3")
