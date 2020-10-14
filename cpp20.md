@@ -48,7 +48,8 @@ order: 4
 - **DÚ (deadline 12.10. 23:59):** Matice pro čísla (nahrát do Gitlab + vytvořit merge request)
 
 ### 3. cvičení (14.10.)
-- prezentace: [pptx](data/2020-21/cpp/ex03_v1.pptx), [pdf](data/2020-21/cpp/ex03_v1.pdf)
+- prezentace: [pptx](data/2020-21/cpp/ex03_v2.pptx), [pdf](data/2020-21/cpp/ex03_v2.pdf)
+- **DÚ (deadline 19.10. 23:59):** Úkoly 1-2 (třída C, třída pro komplexní čísla)
 
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
