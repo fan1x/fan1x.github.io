@@ -49,6 +49,7 @@ order: 4
 
 ### 3. cvičení (14.10.)
 - prezentace: [pptx](data/2020-21/cpp/ex03_v2.pptx), [pdf](data/2020-21/cpp/ex03_v2.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/9d7e6321-0e48-4f8d-8127-92849b0a58bc)
 - **DÚ (deadline 19.10. 23:59):** Úkoly 1-2 (třída C, třída pro komplexní čísla)
 
 ## Práce s Gitlabem
