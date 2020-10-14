@@ -47,6 +47,9 @@ order: 4
 - nahrávka: [link](https://web.microsoftstream.com/video/a3a8de9a-d91f-4a05-a0f2-2484d63ea52a)
 - **DÚ (deadline 12.10. 23:59):** Matice pro čísla (nahrát do Gitlab + vytvořit merge request)
 
+### 3. cvičení (14.10.)
+- prezentace: [pptx](data/2020-21/cpp/ex03_v1.pptx), [pdf](data/2020-21/cpp/ex03_v1.pdf)
+
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
 - Nahrávejte pouze zdrojové, konfigurační, projektové a datové soubory (soubory, z kterých jde program přeložit (zdrojáky) ve vašem IDE (konfigurační a projektové soubory) a otestovat (datové soubory)
@@ -60,6 +63,7 @@ vytvořte merge request (viz níže).
 
 ### Jak na merge request 
 Preferovaný postup je verze 1, ale pokud už jste změny vložili do masteru, tak zvolte verzi 2
+
 #### Verze 1: mám speciální branch s úkolem/projektem
 0. Mám branch (větev), kde mám uložené změny z úkolu (commit + push). Ty změny by měly být novější než v `master`u.
 1. Otevřu svojí repository v Gitlabu, vyberu větev, z které chci dělat merge request a stisknu tlačítko `Create merge request`
