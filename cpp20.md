@@ -52,6 +52,9 @@ order: 4
 - nahrávka: [link](https://web.microsoftstream.com/video/9d7e6321-0e48-4f8d-8127-92849b0a58bc)
 - **DÚ (deadline 19.10. 23:59):** Úkoly 1-2 (třída C, třída pro komplexní čísla)
 
+### 4. cvičení (21.10.)
+- prezentace: [pptx](data/2020-21/cpp/ex04_v1.pptx), [pdf](data/2020-21/cpp/ex04_v1.pdf)
+
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
 - Nahrávejte pouze zdrojové, konfigurační, projektové a datové soubory (soubory, z kterých jde program přeložit (zdrojáky) ve vašem IDE (konfigurační a projektové soubory) a otestovat (datové soubory)
