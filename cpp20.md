@@ -54,6 +54,8 @@ order: 4
 
 ### 4. cvičení (21.10.)
 - prezentace: [pptx](data/2020-21/cpp/ex04_v1.pptx), [pdf](data/2020-21/cpp/ex04_v1.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/f26699e5-67fe-4763-b720-ff4ea01f9e01)
+- **DÚ (deadline 26.10. 23:59):** Piškvorky pro 2 hráče
 
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
