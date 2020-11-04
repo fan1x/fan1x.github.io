@@ -57,6 +57,16 @@ order: 4
 - nahrávka: [link](https://web.microsoftstream.com/video/f26699e5-67fe-4763-b720-ff4ea01f9e01)
 - **DÚ (deadline 26.10. 23:59):** Piškvorky pro 2 hráče
 
+### 5. cvičení (28.10.)
+- **státní svátek: **Den vzniku samostatného československého státu
+
+### 5. cvičení (4.11.)
+- prezentace: [pptx](data/2020-21/cpp/ex05_v1.pptx), [pdf](data/2020-21/cpp/ex05_v1.pdf)
+- **DÚ (deadline 9.11. 23:59):** implementace `std::vector<int>` a základních funkcí pomocí dynamické alokace
+
+### 6. cvičení (11.11)
+- TBD
+
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
 - Nahrávejte pouze zdrojové, konfigurační, projektové a datové soubory (soubory, z kterých jde program přeložit (zdrojáky) ve vašem IDE (konfigurační a projektové soubory) a otestovat (datové soubory)
