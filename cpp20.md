@@ -61,7 +61,7 @@ order: 4
 - **státní svátek: **Den vzniku samostatného československého státu
 
 ### 5. cvičení (4.11.)
-- prezentace: [pptx](data/2020-21/cpp/ex05_v1.pptx), [pdf](data/2020-21/cpp/ex05_v1.pdf)
+- prezentace: [pptx](data/2020-21/cpp/ex05_v2.pptx), [pdf](data/2020-21/cpp/ex05_v2.pdf)
 - **DÚ (deadline 9.11. 23:59):** implementace `std::vector<int>` a základních funkcí pomocí dynamické alokace
 
 ### 6. cvičení (11.11)
