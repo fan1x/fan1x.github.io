@@ -62,6 +62,7 @@ order: 4
 
 ### 5. cvičení (4.11.)
 - prezentace: [pptx](data/2020-21/cpp/ex05_v2.pptx), [pdf](data/2020-21/cpp/ex05_v2.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/90ebd6f5-b9a9-4859-a81f-1ba39d5b2a3d)
 - **DÚ (deadline 9.11. 23:59):** implementace `std::vector<int>` a základních funkcí pomocí dynamické alokace
 
 ### 6. cvičení (11.11)
