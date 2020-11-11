@@ -66,7 +66,9 @@ order: 4
 - **DÚ (deadline 9.11. 23:59):** implementace `std::vector<int>` a základních funkcí pomocí dynamické alokace
 
 ### 6. cvičení (11.11)
-- TBD
+- prezentace: [pptx](data/2020-21/cpp/ex06_v1.pptx), [pdf](data/2020-21/cpp/ex06_v1.pdf)
+- nahrávka: TBD
+- cvičení: [ex06-matrix.cpp](data/2020-21/cpp/ex06-matrix.cpp)
 
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
