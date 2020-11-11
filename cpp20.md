@@ -68,8 +68,7 @@ order: 4
 ### 6. cvičení (11.11)
 - prezentace: [pptx](data/2020-21/cpp/ex06_v2.pptx), [pdf](data/2020-21/cpp/ex06_v2.pdf)
 - nahrávka: TBD
-- cvičení:
-  - Hledání chyb: [zadání](data/2020-21/cpp/ex06-matrix.cpp) [řešení](data/2020-21/cpp/ex06-matrix_solution.cpp)
+- cvičení: Hledání chyb - [zadání](data/2020-21/cpp/ex06-matrix.cpp) - [řešení](data/2020-21/cpp/ex06-matrix_solution.cpp)
 - **DÚ (volitelně):** databáze lidí
 
 ## Práce s Gitlabem
