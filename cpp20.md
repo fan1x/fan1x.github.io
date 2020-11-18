@@ -20,6 +20,7 @@ order: 4
   - Odkaz na přihlášení je v modulu SISu Nástěnka
 - Recodex: [link](https://recodex.mff.cuni.cz/)
   - **Zadání a odevzdání 2 velkých úkolů**
+    - 1. domácí úkol - **deadline 20.12. 23:59**
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
   - **Odevzdávání ostatních úkolů a zápočťáku**
   - Přihlášení pomocí CAS (MFF login), např. `novakk` pro Karla Nováka
@@ -28,7 +29,7 @@ order: 4
 - MS Stream: [link](https://web.microsoftstream.com)
   - **Nahrávky přednášek a cvičení**
   - Přihlášení pomocí CAS čísla, např. `123456789@cuni.cz`
-  
+
 ### Před prvním cvičení
 - Nainstalovat + přihlásit se na Zoom, Slack
 - Nainstalovat/připravit si nějaké vývojové prostředí
@@ -72,7 +73,11 @@ order: 4
 - **DÚ (volitelně):** databáze lidí
 
 ### 7. cvičení (18.11)
-- prezentace: [pptx](data/2020-21/cpp/ex07_v1.pptx), [pdf](data/2020-21/cpp/ex07_v1.pdf)
+- prezentace: [pptx](data/2020-21/cpp/ex07_v2.pptx), [pdf](data/2020-21/cpp/ex07_v2.pdf)
+- nahrávka: TBD
+- cvičení: zadání 1. domácího úkolu, dědičnost
+- **DÚ (deadline 23.11. 23:59):**: Polymorfní vector
+- **1. VELKÝ DÚ (deadline 20.12. 23:59):**: Agregátor dat (v Recodexu)
 
 
 ## Práce s Gitlabem
@@ -104,6 +109,8 @@ pokud tam nejsou žádné konflikty) a zavřít merge request.
 
 #### Verze 2: úkol mám v masteru (TBD)
 0. Změny/úkol mám nahrané v `master` větvi.
-1. Zhluboka dýchám, uklidním se, dojdu si pro teplý nápoj (kafe, čaj, ...) a kontaktuji svého cvičícího, aby vám poradil :) 
+1. Vytvořím `tag` na daném commitu.
+2. Vytvořím novou větev z daného tagu
+3. Vytvořím merge request z `master` větve do nově vytvořené větve (obrácené než v prvním případě)
 
 
