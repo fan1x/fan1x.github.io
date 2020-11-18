@@ -71,6 +71,10 @@ order: 4
 - cvičení: Hledání chyb - [zadání](data/2020-21/cpp/ex06-matrix.cpp)/[řešení](data/2020-21/cpp/ex06-matrix_solution.cpp)
 - **DÚ (volitelně):** databáze lidí
 
+### 7. cvičení (18.11)
+- prezentace: [pptx](data/2020-21/cpp/ex07_v1.pptx), [pdf](data/2020-21/cpp/ex07_v1.pdf)
+
+
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
 - Nahrávejte pouze zdrojové, konfigurační, projektové a datové soubory (soubory, z kterých jde program přeložit (zdrojáky) ve vašem IDE (konfigurační a projektové soubory) a otestovat (datové soubory)
