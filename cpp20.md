@@ -73,7 +73,7 @@ order: 4
 - **DÚ (volitelně):** databáze lidí
 
 ### 7. cvičení (18.11)
-- prezentace: [pptx](data/2020-21/cpp/ex07_v2.pptx), [pdf](data/2020-21/cpp/ex07_v2.pdf)
+- prezentace: [pptx](data/2020-21/cpp/ex07_v3.pptx), [pdf](data/2020-21/cpp/ex07_v3.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/1e4dbb4f-494d-47ef-9061-04cf03441bc6)
 - cvičení: zadání 1. domácího úkolu, dědičnost
 - **DÚ (deadline 23.11. 23:59):**: Polymorfní vector
