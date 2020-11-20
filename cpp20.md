@@ -85,9 +85,9 @@ order: 4
 ### Obecné
 1. zapněte si zobrazování všech warnings a odstraňte je
 2. konstanty
-- v kódu by se neměly jen tak vyskytovat konstanty/literály 
+- v kódu by se neměly jen tak vyskytovat konstanty/literály
 ```
-:( Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
+Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
 for (int i = 0; i < 12; ++i) { ... }
 
 :) 
