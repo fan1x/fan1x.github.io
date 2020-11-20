@@ -83,8 +83,8 @@ order: 4
 - Často opakované chyby a doporučené postupy, na které se dá ve **většině** případů spolehnout
 
 ### Obecné
-1. zapněte si zobrazování všech warnings a odstraňte je
-2. konstanty
+#### zapněte si zobrazování všech warnings a odstraňte je
+#### konstanty
 - v kódu by se neměly jen tak vyskytovat konstanty/literály
 
 ```
@@ -102,7 +102,7 @@ for (int i = 0; i < array.size(); ++i) { ... }
 for (auto &&element : array) { ... }
 ```
 
-3. špatná jména proměnných/funkcí/tříd: `x`, `tmp`, `i`
+#### špatná jména proměnných/funkcí/tříd: `x`, `tmp`, `i`
 
 ```
 :(
@@ -121,7 +121,7 @@ for (int width_idx = 0; width_idx < matrix.width(); ++width_idx) {
 ```
 
 ### Specifická pro C++ 
-1. funkce, která pouze čte (ale nemění obsah), by měla být `const`
+#### funkce, která pouze čte (ale nemění obsah), by měla být `const`
 
 ```
 :(
@@ -141,7 +141,7 @@ public:
 };
 ```
 
-2. Používat pro inicializaci "member initializer list"
+#### Používat pro inicializaci "member initializer list"
 - https://en.cppreference.com/w/cpp/language/constructor
 
 ```
@@ -160,7 +160,7 @@ public:
 };
 ```
 
-3. Nepředávat velké objekty hodnotou, ale referencí
+#### Nepředávat velké objekty hodnotou, ale referencí
 
 ```
 :(
