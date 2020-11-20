@@ -86,7 +86,7 @@ order: 4
 1. zapněte si zobrazování všech warnings a odstraňte je
 2. konstanty
 - v kódu by se neměly jen tak vyskytovat konstanty/literály 
-`
+```
 :( Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
 for (int i = 0; i < 12; ++i) { ... }
 
@@ -99,10 +99,10 @@ for (int i = 0; i < array.size(); ++i) { ... }
 
 :))) "range-based" iteraci, pokud to jde
 for (auto &&element : array) { ... }
-`
+```
 
 3. špatná jména proměnných/funkcí/tříd: `x`, `tmp`, `i`
-`
+```
 :(
 for (int i = 0; i < matrix.width(); ++i) {
   for (int j = 0; j < matrix.height(); ++j) {
@@ -116,11 +116,11 @@ for (int width_idx = 0; width_idx < matrix.width(); ++width_idx) {
     ...
   }
 }
-`
+```
 
 ### Specifická pro C++ 
 1. funkce, která pouze čte (ale nemění obsah), by měla být `const`
-`
+```
 :(
 class Complex {
   double real_part, imaginary_part;
@@ -136,11 +136,11 @@ public:
   void print() const { std::cout << '[' << real_part << ',' << imaginary_part << ']'; }
   double real() const { return real_part; }
 };
-`
+```
 
 2. Používat pro inicializaci "member initializer list"
 - https://en.cppreference.com/w/cpp/language/constructor
-`
+```
 :(
 class Complex {
   double real_part, imaginary_part;
@@ -154,16 +154,16 @@ class Complex {
 public:
   Complex(real re, imaginary_part im) :real_part{re}, imaginary_part{im} {}
 };
-`
+```
 
 3. Nepředávat velké objekty hodnotou, ale referencí
-`
+```
 :(
 bool all_same(Complex number1, Complex number2, Complex number3);
 
 :)
 bool all_same(const Complex &number1, const Complex &number2, const Complex &number3);
-`
+```
 
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
