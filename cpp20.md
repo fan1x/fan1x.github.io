@@ -86,8 +86,9 @@ order: 4
 1. zapněte si zobrazování všech warnings a odstraňte je
 2. konstanty
 - v kódu by se neměly jen tak vyskytovat konstanty/literály
+
 ```
-Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
+:( Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
 for (int i = 0; i < 12; ++i) { ... }
 
 :) 
@@ -102,6 +103,7 @@ for (auto &&element : array) { ... }
 ```
 
 3. špatná jména proměnných/funkcí/tříd: `x`, `tmp`, `i`
+
 ```
 :(
 for (int i = 0; i < matrix.width(); ++i) {
@@ -120,6 +122,7 @@ for (int width_idx = 0; width_idx < matrix.width(); ++width_idx) {
 
 ### Specifická pro C++ 
 1. funkce, která pouze čte (ale nemění obsah), by měla být `const`
+
 ```
 :(
 class Complex {
@@ -140,6 +143,7 @@ public:
 
 2. Používat pro inicializaci "member initializer list"
 - https://en.cppreference.com/w/cpp/language/constructor
+
 ```
 :(
 class Complex {
@@ -157,6 +161,7 @@ public:
 ```
 
 3. Nepředávat velké objekty hodnotou, ale referencí
+
 ```
 :(
 bool all_same(Complex number1, Complex number2, Complex number3);
