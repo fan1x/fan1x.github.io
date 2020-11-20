@@ -79,6 +79,30 @@ order: 4
 - **DÚ (deadline 23.11. 23:59):**: Polymorfní vector
 - **1. VELKÝ DÚ (deadline 20.12. 23:59):**: Agregátor dat (v Recodexu)
 
+## Často opakované chyby/doporučené postupy
+### Obecné
+#### Čitelnost
+1. konstanty
+- v kódu by se neměly jen tak vyskytovat konstanty/literály 
+```
+// Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
+for (int i = 0; i < 12; ++i) { ... }
+// --> 
+const int ARRAY_LENGTH = 12;
+for (int i = 0; i < ARRAY_LENGTH; ++i) { ... }
+// --> 
+for (int i = 0; i < array.size(); ++i) { ... }
+// --> "range-based" iteraci, pokud to jde
+for (auto &&element : array) { ... }
+```
+2. špatná jména proměnných/funkcí/tříd: `x`, `tmp`, `i`
+
+
+### Specifická pro C++ 
+1. funkce, která pouze čte (ale nemění obsah), by měla být `const`
+```
+class 
+```
 
 ## Práce s Gitlabem
 - Stahněte si nějakého roumného GIT klienta (např. TortoiseGit na Windows). Samozřejmě je možné ovládat GIT i z příkazové řádky. 
