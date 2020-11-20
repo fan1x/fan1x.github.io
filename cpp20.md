@@ -83,35 +83,36 @@ order: 4
 - Často opakované chyby a doporučené postupy, na které se dá ve **většině** případů spolehnout
 
 ### Obecné
-1. konstanty
+1. zapněte si zobrazování všech warnings a odstraňte je
+2. konstanty
 - v kódu by se neměly jen tak vyskytovat konstanty/literály 
 ```
-// :( Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
+:( Co je 12? Proč zrovna 12 a ne 13? Není zřejmé bez toho, aniž by člověk četl tělo cyklu
 for (int i = 0; i < 12; ++i) { ... }
 
-// :) 
+:) 
 const int ARRAY_LENGTH = 12;
 for (int i = 0; i < ARRAY_LENGTH; ++i) { ... }
 
-// :)) 
+:)) 
 for (int i = 0; i < array.size(); ++i) { ... }
 
-// :))) "range-based" iteraci, pokud to jde
+:))) "range-based" iteraci, pokud to jde
 for (auto &&element : array) { ... }
 ```
-2. špatná jména proměnných/funkcí/tříd: `x`, `tmp`, `i`
+3. špatná jména proměnných/funkcí/tříd: `x`, `tmp`, `i`
 ```
-// :(
+:(
 for (int i = 0; i < matrix.width(); ++i) {
   for (int j = 0; j < matrix.height(); ++j) {
-    // ...
+    ...
   }
 }
 
-// :)
+:)
 for (int width_idx = 0; width_idx < matrix.width(); ++width_idx) {
   for (int height_idx = 0; height_idx < matrix.height(); ++height_idx) {
-    // ...
+    ...
   }
 }
 ```
@@ -119,7 +120,7 @@ for (int width_idx = 0; width_idx < matrix.width(); ++width_idx) {
 ### Specifická pro C++ 
 1. funkce, která pouze čte (ale nemění obsah), by měla být `const`
 ```
-// :(
+:(
 class Complex {
   double real_part, imaginary_part;
 public:
@@ -127,7 +128,7 @@ public:
   double real() { return real_part; }
 };
 
-// :)
+:)
 class Complex {
   double real_part, imaginary_part;
 public:
@@ -138,14 +139,14 @@ public:
 2. Používat pro inicializaci "member initializer list"
 - https://en.cppreference.com/w/cpp/language/constructor
 ```
-// :(
+:(
 class Complex {
   double real_part, imaginary_part;
 public:
   Complex(real re, imaginary_part im) { real_part = re; imaginary_part = im; }
 };
 
-// :)
+:)
 class Complex {
   double real_part, imaginary_part;
 public:
@@ -154,10 +155,10 @@ public:
 ```
 3. Nepředávat velké objekty hodnotou, ale referencí
 ```
-// :(
+:(
 bool all_same(Complex number1, Complex number2, Complex number3);
 
-// :)
+:)
 bool all_same(const Complex &number1, const Complex &number2, const Complex &number3);
 ```
 
