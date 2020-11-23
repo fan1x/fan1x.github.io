@@ -6,6 +6,7 @@ order: 4
 ---
 
 ## Obecné
+- email: `faltin@ksi.mff.cuni.cz`
 - Přednáška: [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
 
 ## Cvičení
