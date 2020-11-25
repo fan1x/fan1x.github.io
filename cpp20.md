@@ -80,10 +80,11 @@ order: 4
 - **DÚ (deadline 23.11. 23:59):**: Polymorfní vector
 - **1. VELKÝ DÚ (deadline 20.12. 23:59):**: Agregátor dat (v Recodexu)
 
-### 7. cvičení (18.11)
+### 8. cvičení (25.11)
 - prezentace: [pptx](data/2020-21/cpp/ex08_v1.pptx), [pdf](data/2020-21/cpp/ex08_v1.pdf)
 - nahrávka: TBD
-- cvičení: TBD
+- cvičení: zkušenosti z úkolů, databáze zvířat (<algoritm>, containers)
+- **DÚ (deadline 30.11. 23:59):**: Databáze zvířat - stačí odevzdat za dvojici (pokud chcete), stačí označit v MR, kdo byl váš kolega/kolegyně
 
 ## Často opakované chyby/doporučené postupy
 - Často opakované chyby a doporučené postupy, na které se dá ve **většině** případů spolehnout
