@@ -59,32 +59,38 @@ order: 4
 - nahrávka: [link](https://web.microsoftstream.com/video/f26699e5-67fe-4763-b720-ff4ea01f9e01)
 - **DÚ (deadline 26.10. 23:59):** Piškvorky pro 2 hráče
 
-### 5. cvičení (28.10.)
-- **státní svátek: **Den vzniku samostatného československého státu
+### 28.10. - Den vzniku samostatného československého státu (státní svátek)
 
-### 5. cvičení (4.11.)
+### 4.11. - 5. cvičení
 - prezentace: [pptx](data/2020-21/cpp/ex05_v2.pptx), [pdf](data/2020-21/cpp/ex05_v2.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/90ebd6f5-b9a9-4859-a81f-1ba39d5b2a3d)
 - **DÚ (deadline 9.11. 23:59):** implementace `std::vector<int>` a základních funkcí pomocí dynamické alokace
 
-### 6. cvičení (11.11)
+### 6. cvičení (11.11.)
 - prezentace: [pptx](data/2020-21/cpp/ex06_v2.pptx), [pdf](data/2020-21/cpp/ex06_v2.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/64160046-4792-4a36-a7a7-ecc81c6a9800)
 - cvičení: Hledání chyb - [zadání](data/2020-21/cpp/ex06-matrix.cpp)/[řešení](data/2020-21/cpp/ex06-matrix_solution.cpp)
 - **DÚ (volitelně):** databáze lidí
 
-### 7. cvičení (18.11)
+### 7. cvičení (18.11.)
 - prezentace: [pptx](data/2020-21/cpp/ex07_v3.pptx), [pdf](data/2020-21/cpp/ex07_v3.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/1e4dbb4f-494d-47ef-9061-04cf03441bc6)
 - cvičení: zadání 1. domácího úkolu, dědičnost
 - **DÚ (deadline 23.11. 23:59):**: Polymorfní vector
 - **1. VELKÝ DÚ (deadline 20.12. 23:59):**: Agregátor dat (v Recodexu)
 
-### 8. cvičení (25.11)
-- prezentace: [pptx](data/2020-21/cpp/ex08_v1.pptx), [pdf](data/2020-21/cpp/ex08_v1.pdf)
-- nahrávka: TBD
+### 25.11. - 8. cvičení
+- prezentace: [pptx](data/2020-21/cpp/ex08_v2.pptx), [pdf](data/2020-21/cpp/ex08_v2.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/dfa6a294-8d94-4a11-8021-b3844424b604)
 - cvičení: zkušenosti z úkolů, databáze zvířat (<algoritm>, containers)
-- **DÚ (deadline 30.11. 23:59):**: Databáze zvířat - stačí odevzdat za dvojici (pokud chcete), stačí označit v MR, kdo byl váš kolega/kolegyně
+- **DÚ (deadline 30.11. 23:59):**: Databáze zvířat - stačí odevzdat za dvojici (pokud chcete), označte v MR svého kolegu/kolegyni
+
+### 2.12. - 9. cvičení
+### 9.12. - 10. cvičení
+### 16.12. - 11. cvičení
+### 23.12. - Vánoční prázdniny
+### 30.12. - Vánoční prázdniny
+### 6.1. - 12. cvičení (poslední)
 
 ## Často opakované chyby/doporučené postupy
 - Často opakované chyby a doporučené postupy, na které se dá ve **většině** případů spolehnout
