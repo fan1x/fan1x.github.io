@@ -76,16 +76,20 @@ order: 4
 - prezentace: [pptx](data/2020-21/cpp/ex07_v3.pptx), [pdf](data/2020-21/cpp/ex07_v3.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/1e4dbb4f-494d-47ef-9061-04cf03441bc6)
 - cvičení: zadání 1. domácího úkolu, dědičnost
-- **DÚ (deadline 23.11. 23:59):**: Polymorfní vector
-- **1. VELKÝ DÚ (deadline 20.12. 23:59):**: Agregátor dat (v Recodexu)
+- **DÚ (deadline 23.11. 23:59):** Polymorfní vector
+- **1. VELKÝ DÚ (deadline 20.12. 23:59):** Agregátor dat (v Recodexu)
 
 ### 25.11. - 8. cvičení
-- prezentace: [pptx](data/2020-21/cpp/ex08_v2.pptx), [pdf](data/2020-21/cpp/ex08_v2.pdf)
+- prezentace: [pptx](data/2020-21/cpp/ex08_v3.pptx), [pdf](data/2020-21/cpp/ex08_v3.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/dfa6a294-8d94-4a11-8021-b3844424b604)
 - cvičení: zkušenosti z úkolů, databáze zvířat (<algoritm>, containers)
-- **DÚ (deadline 30.11. 23:59):**: Databáze zvířat - stačí odevzdat za dvojici (pokud chcete), označte v MR svého kolegu/kolegyni
+- **DÚ (deadline 30.11. 23:59):** Databáze zvířat - stačí odevzdat za dvojici (pokud chcete), označte v MR svého kolegu/kolegyni
 
 ### 2.12. - 9. cvičení
+- prezentace: [pptx](data/2020-21/cpp/ex09_v1.pptx), [pdf](data/2020-21/cpp/ex09_v1.pdf)
+- cvičení: zadání 2. domácího úkolu, TBD
+- **2. VELKÝ DÚ (deadline 3.1. 23:59):** 
+
 ### 9.12. - 10. cvičení
 ### 16.12. - 11. cvičení
 ### 23.12. - Vánoční prázdniny
