@@ -82,7 +82,7 @@ order: 4
 ### 25.11. - 8. cvičení
 - prezentace: [pptx](data/2020-21/cpp/ex08_v3.pptx), [pdf](data/2020-21/cpp/ex08_v3.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/dfa6a294-8d94-4a11-8021-b3844424b604)
-- cvičení: zkušenosti z úkolů, databáze zvířat (<algoritm>, containers)
+- cvičení: zkušenosti z úkolů, databáze zvířat (algoritmy, kontajnery)
 - **DÚ (deadline 30.11. 23:59):** Databáze zvířat - stačí odevzdat za dvojici (pokud chcete), označte v MR svého kolegu/kolegyni
 
 ### 2.12. - 9. cvičení
