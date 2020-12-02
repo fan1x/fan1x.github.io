@@ -86,9 +86,10 @@ order: 4
 - **DÚ (deadline 30.11. 23:59):** Databáze zvířat - stačí odevzdat za dvojici (pokud chcete), označte v MR svého kolegu/kolegyni
 
 ### 2.12. - 9. cvičení
-- prezentace: [pptx](data/2020-21/cpp/ex09_v1.pptx), [pdf](data/2020-21/cpp/ex09_v1.pdf)
-- cvičení: zadání 2. domácího úkolu, TBD
-- **2. VELKÝ DÚ (deadline 3.1. 23:59):** 
+- prezentace: [pptx](data/2020-21/cpp/ex09_v2.pptx), [pdf](data/2020-21/cpp/ex09_v2.pdf)
+- cvičení: zadání 2. domácího úkolu, základ šablony
+- **DÚ (deadline 7.12. 23:59):** Generický vector (můžete použít starou implementaci `vector_int`), vlastní `std::pair<T1, T2>`
+- **2. VELKÝ DÚ (deadline 3.1. 23:59):** Kalkulačka výrazů (v Recodexu)
 
 ### 9.12. - 10. cvičení
 ### 16.12. - 11. cvičení
