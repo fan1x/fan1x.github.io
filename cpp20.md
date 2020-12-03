@@ -87,6 +87,7 @@ order: 4
 
 ### 2.12. - 9. cvičení
 - prezentace: [pptx](data/2020-21/cpp/ex09_v2.pptx), [pdf](data/2020-21/cpp/ex09_v2.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/96c609a1-7709-491d-a6aa-26a9ce9f0470)
 - cvičení: zadání 2. domácího úkolu, základ šablony
 - **DÚ (deadline 7.12. 23:59):** Generický vector (můžete použít starou implementaci `vector_int`), vlastní `std::pair<T1, T2>`
 - **2. VELKÝ DÚ (deadline 3.1. 23:59):** Kalkulačka výrazů (v Recodexu)
