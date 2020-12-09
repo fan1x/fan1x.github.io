@@ -93,6 +93,9 @@ order: 4
 - **2. VELKÝ DÚ (deadline 3.1. 23:59):** Kalkulačka výrazů (v Recodexu)
 
 ### 9.12. - 10. cvičení
+- prezentace: [pptx](data/2020-21/cpp/ex10_v1.pptx), [pdf](data/2020-21/cpp/ex10_v1.pdf)
+
+
 ### 16.12. - 11. cvičení
 ### 23.12. - Vánoční prázdniny
 ### 30.12. - Vánoční prázdniny
