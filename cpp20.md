@@ -94,6 +94,9 @@ order: 4
 
 ### 9.12. - 10. cvičení
 - prezentace: [pptx](data/2020-21/cpp/ex10_v1.pptx), [pdf](data/2020-21/cpp/ex10_v1.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/2d97f7de-947d-4cb4-b0b5-31e052a34e1f)
+- cvičení: práce se šablonami a `std::variant`
+- **DÚ (deadline 14.12. 23:59):** Databáze zvířat - nahrazení dědičnosti pomocí `std::variant` + šablonami
 
 
 ### 16.12. - 11. cvičení
