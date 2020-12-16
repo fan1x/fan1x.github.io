@@ -100,6 +100,10 @@ order: 4
 
 
 ### 16.12. - 11. cvičení
+- prezentace: [pptx](data/2020-21/cpp/ex11_v1.pptx), [pdf](data/2020-21/cpp/ex11_v1.pdf)
+- cvičení: práce na velkých úkolech do Recodexu, konzultace úkolů 1v1
+- **DÚ:** nic :)
+
 ### 23.12. - Vánoční prázdniny
 ### 30.12. - Vánoční prázdniny
 ### 6.1. - 12. cvičení (poslední)
