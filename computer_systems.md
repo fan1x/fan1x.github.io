@@ -3,7 +3,7 @@ title: Počítačové systémy
 layout: "page"
 icon: fa-microchip
 order: 4
-hide: true
+hide: false
 ---
 
 ## Obecné
