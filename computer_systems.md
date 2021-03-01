@@ -32,6 +32,7 @@ hide: false
 
 ### 1. liché cvičení (1.3.)
 - úvod do C
+- prezentace: [pptx](data/2020-21/cs/tf-cs-01-C.pptx), [pdf](data/2020-21/cpp/tf-cs-01-C.pdf)
 
 ### 1. sudé cvičení (8.3.)
 - úvod do C
