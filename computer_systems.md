@@ -33,6 +33,9 @@ hide: false
 ### 1. liché cvičení (1.3.)
 - úvod do C
 - prezentace: [pptx](data/2020-21/cs/tf-cs-01-C.pptx), [pdf](data/2020-21/cs/tf-cs-01-C.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/160ff081-e4ef-4280-a351-95af31f49d83)
+- **DÚ (deadline úterý 9.3. 5:59):** Ceplomeris (v Recodexu)
+
 
 ### 1. sudé cvičení (8.3.)
 - úvod do C
