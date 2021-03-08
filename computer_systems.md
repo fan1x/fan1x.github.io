@@ -39,3 +39,6 @@ hide: false
 
 ### 1. sudé cvičení (8.3.)
 - úvod do C
+- prezentace: [pptx](data/2020-21/cs/tf-cs-01b-C.pptx), [pdf](data/2020-21/cs/tf-cs-01b-C.pdf)
+
+
