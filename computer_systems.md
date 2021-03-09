@@ -36,9 +36,9 @@ hide: false
 - nahrávka: [link](https://web.microsoftstream.com/video/160ff081-e4ef-4280-a351-95af31f49d83)
 - **DÚ (deadline úterý 9.3. 5:59):** Ceplomeris (v Recodexu)
 
-
 ### 1. sudé cvičení (8.3.)
 - úvod do C
 - prezentace: [pptx](data/2020-21/cs/tf-cs-01b-C.pptx), [pdf](data/2020-21/cs/tf-cs-01b-C.pdf)
-
+- nahrávka: [link](https://web.microsoftstream.com/video/f138ef3b-8c52-4a8f-85df-140c02e08cbd)
+- **DÚ (deadline úterý 16.3. 5:59):** Ceplomeris (v Recodexu)
 
