@@ -45,3 +45,4 @@ hide: false
 ### 2. liché cvičení (15.3.)
 - první kroky s Arduinem
 - prezentace: [pptx](data/2020-21/cs/tf-cs-02.pptx), [pdf](data/2020-21/cs/tf-cs-02.pdf)
+  - Funshield.zip: [link](https://www.ksi.mff.cuni.cz/teaching/nswi170-web/download/Funshield.zip)
