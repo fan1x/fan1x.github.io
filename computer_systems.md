@@ -42,3 +42,6 @@ hide: false
 - nahrávka: [link](https://web.microsoftstream.com/video/f138ef3b-8c52-4a8f-85df-140c02e08cbd)
 - **DÚ (deadline úterý 16.3. 5:59):** Ceplomeris (v Recodexu)
 
+### 2. liché cvičení (15.3.)
+- první kroky s Arduinem
+- prezentace: [pptx](data/2020-21/cs/tf-cs-02.pptx), [pdf](data/2020-21/cs/tf-cs-02.pdf)
