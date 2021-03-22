@@ -48,3 +48,8 @@ hide: false
   - Funshield.zip: [link](https://www.ksi.mff.cuni.cz/teaching/nswi170-web/download/Funshield.zip)
 - nahrávka: [link](https://web.microsoftstream.com/video/43108460-ae51-467d-9e11-1f9b85254d6f)
 - **DÚ (deadline úterý 23.3. 5:59):** LEDky v Arduinu (v Recodexu)
+
+### 2. sudé cvičení (22.3.)
+- první kroky s Arduinem
+- prezentace: [pptx](data/2020-21/cs/tf-cs-02.pptx), [pdf](data/2020-21/cs/tf-cs-02.pdf)
+  - Funshield.zip: [link](https://www.ksi.mff.cuni.cz/teaching/nswi170-web/download/Funshield.zip)
