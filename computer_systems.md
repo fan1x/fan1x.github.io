@@ -53,3 +53,5 @@ hide: false
 - první kroky s Arduinem
 - prezentace: [pptx](data/2020-21/cs/tf-cs-02.pptx), [pdf](data/2020-21/cs/tf-cs-02.pdf)
   - Funshield.zip: [link](https://www.ksi.mff.cuni.cz/teaching/nswi170-web/download/Funshield.zip)
+- nahrávka: [link](https://web.microsoftstream.com/video/2305415d-3558-4bcd-bd36-12669d7d1f64)
+- **DÚ (deadline úterý 30.3. 5:59):** LEDky v Arduinu (v Recodexu)
