@@ -58,3 +58,5 @@ hide: false
 
 ### 3. liché cvičení (29.3.)
 - prezentace: [pptx](data/2020-21/cs/tf-cs-03a.pptx), [pdf](data/2020-21/cs/tf-cs-03a.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/119a3932-c008-49c0-b7dd-7a8441cf8353)
+- **DÚ (deadline úterý 7.4. 5:59):** Tlačítka na Arduinu (v Recodexu)
