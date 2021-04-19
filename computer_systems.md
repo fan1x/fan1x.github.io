@@ -70,5 +70,6 @@ hide: false
 - **DÚ (deadline čtvrtek 21.4. 5:59):** Displej na Arduinu (v Recodexu)
 
 ### 19.4. - 3. sudé cvičení
+- prezentace: [pptx](data/2020-21/cs/tf-cs-03a.pptx), [pdf](data/2020-21/cs/tf-cs-03a.pdf)
 
 ### 26.4. - 5. liché cvičení
