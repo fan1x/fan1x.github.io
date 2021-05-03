@@ -72,12 +72,13 @@ hide: false
 ### 19.4. - 3. sudé cvičení
 - prezentace: [pptx](data/2020-21/cs/tf-cs-03a.pptx), [pdf](data/2020-21/cs/tf-cs-03a.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/4f22cf3e-be55-4df6-94fa-0a504c04a086)
-- **DÚ (deadline úterý 11.5. 5:59):** Displej na Arduinu (v Recodexu)
+- **DÚ (deadline úterý 11.5. 5:59):** Tlačítka na Arduinu (v Recodexu)
 
 ### 26.4. - 5. liché cvičení
 - prezentace: [pptx](data/2020-21/cs/tf-cs-05a.pptx), [pdf](data/2020-21/cs/tf-cs-05a.pdf)
 
 ### 3.5. - 4. sudé cvičení
+- prezentace: [pptx](data/2020-21/cs/tf-cs-04b.pptx), [pdf](data/2020-21/cs/tf-cs-04b.pdf)
 
 ### 10.5. - 6. liché cvičení
 
