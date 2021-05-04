@@ -72,17 +72,28 @@ hide: false
 ### 19.4. - 3. sudé cvičení
 - prezentace: [pptx](data/2020-21/cs/tf-cs-03a.pptx), [pdf](data/2020-21/cs/tf-cs-03a.pdf)
 - nahrávka: [link](https://web.microsoftstream.com/video/4f22cf3e-be55-4df6-94fa-0a504c04a086)
-- **DÚ (deadline úterý 11.5. 5:59):** Tlačítka na Arduinu (v Recodexu)
+- **DÚ (deadline úterý 11.5. 5:59):** Displej na Arduinu (v Recodexu)
 
 ### 26.4. - 5. liché cvičení
 - prezentace: [pptx](data/2020-21/cs/tf-cs-05a.pptx), [pdf](data/2020-21/cs/tf-cs-05a.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/4d5fc8e7-e1fa-4df4-bd78-957dd21ef2af)
+- **DÚ (deadline úterý 4.5. 5:59):** Arduino stopky (v Recodexu)
 
 ### 3.5. - 4. sudé cvičení
 - prezentace: [pptx](data/2020-21/cs/tf-cs-04b.pptx), [pdf](data/2020-21/cs/tf-cs-04b.pdf)
+- nahrávka: [link](https://web.microsoftstream.com/video/f50ce08a-93de-4650-ac84-f82f5e4a2a36)
+- **4. DÚ (deadline úterý 11.5. 5:59):** Displej na Arduinu (v Recodexu)
+- **5. DÚ (deadline úterý 25.5. 5:59):** Arduino stopky (v Recodexu)
 
 ### 10.5. - 6. liché cvičení
+- prezentace: 
+- nahrávka: 
+- **6. DÚ (deadline úterý 18.5. 5:59):** 
 
 ### 17.5. - 5. sudé cvičení
+- prezentace: 
+- nahrávka: 
+- **5. DÚ (deadline úterý 25.5. 5:59):** Arduino stopky (v Recodexu)
 
 ### 24.5. - 7.liché cvičení
 
