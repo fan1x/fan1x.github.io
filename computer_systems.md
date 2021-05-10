@@ -86,7 +86,7 @@ hide: false
 - **5. DÚ (deadline úterý 25.5. 5:59):** Arduino stopky (v Recodexu)
 
 ### 10.5. - 6. liché cvičení
-- prezentace: 
+- prezentace: [pptx](data/2020-21/cs/tf-cs-06a.pptx), [pdf](data/2020-21/cs/tf-cs-06a.pdf)
 - nahrávka: 
 - **6. DÚ (deadline úterý 18.5. 5:59):** 
 
@@ -95,6 +95,6 @@ hide: false
 - nahrávka: 
 - **5. DÚ (deadline úterý 25.5. 5:59):** Arduino stopky (v Recodexu)
 
-### 24.5. - 7.liché cvičení
+### 24.5. - konzultace
 
 ### 31.5. - 6. sudé cvičení
