@@ -87,12 +87,12 @@ hide: false
 
 ### 10.5. - 6. liché cvičení
 - prezentace: [pptx](data/2020-21/cs/tf-cs-06a.pptx), [pdf](data/2020-21/cs/tf-cs-06a.pdf)
-- nahrávka: 
+- nahrávka: [link](https://web.microsoftstream.com/video/0c725d26-d04d-4458-84c6-4c54da6f8edb)
 - **6. DÚ (deadline úterý 18.5. 5:59):** Arduino běžící zprává (v Recodexu)
 
 ### 17.5. - 5. sudé cvičení
 - prezentace: [pptx](data/2020-21/cs/tf-cs-05b.pptx), [pdf](data/2020-21/cs/tf-cs-05b.pdf)
-- nahrávka: 
+- nahrávka: [link](https://web.microsoftstream.com/video/9e441ca4-9cac-49d0-a2ca-e30e03c34cce)
 - **5. DÚ (deadline úterý 25.5. 5:59):** Arduino stopky (v Recodexu)
 - **6. DÚ (deadline úterý 8.6. 5:59):** Arduino běžící zprává (v Recodexu)
 
