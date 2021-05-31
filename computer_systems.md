@@ -99,6 +99,6 @@ hide: false
 ### 24.5. - konzultace
 
 ### 31.5. - 6. sudé cvičení
-- prezentace: 
+- prezentace: [pptx](data/2020-21/cs/tf-cs-06b.pptx), [pdf](data/2020-21/cs/tf-cs-06b.pdf)
 - nahrávka: 
 - **6. DÚ (deadline úterý 8.6. 5:59):** Arduino běžící zprává (v Recodexu)
