@@ -3,6 +3,7 @@ title: Studentské projekty
 layout: "page"
 icon: fa-graduation-cap
 order: 5
+hide: true
 ---
 
 ## Softwaráky, bakalářky, diplomky

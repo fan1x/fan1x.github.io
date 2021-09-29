@@ -1,5 +1,5 @@
 ---
-title: Programování v C++
+title: Programming in C++
 layout: "page"
 icon: fa-microchip
 order: 4
