@@ -15,7 +15,7 @@ order: 4
   - Meeting ID: [943 5092 3737](https://cuni-cz.zoom.us/j/94350923737)
   - Password
     - received via mail before first exercise
-	- to be found in SIS in `Study Group Roster` for this exercise
+	- to be found in SIS in `Notice-board` for this exercise
 - Recodex: [link](https://recodex.mff.cuni.cz/)
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
 - MS Stream: [link](https://web.microsoftstream.com)
