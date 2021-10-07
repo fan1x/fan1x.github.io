@@ -20,8 +20,11 @@ order: 4
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
 - MS Stream: [link](https://web.microsoftstream.com)
 
-### 1st labs (30/09/2021)
+### 1st lab (30/09/2021)
 - slides: [pptx](data/2021-22/cpp/ex01.pptx), [pdf](data/2021-22/cpp/ex01.pdf)
 - homework: A simple calculator
+
+### 2nd lab (07/10/2021)
+- slides: [pptx](data/2021-22/cpp/ex02.pptx), [pdf](data/2021-22/cpp/ex02.pdf)
 
 
