@@ -11,14 +11,12 @@ order: 4
 
 ## Labs
 - Thursday 12:20
-- Zoom
-  - Meeting ID: [943 5092 3737](https://cuni-cz.zoom.us/j/94350923737)
-  - Password
-    - received via mail before first exercise
-	- to be found in SIS in `Notice-board` for this exercise
+- On-line streaming via MS Teams
+- Mattermost
 - Recodex: [link](https://recodex.mff.cuni.cz/)
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
 - MS Stream: [link](https://web.microsoftstream.com)
+
 
 ### 1st lab (30/09/2021)
 - slides: [pptx](data/2021-22/cpp/ex01.pptx), [pdf](data/2021-22/cpp/ex01.pdf)
@@ -26,5 +24,12 @@ order: 4
 
 ### 2nd lab (07/10/2021)
 - slides: [pptx](data/2021-22/cpp/ex02.pptx), [pdf](data/2021-22/cpp/ex02.pdf)
+- homework: A matrix for integers
+
+### 3rd lab (14/10/2021)
+- slides: [pptx](data/2021-22/cpp/ex03.pptx), [pdf](data/2021-22/cpp/ex03.pdf)
+- homeworks:
+	- implement `class C`
+	- finish the matrix for integers (previous HW)
 
 
