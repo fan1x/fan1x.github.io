@@ -30,6 +30,6 @@ order: 4
 - slides: [pptx](data/2021-22/cpp/ex03.pptx), [pdf](data/2021-22/cpp/ex03.pdf)
 - homeworks:
 	- implement `class C`
-	- finish the matrix for integers (previous HW)
+	- **(voluntary)** finish the matrix for integers (previous HW)
 
 
