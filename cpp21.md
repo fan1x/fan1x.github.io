@@ -32,6 +32,14 @@ order: 4
 	- implement `class C`
 	- **(voluntary)** finish the matrix for integers (previous HW)
 
-### 4rd lab (21/10/2021)
+### 4th lab (21/10/2021)
 - slides: [pptx](data/2021-22/cpp/ex04.pptx), [pdf](data/2021-22/cpp/ex04.pdf)
+- homeworks:
+	1. create a verbose class C
+	2. create a verbose class D using the class C
+	3. finish the summing program
+	4. finish/fix the matrix for integers (from 2nd lab)
+
+### 5th lab (28/10/2021)
+- Czech public holiday (Independent Czechoslovak State Day)
 
