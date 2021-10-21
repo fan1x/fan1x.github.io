@@ -32,4 +32,6 @@ order: 4
 	- implement `class C`
 	- **(voluntary)** finish the matrix for integers (previous HW)
 
+### 4rd lab (21/10/2021)
+- slides: [pptx](data/2021-22/cpp/ex04.pptx), [pdf](data/2021-22/cpp/ex04.pdf)
 
