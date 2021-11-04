@@ -40,6 +40,8 @@ order: 4
 	3. finish the summing program
 	4. finish/fix the matrix for integers (from 2nd lab)
 
-### 5th lab (28/10/2021)
+### 5th lab (28/10/2021) - skip
 - Czech public holiday (Independent Czechoslovak State Day)
 
+### 5th lab (4/11/2021)
+- slides: [pptx](data/2021-22/cpp/ex05.pptx), [pdf](data/2021-22/cpp/ex05.pdf)
