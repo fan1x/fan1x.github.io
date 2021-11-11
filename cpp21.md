@@ -17,7 +17,6 @@ order: 4
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
 - MS Stream: [link](https://web.microsoftstream.com)
 
-
 ### 1st lab (30/09/2021)
 - slides: [pptx](data/2021-22/cpp/ex01.pptx), [pdf](data/2021-22/cpp/ex01.pdf)
 - homework: A simple calculator
@@ -51,3 +50,63 @@ order: 4
 - homeworks:
 	1. Dictionary (into Gitlab)
 	2. People database (in Recodex)
+
+
+## Software project
+### Examples Ideas
+- 2D physics engine
+- 3D RPQ UnrealEngine shooter
+- Adventure guild manager
+- Voice analyzer
+- Cars
+- Automatic solver
+- Backend for a library
+- Background Backuper
+- Bang!
+- Bioinformatic methods - proteins
+- Starcraft bot
+- Cached upload server
+- Cardmaster
+- Chaos in the old world
+- Chips challenge game
+- DHT-like P2P
+- Collision detection
+- Dots and Boxes (P2P, AI)
+- Duna 2 (strat game)
+- Rescue robot emulator
+- EnergyLogger
+- Keyword document extraction
+- File manager
+- Nature generator
+- GeoSol the embedded GPS problem solver
+- Graph editor
+- Graph library
+- Graph analysis
+- Graph matching
+- Hanabi AI (game)
+- Audio/Video/Music player
+- Instant messaging
+- Interpret Forth
+- Interpret Scheme
+- Keyword analysis
+- Compiler 
+- Magic: The Gathering engine
+- Map-Reduce Engine
+- Parser/serializer JSON, API
+- Particle engine
+- Ping Pong Delay
+- MNK-game with different topologies
+- Calender
+- Pokemon online
+- Real-time strategy
+- Rescue robots
+- Rpg
+- Fast photo batch-processing 
+- Social desktop client
+- Stack Attack
+- Star wars
+- Sudoku constraint-propagation solver
+- Tanks 3D
+- Virtual processor
+- Train
+- World of Warcraft bot
