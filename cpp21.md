@@ -45,3 +45,9 @@ order: 4
 
 ### 5th lab (4/11/2021)
 - slides: [pptx](data/2021-22/cpp/ex05.pptx), [pdf](data/2021-22/cpp/ex05.pdf)
+
+### 6th lab (11/11/2021)
+- slides: [pptx](data/2021-22/cpp/ex06.pptx), [pdf](data/2021-22/cpp/ex06.pdf)
+- homeworks:
+	1. Dictionary (into Gitlab)
+	2. People database (in Recodex)
