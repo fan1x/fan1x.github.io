@@ -9,11 +9,16 @@ order: 4
 - email: `tomas.faltin@matfyz.cuni.cz`
 - lecture: [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
 
+### Large homeworks
+1. Data aggregation (**deadline: Thursday 12/9/2021​04:59**)
+- in ReCodex: [link](https://recodex.mff.cuni.cz/app/assignment/c0dea2c6-47ed-11ec-986f-f39926f24a9c)
+- 10+5 points
+
 ## Labs
 - Thursday 12:20
 - On-line streaming via MS Teams
 - Mattermost
-- Recodex: [link](https://recodex.mff.cuni.cz/)
+- ReCodex: [link](https://recodex.mff.cuni.cz/)
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
 - MS Stream: [link](https://web.microsoftstream.com)
 
