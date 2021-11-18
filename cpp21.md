@@ -50,6 +50,12 @@ order: 4
 - homeworks:
 	1. Dictionary (into Gitlab)
 	2. People database (in Recodex)
+	
+### 7th lab (11/11/2021)
+- slides: [pptx](data/2021-22/cpp/ex07.pptx), [pdf](data/2021-22/cpp/ex07.pdf)
+- homeworks:
+	1. Finish the linked list
+	2. Vector implementation
 
 
 ## Software project
