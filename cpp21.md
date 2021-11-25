@@ -56,11 +56,30 @@ order: 4
 	1. Dictionary (into Gitlab)
 	2. People database (in Recodex)
 	
-### 7th lab (11/11/2021)
+### 7th lab (18/11/2021)
 - slides: [pptx](data/2021-22/cpp/ex07.pptx), [pdf](data/2021-22/cpp/ex07.pdf)
 - homeworks:
 	1. Finish the linked list
 	2. Vector implementation
+
+### 8th lab (25/11/2021)
+- slides: [pptx](data/2021-22/cpp/ex08.pptx), [pdf](data/2021-22/cpp/ex08.pdf)
+- homeworks:
+	1. Polymorphic vector
+	
+### 9th lab (2/12/2021)
+
+### 10th lab (9/12/2021)
+
+### 11th lab (16/12/2021)
+
+### 12th lab (23/12/2021) - skip
+- Christmas Holiday
+
+### 12th lab (30/12/2021) - skip
+-  Christmas Holiday
+
+### 12th lab (6/1/2022) - last exercise
 
 
 ## Software project
