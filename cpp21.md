@@ -24,20 +24,26 @@ order: 4
 
 ### 1st lab (30/09/2021)
 - slides: [pptx](data/2021-22/cpp/ex01.pptx), [pdf](data/2021-22/cpp/ex01.pdf)
+- recordings: Missing :(
 - homework: A simple calculator
 
 ### 2nd lab (07/10/2021)
 - slides: [pptx](data/2021-22/cpp/ex02.pptx), [pdf](data/2021-22/cpp/ex02.pdf)
+- recordings: [link](https://web.microsoftstream.com/video/8444c56e-88e6-4581-b14e-2707afd1483d)
 - homework: A matrix for integers
 
 ### 3rd lab (14/10/2021)
 - slides: [pptx](data/2021-22/cpp/ex03.pptx), [pdf](data/2021-22/cpp/ex03.pdf)
+- recordings: Missing :(
 - homeworks:
 	- implement `class C`
 	- **(voluntary)** finish the matrix for integers (previous HW)
 
 ### 4th lab (21/10/2021)
 - slides: [pptx](data/2021-22/cpp/ex04.pptx), [pdf](data/2021-22/cpp/ex04.pdf)
+- recordings: 
+  - [part1](https://web.microsoftstream.com/video/58a550fd-110b-4a70-8495-40f655270827)
+  - [part2](https://web.microsoftstream.com/video/e582d804-8816-43fc-9aca-2bdb21702076)
 - homeworks:
 	1. create a verbose class C
 	2. create a verbose class D using the class C
@@ -49,21 +55,25 @@ order: 4
 
 ### 5th lab (4/11/2021)
 - slides: [pptx](data/2021-22/cpp/ex05.pptx), [pdf](data/2021-22/cpp/ex05.pdf)
+- recordings: [link](https://web.microsoftstream.com/video/fb391146-f180-40f2-86e2-0e2de68b3eae)
 
 ### 6th lab (11/11/2021)
 - slides: [pptx](data/2021-22/cpp/ex06.pptx), [pdf](data/2021-22/cpp/ex06.pdf)
+- recordings: [link](https://web.microsoftstream.com/video/575ee410-0b9f-4886-8a2a-16ed8a16211b)
 - homeworks:
 	1. Dictionary (into Gitlab)
 	2. People database (in Recodex)
 	
 ### 7th lab (18/11/2021)
 - slides: [pptx](data/2021-22/cpp/ex07.pptx), [pdf](data/2021-22/cpp/ex07.pdf)
+- recordings: [link](https://web.microsoftstream.com/video/9f78917f-58b8-41e3-aa97-e3aff4e78d3d)
 - homeworks:
 	1. Finish the linked list
 	2. Vector implementation
 
 ### 8th lab (25/11/2021)
 - slides: [pptx](data/2021-22/cpp/ex08.pptx), [pdf](data/2021-22/cpp/ex08.pdf)
+- recordings: [link](https://web.microsoftstream.com/video/3f6596c5-4520-40a4-921c-13ad2421b1c9)
 - homeworks:
 	1. Polymorphic vector
 	
