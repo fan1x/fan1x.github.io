@@ -78,6 +78,7 @@ order: 4
 	1. Polymorphic vector
 	
 ### 9th lab (2/12/2021)
+- slides: [pptx](data/2021-22/cpp/ex09.pptx), [pdf](data/2021-22/cpp/ex09.pdf)
 
 ### 10th lab (9/12/2021)
 
