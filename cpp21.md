@@ -79,6 +79,8 @@ order: 4
 	
 ### 9th lab (2/12/2021)
 - slides: [pptx](data/2021-22/cpp/ex09.pptx), [pdf](data/2021-22/cpp/ex09.pdf)
+- recordings: [link](https://web.microsoftstream.com/video/461834bc-d749-4312-a2a4-898fe5fae575)
+- homework: Animal database
 
 ### 10th lab (9/12/2021)
 
