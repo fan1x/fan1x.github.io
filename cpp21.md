@@ -83,6 +83,9 @@ order: 4
 - homework: Animal database
 
 ### 10th lab (9/12/2021)
+- slides: [pptx](data/2021-22/cpp/ex10.pptx), [pdf](data/2021-22/cpp/ex10.pdf)
+- recordings: 
+- homework: `std::vector<T>`
 
 ### 11th lab (16/12/2021)
 
