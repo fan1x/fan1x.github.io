@@ -84,7 +84,7 @@ order: 4
 
 ### 10th lab (9/12/2021)
 - slides: [pptx](data/2021-22/cpp/ex10.pptx), [pdf](data/2021-22/cpp/ex10.pdf)
-- recordings: 
+- recordings: [link](https://web.microsoftstream.com/video/3e00ff61-2365-47f5-83d9-6f76aac965d0)
 - homework: `std::vector<T>`
 
 ### 11th lab (16/12/2021)
