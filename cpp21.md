@@ -88,6 +88,9 @@ order: 4
 - homework: `std::vector<T>`
 
 ### 11th lab (16/12/2021)
+- slides: [pptx](data/2021-22/cpp/ex11.pptx), [pdf](data/2021-22/cpp/ex11.pdf)
+- recordings: TBD
+- homework: A simple editor
 
 ### 12th lab (23/12/2021) - skip
 - Christmas Holiday
