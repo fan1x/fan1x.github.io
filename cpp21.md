@@ -89,7 +89,7 @@ order: 4
 
 ### 11th lab (16/12/2021)
 - slides: [pptx](data/2021-22/cpp/ex11.pptx), [pdf](data/2021-22/cpp/ex11.pdf)
-- recordings: TBD
+- recordings: [link](https://web.microsoftstream.com/video/b00fdaa9-7e65-4696-bd80-965f56deeba5)
 - homework: A simple editor
 
 ### 12th lab (23/12/2021) - skip
