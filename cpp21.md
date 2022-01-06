@@ -99,7 +99,9 @@ order: 4
 -  Christmas Holiday
 
 ### 12th lab (6/1/2022) - last exercise
-
+- slides: [pptx](data/2021-22/cpp/ex12.pptx), [pdf](data/2021-22/cpp/ex12.pdf)
+- recordings: 
+- homework:
 
 ## Software project
 ### Examples Ideas
