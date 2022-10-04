@@ -2,6 +2,7 @@
 title: Programming in C++
 layout: "page"
 icon: fa-microchip
+hide: true
 order: 4
 ---
 
