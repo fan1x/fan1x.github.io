@@ -12,13 +12,14 @@ order: 4
 ### Large homeworks
 
 ## Labs
-- Tuesday 12:20
-- Mattermost: `nprg041-cpp-faltin` (Invite link in SIS)
-- ReCodex: [link](https://recodex.mff.cuni.cz/)
+- Tuesday 12:20 in SW2
+- Mattermost: `nprg041-cpp-faltin`
+    - Invite link in [SIS/Notice-board](https://is.cuni.cz/studium/eng/nastenka/x_listek.php?id=2bf546c95871bdf31cd29eec4eeaf107&tid=&moje=2&id_listku=45020)
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
+- ReCodex: [link](https://recodex.mff.cuni.cz/)
 
 ### 1st lab (04/10/2022)
-- slides: [pptx](), [pdf]()
+- slides: [pptx](data/2022-23/cpp/ex01.pptx), [pdf](data/2022-23/cpp/ex01.pdf)
 
 ### 2nd lab (11/10/2022)
 
