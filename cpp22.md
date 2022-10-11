@@ -20,8 +20,12 @@ order: 4
 
 ### 1st lab (04/10/2022)
 - slides: [pptx](data/2022-23/cpp/ex01.pptx), [pdf](data/2022-23/cpp/ex01.pdf)
+- coding: A simple calculator
 
 ### 2nd lab (11/10/2022)
+- slides: [pptx](data/2022-23/cpp/ex02.pptx), [pdf](data/2022-23/cpp/ex02.pdf)
+- coding example: [Calculator](data/2022-23/cpp/code/du1.cpp)
+- coding: 3D matrix
 
 ### 3rd lab (18/10/2022)
 
