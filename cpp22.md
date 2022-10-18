@@ -28,6 +28,8 @@ order: 4
 - coding: 3D matrix
 
 ### 3rd lab (18/10/2022)
+- slides: [pptx](data/2022-23/cpp/ex03.pptx), [pdf](data/2022-23/cpp/ex03.pdf)
+- coding: 3D Matrix
 
 ### 4th lab (25/10/2022)
 
