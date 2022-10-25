@@ -20,18 +20,28 @@ order: 4
 
 ### 1st lab (04/10/2022)
 - slides: [pptx](data/2022-23/cpp/ex01.pptx), [pdf](data/2022-23/cpp/ex01.pdf)
-- coding: A simple calculator
+- homework: A simple calculator
 
 ### 2nd lab (11/10/2022)
 - slides: [pptx](data/2022-23/cpp/ex02.pptx), [pdf](data/2022-23/cpp/ex02.pdf)
 - coding example: [Calculator](data/2022-23/cpp/code/du1.cpp)
-- coding: 3D matrix
+- homework: 3D matrix
 
 ### 3rd lab (18/10/2022)
 - slides: [pptx](data/2022-23/cpp/ex03.pptx), [pdf](data/2022-23/cpp/ex03.pdf)
-- coding: 3D Matrix
+- homework: 3D Matrix
 
 ### 4th lab (25/10/2022)
+- slides: [pptx](data/2022-23/cpp/ex04.pptx), [pdf](data/2022-23/cpp/ex04.pdf)
+    - R-value reference arguments
+    - special class methods
+    - `static` methods/attributes
+- examples:
+    - [verbose_class.cpp](data/2022-23/cpp/code/verbose_class.cpp)
+    - [couting_class.cpp](data/2022-23/cpp/code/couting_class.cpp)
+- homework:
+    1. Implement class C
+    2. 3D Matrix with special methods
 
 ### 5th lab (1/11/2022)
 
