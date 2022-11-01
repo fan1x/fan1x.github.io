@@ -44,6 +44,14 @@ order: 4
     2. 3D Matrix with special methods
 
 ### 5th lab (1/11/2022)
+- slides: [pptx](data/2022-23/cpp/ex05.pptx), [pdf](data/2022-23/cpp/ex05.pdf)
+    - Declaration and definition
+- examples:
+    - [implement_class_c.cpp](data/2022-23/cpp/code/implement_class_c.cpp)
+- homework:
+    1. Implement summing program
+        - [summing_program.cpp](data/2022-23/cpp/code/summing_program_assignment.cpp)
+    2. Piškvorky for 2 players
 
 ### 6th lab (8/11/2022)
 	
