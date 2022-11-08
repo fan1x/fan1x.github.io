@@ -55,6 +55,8 @@ order: 4
 
 ### 6th lab (8/11/2022)
 - slides: [pptx](data/2022-23/cpp/ex06.pptx), [pdf](data/2022-23/cpp/ex06.pdf)
+    - Returning a (const) reference
+    - Containers overview
 - examples:
     - [summing_program.cpp](data/2022-23/cpp/code/summing_program.cpp)
 - homework:
