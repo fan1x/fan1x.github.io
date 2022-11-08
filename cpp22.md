@@ -54,6 +54,14 @@ order: 4
     2. Piškvorky for 2 players
 
 ### 6th lab (8/11/2022)
+- slides: [pptx](data/2022-23/cpp/ex06.pptx), [pdf](data/2022-23/cpp/ex06.pdf)
+- examples:
+    - [summing_program.cpp](data/2022-23/cpp/code/summing_program.cpp)
+- homework:
+    1. Dictionary
+        - [dictionary_api.hpp](data/2022-23/cpp/code/dictionary_api.hpp)
+    2. Simple People Database
+        - in [ReCodex](https://recodex.mff.cuni.cz/)
 	
 ### 7th lab (15/11/2022)
 
