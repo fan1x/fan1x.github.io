@@ -5,14 +5,21 @@ icon: fa-microchip
 order: 4
 ---
 
+## goto:
+- [General](#general)
+- [Deadlines](#deadlines)
+- [Large homeworks](#large-homeworks)
+- [Software project](#software-project)
+- [Labs](#labs)
+
 ## General
 - email: `tomas.faltin@matfyz.cuni.cz`
 - lecture: [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
 
 ## Deadlines
-- **27/11/2022: Software project - topic must be approved**
+- <span style="color:red">27/11/2022: Software project - topic must be approved</span>
 - 18/12/2022: Software project - POC (proof of concept)
-- **5/12/2022: 1st large homework - Data aggregation**
+- <span style="color:red">5/12/2022: 1st large homework - Data aggregation</span>
 - 3/1/2022: Labs - Last exercise
 - 2/4/2023: Software project - first submission
 - 28/5/2023: Software project - final submission
@@ -22,6 +29,7 @@ order: 4
 - in ReCodex: [link](https://recodex.mff.cuni.cz/app/assignment/83765225-323c-41a0-828c-e5d1b621b9ef)
 - 10+5 points
     - -5 points down per each started week
+
 ### 2nd large homework
 - TBD
 - 25 points
