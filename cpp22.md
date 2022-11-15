@@ -49,8 +49,7 @@ order: 4
 - examples:
     - [pointers_example.cpp](data/2022-23/cpp/code/pointers_example.cpp)
 - homework:
-    1. Linked list
-        - [dictionary_api.hpp](data/2022-23/cpp/code/dictionary_api.hpp)
+    1. Finish linked list
     2. int vector
 
 ### 6th lab (8/11/2022)
