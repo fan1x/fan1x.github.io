@@ -17,10 +17,10 @@ order: 4
 - lecture: [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
 
 ## Deadlines
-- <span style="color:red">27/11/2022: Software project - topic must be approved</span>
-- 18/12/2022: Software project - POC (proof of concept)
+- 27/11/2022: Software project - topic must be approved
 - <span style="color:red">5/12/2022: 1st large homework - Data aggregation</span>
 - 3/1/2022: Labs - Last exercise
+- 5/3/2023: Software project - POC (proof of concept)
 - 2/4/2023: Software project - first submission
 - 28/5/2023: Software project - final submission
 
@@ -40,6 +40,7 @@ order: 4
     - Invite link in [SIS/Notice-board](https://is.cuni.cz/studium/eng/nastenka/x_listek.php?id=2bf546c95871bdf31cd29eec4eeaf107&tid=&moje=2&id_listku=45020)
 - Gitlab: [link](https://gitlab.mff.cuni.cz/)
 - ReCodex: [link](https://recodex.mff.cuni.cz/)
+- Ongoing Online Feedback: [link](https://cunicz-my.sharepoint.com/:w:/g/personal/46734522_cuni_cz/EV4U0EOZ8PZEkKCTCReV0_wBBCb22AH_z_zIeEmmNy2SrA?e=Jkr883) 
 
 ### 8th lab (22/11/2022)
 - slides: [pptx](data/2022-23/cpp/ex08.pptx), [pdf](data/2022-23/cpp/ex08.pdf)
@@ -122,8 +123,8 @@ order: 4
 ## Software project
 ### Deadlines
 - 27/11/2022: topic must be approved
-- 18/12/2022: POC (proof of concept)
-    - show non-trivial working piece of code (~30%)
+- <span style="color:red">5/3/2022: POC (proof of concept)</span>
+    - show non-trivial working piece of code (~25%)
     - to test the choosen approach is working
 - 2/4/2023: first submission
     - full blown version of the program with potential undiscovered bugs
@@ -137,7 +138,8 @@ order: 4
     - include test files 
         - integration tests for the whole program and/or unit tests for different components
     - descibe all use-cases that were tested manually
-- documentation, e.g., `README.md` and well documented code is enough
+- documentation, e.g., `README.md` and well documented code is enough, but should contain
+    - approved topic with details
     - general explanation
         - what does your program do, what is not supported, ...
     - how to build your program
@@ -147,6 +149,13 @@ order: 4
     - documented code
         - readable and self-explaning code
         - document complex parts of the code (hacks, algorithms, ...)
+
+### General Comments
+- The project should focus more on programming and software engineering aspects and less on algorithms
+- The architecture of the program schould be easily extensible
+    - class hierarchy, configuration through config files, ...
+- The project should contain at least few non-trivial parts
+    - E.g., GUI, networking, multithreading, generic extendability, ... 
 
 
 ### Examples Ideas
