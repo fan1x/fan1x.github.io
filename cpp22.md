@@ -19,6 +19,7 @@ order: 4
 ## Deadlines
 - 27/11/2022: Software project - topic must be approved
 - <span style="color:red">5/12/2022: 1st large homework - Data aggregation</span>
+- 23/12/2022: 2nd large homework - Calculator
 - 3/1/2022: Labs - Last exercise
 - 5/3/2023: Software project - POC (proof of concept)
 - 2/4/2023: Software project - first submission
@@ -30,9 +31,10 @@ order: 4
 - 10+5 points
     - -5 points down per each started week
 
-### 2nd large homework
-- TBD
+### Calculator (**deadline: Friday 23/12/2022 23:59**)
+- in ReCodex: [link](https://recodex.mff.cuni.cz/app/assignment/a65aa6ad-ef23-4700-a59d-88e930c4c1ab)
 - 25 points
+    - -10 points down per each started week
 
 ## Labs
 - Tuesday 12:20 in SW2
