@@ -42,6 +42,14 @@ order: 4
 - ReCodex: [link](https://recodex.mff.cuni.cz/)
 - Ongoing Online Feedback: [link](https://cunicz-my.sharepoint.com/:w:/g/personal/46734522_cuni_cz/EV4U0EOZ8PZEkKCTCReV0_wBBCb22AH_z_zIeEmmNy2SrA?e=Jkr883) 
 
+### 9th lab (29/11/2022)
+- slides: [pptx](data/2022-23/cpp/ex09.pptx), [pdf](data/2022-23/cpp/ex09.pdf)
+    - Iterators
+    - Functors, lambdas
+    - Algorithms
+- homework:
+    1. fix previous homeworks with algorithms
+
 ### 8th lab (22/11/2022)
 - slides: [pptx](data/2022-23/cpp/ex08.pptx), [pdf](data/2022-23/cpp/ex08.pdf)
     - [Online feedback](https://cunicz-my.sharepoint.com/:w:/g/personal/46734522_cuni_cz/EV4U0EOZ8PZEkKCTCReV0_wBBCb22AH_z_zIeEmmNy2SrA?e=Jkr883)
@@ -109,8 +117,6 @@ order: 4
 ### 1st lab (04/10/2022)
 - slides: [pptx](data/2022-23/cpp/ex01.pptx), [pdf](data/2022-23/cpp/ex01.pdf)
 - homework: A simple calculator
-	
-### 9th lab (29/11/2022)
 
 ### 10th lab (6/12/2022)
 
