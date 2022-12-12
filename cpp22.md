@@ -44,6 +44,13 @@ order: 4
 - ReCodex: [link](https://recodex.mff.cuni.cz/)
 - Ongoing Online Feedback: [link](https://cunicz-my.sharepoint.com/:w:/g/personal/46734522_cuni_cz/EV4U0EOZ8PZEkKCTCReV0_wBBCb22AH_z_zIeEmmNy2SrA?e=Jkr883) 
 
+### 11th lab (13/12/2022)
+- slides: [pptx](data/2022-23/cpp/ex11.pptx), [pdf](data/2022-23/cpp/ex11.pdf)
+    - Feedback on HW1 - Data Aggregation
+    - Streams, `<filesystem>`
+- homework:
+    1. a simple text editor
+
 ### 10th lab (6/12/2022)
 - slides: [pptx](data/2022-23/cpp/ex10.pptx), [pdf](data/2022-23/cpp/ex10.pdf)
     - Templates
@@ -127,8 +134,6 @@ order: 4
 ### 1st lab (04/10/2022)
 - slides: [pptx](data/2022-23/cpp/ex01.pptx), [pdf](data/2022-23/cpp/ex01.pdf)
 - homework: A simple calculator
-
-### 11th lab (13/12/2022)
 
 ### 12th lab (20/12/2022)
 
