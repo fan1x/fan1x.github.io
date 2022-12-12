@@ -17,9 +17,7 @@ order: 4
 - lecture: [link](https://www.ksi.mff.cuni.cz/teaching/nprg041-web/)
 
 ## Deadlines
-- 27/11/2022: Software project - topic must be approved
-- <span style="color:red">5/12/2022: 1st large homework - Data aggregation</span>
-- 23/12/2022: 2nd large homework - Calculator
+- <span style="color:red">23/12/2022: 2nd large homework - Calculator</span>
 - 3/1/2022: Labs - Last exercise
 - 5/3/2023: Software project - POC (proof of concept)
 - 2/4/2023: Software project - first submission
