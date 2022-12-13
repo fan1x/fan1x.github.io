@@ -46,6 +46,8 @@ order: 4
 - slides: [pptx](data/2022-23/cpp/ex11.pptx), [pdf](data/2022-23/cpp/ex11.pdf)
     - Feedback on HW1 - Data Aggregation
     - Streams, `<filesystem>`
+- Data Aggregation example: 
+    - [data_aggregation.cpp](data/2022-23/cpp/code/data_aggregation.cpp)
 - homework:
     1. a simple text editor
 
