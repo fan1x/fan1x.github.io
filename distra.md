@@ -1,7 +1,7 @@
 ---
 title: Principy Distribuovaných Systémů
 layout: "page"
-icon: fa-chart-network
+icon: fa-connectdevelop
 order: 5
 hide: false
 ---
