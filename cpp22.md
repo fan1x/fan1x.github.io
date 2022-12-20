@@ -42,6 +42,13 @@ order: 4
 - ReCodex: [link](https://recodex.mff.cuni.cz/)
 - Ongoing Online Feedback: [link](https://cunicz-my.sharepoint.com/:w:/g/personal/46734522_cuni_cz/EV4U0EOZ8PZEkKCTCReV0_wBBCb22AH_z_zIeEmmNy2SrA?e=Jkr883) 
 
+### 12th lab (20/12/2022)
+- slides: [pptx](data/2022-23/cpp/ex12.pptx), [pdf](data/2022-23/cpp/ex12.pdf)
+    - Feedback on HW1 - Data Aggregation, part 2
+    - Exceptions, `<regex>
+- example: 
+    - [exceptions.cpp](data/2022-23/cpp/code/exceptions.cpp)
+
 ### 11th lab (13/12/2022)
 - slides: [pptx](data/2022-23/cpp/ex11.pptx), [pdf](data/2022-23/cpp/ex11.pdf)
     - Feedback on HW1 - Data Aggregation
@@ -134,8 +141,6 @@ order: 4
 ### 1st lab (04/10/2022)
 - slides: [pptx](data/2022-23/cpp/ex01.pptx), [pdf](data/2022-23/cpp/ex01.pdf)
 - homework: A simple calculator
-
-### 12th lab (20/12/2022)
 
 ### 13th lab (03/01/2023) - last exercise
 
