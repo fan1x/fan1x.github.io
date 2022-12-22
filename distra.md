@@ -11,7 +11,7 @@ hide: false
 - email: `faltin@ksi.mff.cuni.cz`
 
 ## Crypto
-- slides: [pptx](data/2022-23/ds/crypto.pptx), [pdf](data/2022-23/ds/crypto.pdf)
+- public slides: [pptx](data/2022-23/ds/crypto_lec2.pptx), [pdf](data/2022-23/ds/crypto_lec2.pdf)
 - materials:
     - [Mastering Bitcoin.pdf](data/2022-23/ds/Mastering%20Bitcoin.pdf)
     - [Lightning Network.pdf](data/2022-23/ds/Lightning%20Network.pdf)
