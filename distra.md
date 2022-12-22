@@ -15,6 +15,7 @@ hide: false
 - materials:
     - [Mastering Bitcoin.pdf](data/2022-23/ds/Mastering%20Bitcoin.pdf)
     - [Lightning Network.pdf](data/2022-23/ds/Lightning%20Network.pdf)
+    - [Ethererum Whitepaper.pdf](data/2022-23/ds/Ethereum_Whitepaper_-_Buterin_2014.pdf)
 
 ### Links
 - [A transaction](https://www.blockchain.com/btc/tx/7957a35fe64f80d234d76d83a2a8f1a0d8149a41d81de548f0a65a8a999f6f18)
