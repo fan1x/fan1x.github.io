@@ -3,6 +3,7 @@ title: INT eresting Quotes
 layout: "page"
 icon: fa-quote-right
 order: 3
+hide: true
 ---
 
 
