@@ -5,5 +5,4 @@ permalink: /
 ---
 * #### [Programming in C++](pages/cpp22)
 * #### [Distributed Systems](pages/distra)
-* #### [Projects](pages/projects)
-* #### [Research](pages/projects)
+* #### [Research](pages/research)
