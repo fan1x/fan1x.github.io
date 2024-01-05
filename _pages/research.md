@@ -5,7 +5,7 @@ icon: fa-lightbulb-o
 order: 5
 ---
 
-## Papers to read
+## Some Papers
 - [A_Reachability_Index_for_Recursive_Label_Concatenated_Graph_Queries.pdf](../../data/papers/A_Reachability_Index_for_Recursive_Label_Concatenated_Graph_Queries.pdf)
 - [adfs.pdf](../../data/papers/adfs.pdf)
 - [WCOJ.pdf](../../data/papers/Adopting%20Worst-Case%20Optimal%20Joins%20in%20Relational%20Database%20Systems.pdf)
