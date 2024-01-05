@@ -1,4 +1,4 @@
-# Personal Web Pages
+# Personal Web Page
 
 An attempt at creating my personal web page containing various things
 
