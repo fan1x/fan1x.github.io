@@ -27,7 +27,7 @@ author:
   name             : "Tomáš Faltín"
   pronouns         : # example: "she/her"  
   bio              : "I'm a computer systems researcher and Assistant Professor at Charles University, focused on building and analyzing high-performance, scalable software. My core research investigates large-scale distributed graph processing and the underlying performance mechanics of concurrent systems through rigorous analysis and benchmarking. I bring industry and academic experience from my past work at Oracle Labs and Inria Paris."
-  location         : "Prague"
+  location         : "S203, Malostranské nám. 2/25, Prague"
   employer         : "Charles University"
   uri              : # "https://fan1x.github.io"
   email            : "tomas.faltin@matfyz.cuni.cz" 
