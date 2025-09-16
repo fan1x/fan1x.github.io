@@ -14,7 +14,8 @@ baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: pages-themes/hacker@v0.2.0
+
 
 toc:
   enabled: false
@@ -61,3 +62,4 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
