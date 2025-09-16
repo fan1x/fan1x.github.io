@@ -1,6 +1,6 @@
 # Personal Web Page
 
-An attempt at creating my personal web page containing various things
+An attempt at creating my personal web page containing various things.
 
 ### todo
 - [ ] Add info about me (interest)
