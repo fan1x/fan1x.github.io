@@ -1,0 +1,14 @@
+---
+title: "Space-efficient methodology for representing label information in large graph data for fast distributed graph query"
+collection: publications
+category: patents
+permalink: /publication/patent-2021-07-27-labels
+# excerpt: 'In this paper, we introduce aDFS: A distributed graph-querying system that can process practically any query fully in memory, while maintaining bounded runtime memory consumption. To achieve this behavior, aDFS relies on (i) almost depth-first (aDFS) graph exploration with some breadth-first characteristics for performance, and (ii) non-blocking dispatching of intermediate results to remote edges. We evaluate aDFS against state-of-the-art graph-querying (Neo4J and GraphFrames for Apache Spark), graph-mining (G-Miner, Fractal, and Peregrine), as well as dataflow joins (BiGJoin), and show that aDFS significantly outperforms prior work on a diverse selection of workloads.'
+date: 2021-07-27
+venue: 'US'
+# slidesurl: 'https://www.usenix.org/system/files/atc21_slides_trigonakis.pdf'
+paperurl: 'https://patentimages.storage.googleapis.com/e4/a6/24/067878e8b9804e/US11074260.pdf'
+# bibtexurl: 'https://www.usenix.org/biblio/export/bibtex/273939'
+citation: 'Delamare, A., Trigonakis, V., Haprian, V.I., Van Rest, O., Hong, S., Chafi, H., Faltin, T. and Lozi, J.P., Oracle International Corp, 2021. Space-efficient methodology for representing label information in large graph data for fast distributed graph query. U.S. Patent 11,074,260.'
+---
+Techniques are described herein for space-efficient encoding of label information of property graphs. In an embodiment, an input graph is received. The input graph comprises a plurality of entities and a plurality of label sets. Each entity of said plurality of entities is associated with a label set of the plurality of label sets and each label set of the plurality of label sets comprises zero or more labels of a plurality of labels. A first mapping is generated that maps each label of the plurality of labels to a label code. A second mapping is generated that maps each label integer set of a plurality of label integer sets to a label code. Each label integer set of the plurality of label integer sets corresponds to a label set of the plurality of label sets, wherein each label integer set of the plurality of label integer sets comprises label codes from the first mapping that are mapped to each label included in the corresponding label set. A compressed label set is generated for each entity of the plurality of entities. Each compressed label set comprises a plurality of bits that indicate a zeroth state, a first state, a second state, or a third state. The compressed label sets and the first and second mappings are used to efficiently evaluate graph label queries.

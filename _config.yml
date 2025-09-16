@@ -27,8 +27,12 @@ author:
   name             : "Tomáš Faltín"
   pronouns         : # example: "she/her"  
   bio              : "I'm a computer systems researcher and Assistant Professor at Charles University, focused on building and analyzing high-performance, scalable software. My core research investigates large-scale distributed graph processing and the underlying performance mechanics of concurrent systems through rigorous analysis and benchmarking. I bring industry and academic experience from my past work at Oracle Labs and Inria Paris."
-  location         : "S203, Malostranské nám. 2/25, Prague"
-  employer         : "Charles University"
+  # Room S 202, 2nd floor
+  # Malostranské nám. 25
+  # 118 00 Prague
+  # Czech Republic
+  location         : "Room S203, 2nd floor"
+  employer         : "Charles University, Prague"
   uri              : # "https://fan1x.github.io"
   email            : "tomas.faltin@matfyz.cuni.cz" 
 
@@ -63,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "tomáš-faltín-5945a547"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -87,6 +91,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  patents:
+    title: 'Patents'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -227,6 +233,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: false
     permalink: /:collection/:path/
@@ -258,13 +267,22 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
