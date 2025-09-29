@@ -1,9 +1,57 @@
 ---
 title: "Programming in C++"
 collection: teaching
-type: "Practicals"
+type: "Labs"
 permalink: /teaching/2025-winter-cpp
-venue: "Friday 10:40 - 12:10, SU2, Malá Strana"
+venue: "Friday 10:40-12:10, SU2, Malá Strana"
 date: 2025-01-01
 # location: "Malá Strana, SU2"
+
 ---
+
+---
+
+## Contact
+* In person: Room S203, 2nd floor
+* [Mattermost](https://ulita.ms.mff.cuni.cz/mattermost)
+    * Channel: `2526/nprg041-cpp-faltin`
+    * Private message: `@faltin.tomas`
+* email:
+
+---
+
+## General Information
+* [Credit information](https://teaching.mff.cuni.cz/nprg041-web/zapocet.html)
+* [Lecture webpage](https://teaching.mff.cuni.cz/nprg041-web/index.html)
+
+## Credit Project
+
+### Important Dates 
+* **Friday 14.11.2025** - Topic proposal
+    * DM me on Mattermost - `@faltin.tomas`
+* **Friday 12.12.2025** - Approved detailed project description
+    * :warning: Do not leave this until the last minute
+        * Iteration and discussion with a lecturer and fixing issues might take a few days
+        * Remember, you're not the only student submitting things at the last minute
+    * Written in Markdown format (`.md`) and added to the project repository through a **merge request**. 
+    * **Approved** merge request by the lecturer
+        
+* **Friday 13.2.2026** - First demo
+* **Friday 22.5.2026** - Final version
+
+## Individual Labs
+
+### Lab 01 - 03.10.
+### Lab 02 - 10.10.
+### Lab 03 - 17.10.
+### Lab 04 - 24.10.
+### Lab 05 - 31.10.
+### Lab 06 - 07.11.
+### Lab 07 - 14.11.
+### Lab 08 - 21.11.
+### Lab 09 - 28.11.
+### Lab 10 - 05.12.
+### Lab 11 - 12.12.
+### Lab 12 - 19.12.
+### Lab 13 - 09.01.
+
