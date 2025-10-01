@@ -33,23 +33,25 @@ Below are some potential topics for collaboration or thesis work. Each project i
 
 ---
 
-### **1. Scalable Blockchain Consensus for High-Throughput Applications**
-- **Description:** Investigate novel consensus algorithms that improve throughput and reduce latency in permissioned blockchain networks.
-- **Key Challenges:** Fault tolerance, scalability, energy efficiency.
-- **Expected Outcome:** Prototype implementation and performance evaluation
+### **Operating System Scheduler Benchmark**
+- **Brief Description:** Design and evaluate a benchmark for (Linux) scheduler. 
 
 ---
 
-### **2. Efficient Graph Processing on Distributed Systems**
-- **Description:** Design and evaluate algorithms for processing massive graphs (e.g., social networks) using distributed frameworks like Apache Flink or Spark.
-- **Key Challenges:** Load balancing, minimizing communication overhead.
-- **Expected Outcome:** Comparative study and optimized implementation
+### **Efficient Graph Processing on Distributed Systems using CRDT**
+- **Brief Description:** Design and evaluate algorithms for processing massive graphs (e.g., social networks) using [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type).
 
 ---
 
-### **3. Adaptive Scheduling in Modern Operating Systems**
-- **Description:** Develop adaptive scheduling techniques for heterogeneous systems (e.g., CPU + GPU) to optimize performance and energy usage.
-- **Key Challenges:** Dynamic workload prediction, fairness vs. efficiency trade-offs.
-- **Expected Outcome:** Simulation results and kernel-level prototype
+### **Efficient Graph Processing on Distributed Systems**
+- **Brief Description:** Design and evaluate algorithms for processing massive graphs (e.g., social networks) using distributed frameworks like Apache Flink or Spark.
 
 ---
+
+### **Adaptive Scheduling in Modern Operating Systems**
+- **Brief Description:** Develop adaptive scheduling techniques for heterogeneous systems (e.g., CPU + GPU) to optimize performance and energy usage.
+
+---
+
+### **Blockchain Consensus for High-Throughput Applications**
+- **Brief Description:** Investigate novel consensus algorithms that improve throughput and reduce latency in permissioned blockchain networks.
