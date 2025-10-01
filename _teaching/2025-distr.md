@@ -62,7 +62,7 @@ date: 2025-01-01
 
 ### Lab 01 - 01.10.
 - **Lecture:** :heavy_check_mark:
-- **Slides:** [pptx](../data/2025-26/pds/pds_en_lec01.pptx)
+- **Slides:** [pdf](../data/2025-26/pds/pds_en_01.pdf)
 - **Study:**:
     - chapter 1 (entire chapter) - *Introduction*
     - chapter 2.1 - *Architectural styles*
