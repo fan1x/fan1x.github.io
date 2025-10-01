@@ -13,6 +13,7 @@ date: 2025-01-01
 ## Contact
 * In person: Room S203, 2nd floor
 * [Mattermost](https://ulita.ms.mff.cuni.cz/mattermost)
+    * Invite link in SIS/notice-board
     * Channel: `2526/nswi035-distrib-en`
     * Private message: `@faltin.tomas`
 * email
@@ -48,7 +49,7 @@ date: 2025-01-01
 - RAFT
 
 5. Distributed shared memory
-- konzistenční modely / consistency models
+- consistency models
 
 6. Resource and process management
 - distributed deadlocks
@@ -63,19 +64,19 @@ date: 2025-01-01
 - **Lecture:** :heavy_check_mark:
 - **Slides:** [pptx](../data/2025-26/pds/pds_en_lec01.pptx)
 - **Study:**:
-    - chap. 1.* (whole) - *Introduction*
-    - chap. 2.1 - *Architectural styles*
-    - chap. 2.2 - *Middleware and distributed systems*
-    - chap. 2.3 - *Layered-system architectures*
+    - chapter 1 (entire chapter) - *Introduction*
+    - chapter 2.1 - *Architectural styles*
+    - chapter 2.2 - *Middleware and distributed systems*
+    - chapter 2.3 - *Layered-system architectures*
 
 ---
 
 ### Lab 02 - 08.10.
 - **Lecture:** :heavy_check_mark:
 - **Study:** 
-    - chap. 4.2 - *RPC*
-    - chap. 8.2 - *client-server communication*
-    - chap. 8.3 - *group communication*
+    - chapter 4.2 - *RPC*
+    - chapter 8.2 - *client-server communication*
+    - chapter 8.3 - *group communication*
 
 ---
 
