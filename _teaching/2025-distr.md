@@ -72,6 +72,7 @@ date: 2025-01-01
 ---
 
 ### Lab 02 - 08.10.
+- **book**: [book](../data/2025-26/pds/Distributed_Systems_4.pdf)
 - **Lecture:** :heavy_check_mark:
 - **Study:** 
     - chapter 4.2 - *RPC*
