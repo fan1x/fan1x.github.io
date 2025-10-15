@@ -35,12 +35,12 @@ date: 2025-01-01
 - group communication - [8.4]
 
 3. Synchronization algorithms
-- physical and logical clocks
-- mutual exclusion
-- election
-- causal ordering
+- physical and logical clocks [5.1, 5.2]
+- mutual exclusion [5.3]
+- election [5.4]
+- causal ordering [5.2.2]
 - delivery protocols
-- virtual synchrony
+- virtual synchrony [8.4]
 
 4. Consensus
 - global state detection
@@ -63,7 +63,7 @@ date: 2025-01-01
 ### Lab 01 - 01.10.
 - **Lecture:** :heavy_check_mark:
 - **Slides:** [pdf](../data/2025-26/pds/pds_en_01.pdf)
-- **Study:**:
+- **Study by next lecture (08.10.):**:
     - chapter 1 (entire chapter) - *Introduction*
     - chapter 2.1 - *Architectural styles*
     - chapter 2.2 - *Middleware and distributed systems*
@@ -72,24 +72,31 @@ date: 2025-01-01
 ---
 
 ### Lab 02 - 08.10.
-- **book**: [book](../data/2025-26/pds/Distributed_Systems_4.pdf)
 - **Lecture:** :heavy_check_mark:
-- **Study:** 
-    - chapter 4.2 - *RPC*
-    - chapter 8.2 - *client-server communication*
-    - chapter 8.3 - *group communication*
+- **Slides:** [pdf](../data/2025-26/pds/pds_en_02.pdf)
+- **Study by next lecture (29.10.):** 
+    - **Communication:**
+        - chapter 4.2 - *RPC*
+        - chapter 4.3 - *Message-oriented communication*
+        - chapter 4.4 - *Multicast communication*
+    - **Coordination:**
+        - chapter 5.3 - *Mutual exclusion*
+        - chapter 5.4 - *Election algorithms*
+        - chapter 5.5 - *Gossip-based coordination*
+        - chapter 5.6 - *Distributed event matching*
+    - **Consistency models:**
+        - chapter 7.2 - *Data-centric consistency models*
+
 
 ---
 
 ### Lab 03 - 15.10.
 - **Lecture:** :x: (home study)
-- **Study:** tbd
-
----
 
 ### Lab 04 - 22.10.
 - **Lecture:** :x: (home study)
-- **Study:** tbd
+
+---
 
 ### Lab 05 - 29.10.
 - **Lecture:**: :heavy_check_mark:
