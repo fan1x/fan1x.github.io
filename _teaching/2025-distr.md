@@ -79,14 +79,19 @@ date: 2025-01-01
         - chapter 4.2 - *RPC*
         - chapter 4.3 - *Message-oriented communication*
         - chapter 4.4 - *Multicast communication*
+        - chapter 8.3 - *Reliable client-server communication*
+        - chapter 8.4 - *Reliable group communication*
     - **Coordination:**
+        - chapter 5.1 - *Clock synchronization*
+        - chapter 5.2 - *Logical clocks*
         - chapter 5.3 - *Mutual exclusion*
         - chapter 5.4 - *Election algorithms*
         - chapter 5.5 - *Gossip-based coordination*
         - chapter 5.6 - *Distributed event matching*
     - **Consistency models:**
         - chapter 7.2 - *Data-centric consistency models*
-
+        - chapter 7.5 - *Consistency protocols*
+        
 
 ---
 
