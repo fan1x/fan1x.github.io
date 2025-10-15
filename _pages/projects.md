@@ -17,7 +17,7 @@ I’m also in contact with people from *industry (e.g., Oracle Labs)* and *resea
 
 ## **Research Interests**
 
-- **Distributed and Parallel Systems**  
+- **Distributed and Parallel Data Processing Systems**  
     *e.g., consensus protocols, blockchain, fault tolerance*
 
 - **Big Data Processing**  
@@ -29,7 +29,24 @@ I’m also in contact with people from *industry (e.g., Oracle Labs)* and *resea
 ---
 
 ## **Proposed Research Projects**
-Below are some potential topics for collaboration or thesis work. Each project is designed to lead to a **publishable research paper**.
+Below are some potential topics for collaboration, project or thesis work. Each project is designed to lead to a **publishable research paper**.
+
+---
+
+### **Efficient (Graph) Processing on Modern Distributed Systems:**
+1. [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+2. on blockchain
+3. on disagregated systems
+4. using a learned-index
+5. using data-mining techniques
+6. create a distributed disaggregated architecture that allows 
+...
+
+---
+
+### **Efficient Tracing of Synchronization Primitives**
+Continuation of work of our tool [Tapestry](https://dl.acm.org/doi/10.1145/3764860.3768339). 
+We trace and visualize synchronization primitives, such as blocking (e.g, futex) and busy-waiting (e.g., spinloops) .
 
 ---
 
@@ -38,20 +55,7 @@ Below are some potential topics for collaboration or thesis work. Each project i
 
 ---
 
-### **Efficient Graph Processing on Distributed Systems using CRDT**
-- **Brief Description:** Design and evaluate algorithms for processing massive graphs (e.g., social networks) using [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type).
+### Blochchain Simulator
+Work on a simulator that simulates and visualize various blockchain algorithms.
 
 ---
-
-### **Efficient Graph Processing on Distributed Systems**
-- **Brief Description:** Design and evaluate algorithms for processing massive graphs (e.g., social networks) using distributed frameworks like Apache Flink or Spark.
-
----
-
-### **Adaptive Scheduling in Modern Operating Systems**
-- **Brief Description:** Develop adaptive scheduling techniques for heterogeneous systems (e.g., CPU + GPU) to optimize performance and energy usage.
-
----
-
-### **Blockchain Consensus for High-Throughput Applications**
-- **Brief Description:** Investigate novel consensus algorithms that improve throughput and reduce latency in permissioned blockchain networks.
