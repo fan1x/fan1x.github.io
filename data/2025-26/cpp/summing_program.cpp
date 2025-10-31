@@ -5,7 +5,7 @@ using namespace std;
 
 class C {
   /* CAN ADD MORE ATTRIBUTES */
-  int value;
+  const int value;
   /* USE THIS FUNCTION FOR PRINTING */
   void print() const {
     cout << value << "\n";
@@ -23,7 +23,7 @@ public:
 };
 
 int main(int argc, char *argv[]) {
-  size_t first, last;
+  int first, last;
   cin >> first >> last;
   cout << "Numbers:\n";
   D d(first, last); // prints numbers first, first+1, ..., last
