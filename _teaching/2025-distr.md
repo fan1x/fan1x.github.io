@@ -1,5 +1,5 @@
 ---
-title: ":globe_with_meridians: Principles of Distributed Systems"
+title: "Principles of Distributed Systems"
 collection: teaching
 type: "Lectures"
 permalink: /teaching/2025-distr
@@ -21,11 +21,39 @@ date: 2025-01-01
 
 ## :books: Recommended Books
 - [Van Steen, Tanenbaum - Distributed Systems](https://www.distributed-systems.net) *(Free download)*
+    - [slides](https://www.distributed-systems.net/my-data/DS4/allslides.zip)
 - Chow, Johnson - Distributed Operating Systems & Algorithms
 - Antonopoulos - Mastering Bitcoin, Mastering Lightning Network
 - Santoro - Design and Analysis of Distributed Algorithms
 - Mullender - Distributed Systems
 - Wu - Distributed System Design
+
+---
+
+## :calendar: Lecture Schedule
+
+| Lab | Date    | Lecture | Slides | Study |
+|-----|---------|---------|--------|-------|
+| 01  | 01.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_01.pdf) | 1, 2.1–2.3 |
+| 02  | 08.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_02.pdf) | 4.2-4.4, 8.3, 8.4 |
+| 03  | 15.10.  | :x: | — | 5.1-5.6 |
+| 04  | 22.10.  | :x: | — | 7.2, 7.5 |
+| 05  | 29.10.  | :heavy_check_mark: | [slides.04](../data/2025-26/pds/allslides/slides.04.pdf): pages 13-50, [slides.08](../data/2025-26/pds/allslides/slides.08.pdf)  pages 67-76, [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 1-21 | — |
+| 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 ??? | — |
+| 07  | 12.11.  | :x: (Dean's day) | — | — |
+| 08  | 19.11.  | :heavy_check_mark: | — | — |
+| 09  | 26.11.  | :heavy_check_mark: | — | — |
+| 10  | 03.12.  | :heavy_check_mark: | — | — |
+| 11  | 10.12.  | :heavy_check_mark: | — | — |
+| 12  | 17.12.  | :heavy_check_mark: | — | — |
+| 13  | 07.01.  | :heavy_check_mark: | — | — |
+{: #pds-schedule}
+
+---
+
+### :bangbang: Study Tips
+- Keep up with reading assignments after each lecture.
+- Use Mattermost for quick clarifications.
 
 ---
 
@@ -36,17 +64,17 @@ date: 2025-01-01
     - chapter 2.2 - *Middleware and distributed systems*
     - chapter 2.3 - *Layered-system architectures*
 2. **Interprocess Communication**
-    - chapter 4.2 - *RPC*
-    - chapter 4.3 - *Message-oriented communication*
-    - chapter 4.4 - *Multicast communication*
-    - chapter 8.3 - *Reliable client-server communication*
-    - chapter 8.4 - *Reliable group communication*
+    - chapter 4.2 - *RPC* (slides.04: pages 13-20)
+    - chapter 4.3 - *Message-oriented communication* (slides.04: pages 21-35)
+    - chapter 4.4 - *Multicast communication* (slides.04: pages 36-50)
+    - chapter 8.3 - *Reliable client-server communication* (slides.08: pages 67-73)
+    - chapter 8.4 - *Reliable group communication* (slides.08: pages 74-76)
 3. **Synchronization Algorithms**
     - chapter 5.1 - *Clock synchronization*
     - chapter 5.2 - *Logical clocks*
     - chapter 5.3 - *Mutual exclusion*
     - chapter 5.4 - *Election algorithms*
-    - chapter 5.5 - *Gossised coordination*p-ba
+    - chapter 5.5 - *Gossip-based coordination*
     - chapter 5.6 - *Distributed event matching*
 
     - delivery protocols
@@ -64,29 +92,4 @@ date: 2025-01-01
     - load balancing
 7. **Technical Principles of Cryptocurrencies**
 
----
 
-## :calendar: Lecture Schedule
-
-| Lab | Date    | Lecture | Slides | Study |
-|-----|---------|---------|--------|-------|
-| 01  | 01.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_01.pdf) | 1, 2.1–2.3 |
-| 02  | 08.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_02.pdf) | 4.2-4.4, 8.3, 8.4 |
-| 03  | 15.10.  | :x: | — | 5.1-5.6 |
-| 04  | 22.10.  | :x: | — | 7.2, 7.5 |
-| 05  | 29.10.  | :heavy_check_mark: | — | — |
-| 06  | 05.11.  | :heavy_check_mark: | — | — |
-| 07  | 12.11.  | :x: (Dean's day) | — | — |
-| 08  | 19.11.  | :heavy_check_mark: | — | — |
-| 09  | 26.11.  | :heavy_check_mark: | — | — |
-| 10  | 03.12.  | :heavy_check_mark: | — | — |
-| 11  | 10.12.  | :heavy_check_mark: | — | — |
-| 12  | 17.12.  | :heavy_check_mark: | — | — |
-| 13  | 07.01.  | :heavy_check_mark: | — | — |
-{: #pds-schedule}
-
----
-
-### :bangbang: Study Tips
-- Keep up with reading assignments after each lecture.
-- Use Mattermost for quick clarifications.
