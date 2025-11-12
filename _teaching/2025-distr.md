@@ -39,7 +39,7 @@ date: 2025-01-01
 | 03  | 15.10.  | :x: | — | 5.1-5.6 |
 | 04  | 22.10.  | :x: | — | 7.2, 7.5 |
 | 05  | 29.10.  | :heavy_check_mark: | [slides.04](../data/2025-26/pds/allslides/slides.04.pdf): pages 13-50, [slides.08](../data/2025-26/pds/allslides/slides.08.pdf)  pages 67-76, [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 1-21 | — |
-| 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 ??? | — |
+| 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 ??? | 2.4, 8.1, 8.2 |
 | 07  | 12.11.  | :x: (Dean's day) | — | — |
 | 08  | 19.11.  | :heavy_check_mark: | — | — |
 | 09  | 26.11.  | :heavy_check_mark: | — | — |
@@ -63,32 +63,32 @@ date: 2025-01-01
     - chapter 2.1 - *Architectural styles*
     - chapter 2.2 - *Middleware and distributed systems*
     - chapter 2.3 - *Layered-system architectures*
+    - chapter 2.4 - *Symmetrically distributed system architectures*
 2. **Interprocess Communication**
-    - chapter 4.2 - *RPC* (slides.04: pages 13-20)
-    - chapter 4.3 - *Message-oriented communication* (slides.04: pages 21-35)
-    - chapter 4.4 - *Multicast communication* (slides.04: pages 36-50)
-    - chapter 8.3 - *Reliable client-server communication* (slides.08: pages 67-73)
-    - chapter 8.4 - *Reliable group communication* (slides.08: pages 74-76)
+    - chapter 4.2 - *RPC*
+    - chapter 4.3 - *Message-oriented communication*
+    - chapter 4.4 - *Multicast communication*
+    - chapter 8.3 - *Reliable client-server communication*
+    - chapter 8.4 - *Reliable group communication*
+        - virtual synchrony
 3. **Synchronization Algorithms**
     - chapter 5.1 - *Clock synchronization*
     - chapter 5.2 - *Logical clocks*
     - chapter 5.3 - *Mutual exclusion*
     - chapter 5.4 - *Election algorithms*
+        - RAFT
     - chapter 5.5 - *Gossip-based coordination*
     - chapter 5.6 - *Distributed event matching*
-
-    - delivery protocols
-    - virtual synchrony [8.4]
 4. **Consensus**
-    - global state detection
-    - armies and generals
-    - Paxos
-    - RAFT
+    - chapter 8.1 - *Introduction*
+    - chapter 8.2 - *Process resilience*
+        - Paxos, RAFT, byzantine agreement problem
 5. **Distributed Shared Memory**
-    - consistency models
+    - chapter 7.2 - *consistency models*
+    - chapter 7.5 - *consistency protocols*
 6. **Resource and Process Management**
     - distributed deadlocks
-    - process migration
+    - process migration [3.5]
     - load balancing
 7. **Technical Principles of Cryptocurrencies**
 
