@@ -89,7 +89,7 @@
 }
 
 /* Default (light mode) */
-#cpp-labs tbody tr:nth-child(6) {
+#cpp-labs tbody tr:nth-child(7) {
   background-color: #fff3bf;   /* light amber (high visibility on white) */
   border-top: 1px solid #e0c24f;
   border-bottom: 1px solid #e0c24f;
@@ -97,14 +97,14 @@
 
 /* Dark mode adjustment */
 @media (prefers-color-scheme: dark) {
-  #cpp-labs tbody tr:nth-child(6) {
+  #cpp-labs tbody tr:nth-child(7) {
     background-color: #4a3f19; /* deep amber-brown; high contrast on dark */
     border-top: 1px solid #a88f2a;
     border-bottom: 1px solid #a88f2a;
   }
 
   /* If your theme has zebra striping, ensure readability */
-  #cpp-labs tbody tr:nth-child(6) td {
+  #cpp-labs tbody tr:nth-child(7) td {
     color: #fff; /* enforce light text on the dark highlight */
   }
 }
