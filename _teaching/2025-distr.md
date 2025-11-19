@@ -39,7 +39,7 @@ date: 2025-01-01
 | 03  | 15.10.  | :x: | — | 5.1-5.6 |
 | 04  | 22.10.  | :x: | — | 7.2, 7.5 |
 | 05  | 29.10.  | :heavy_check_mark: | [slides.04](../data/2025-26/pds/allslides/slides.04.pdf): pages 13-50, [slides.08](../data/2025-26/pds/allslides/slides.08.pdf)  pages 67-76, [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 1-21 | — |
-| 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 ??? | 7.3, 7.4, 2.4 |
+| 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 | 7.3, 7.4, 2.4 |
 | 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
 | 08  | 19.11.  | :heavy_check_mark: | — | — |
 | 09  | 26.11.  | :heavy_check_mark: | — | — |
