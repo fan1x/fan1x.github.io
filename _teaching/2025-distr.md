@@ -41,7 +41,7 @@ date: 2025-01-01
 | 05  | 29.10.  | :heavy_check_mark: | [slides.04](../data/2025-26/pds/allslides/slides.04.pdf): pages 13-50, [slides.08](../data/2025-26/pds/allslides/slides.08.pdf)  pages 67-76, [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 1-21 | — |
 | 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 | 7.3, 7.4, 2.4 |
 | 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
-| 08  | 19.11.  | :heavy_check_mark: | — | — |
+| 08  | 19.11.  | :heavy_check_mark: | [Course Survey](https://forms.microsoft.com/e/G7RUyAYsz4) | — |
 | 09  | 26.11.  | :heavy_check_mark: | — | — |
 | 10  | 03.12.  | :heavy_check_mark: | — | — |
 | 11  | 10.12.  | :heavy_check_mark: | — | — |
