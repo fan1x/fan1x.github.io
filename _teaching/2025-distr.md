@@ -44,7 +44,7 @@ date: 2025-01-01
 | 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
 | 08  | 19.11.  | :heavy_check_mark: | — | — |
 | 09  | 26.11.  | :heavy_check_mark: | 8.2, 8.5 | — |
-| 10  | 03.12.  | :heavy_check_mark: | — | — |
+| 10  | 03.12.  | :heavy_check_mark: | [Exam Form](https://forms.microsoft.com/e/kzNdkeyH51) | — |
 | 11  | 10.12.  | :heavy_check_mark: | — | — |
 | 12  | 17.12.  | :heavy_check_mark: | — | — |
 | 13  | 07.01.  | :heavy_check_mark: | — | — |
@@ -79,8 +79,7 @@ date: 2025-01-01
 | | [5.3] *Mutual exclusion* | **Centralized Algorithm (Sequencer)**, **Ricart-Agrawala Algorithm**,**Token-Ring Algorithm**, **Decentralized algorithm**, Deadlock, **ZooKeeper Locking**. |
 | | [5.4] *Election algorithms* - RAFT | **Bully Algorithm**, **Ring Algorithm**, **RAFT Leader Election**, **Proof of Work (PoW)**, **Proof of Stake (PoS)**, Invitation Algorithm. |
 | **6. Naming** | [6.2.3] *Distributed hash tables* | Flat Naming, **Distributed Hash Tables (DHT)**, Chord, Forwarding Pointers, Self-Certifying Name. |
-| **7. Consistency and Replication** | [7.2] **Data-centric consistency models** | **Sequential Consistency, Causal Consistency, Entry Consistency, Eventual Consistency, Continuous Consistency (Conit), Distributed Shared Memory (DSM)**, **Conflict-Free Replicated Data Type (CRDT)**, **Coherence Model.** |
-| | [7.3] **Client-centric consistency models** | **Monotonic Reads, Monotonic Writes, Read Your Writes, Writes Follow Reads**, Session consistency. |
+| **7. Consistency and Replication** | [7.2] **Data-centric consistency models** | **Sequential Consistency, Causal Consistency, Entry Consistency, Eventual Consistency**, Continuous Consistency (Conit), **Distributed Shared Memory (DSM)**, **Conflict-Free Replicated Data Type (CRDT)**, **Coherence Model.** |
 | | [7.4] *Replica management* | Replica placement, Content Distribution Networks (CDN), Permanent/Server-initiated/Client-initiated replicas, **Push-based vs. Pull-based Protocols**, Content-blind caching. |
 | **8. Fault tolerance** | [8.1] *Introduction* | Failure Models (Crash, Omission, Timing, Arbitrary/Byzantine Failures), Redundancy (Information, Physical, Time), Dependability (Availability, Reliability, Safety). |
 | | [8.2] *Process resilience* (Paxos, RAFT, byzantine agreement problem) | Process Groups, Consensus, **Paxos** (Proposer, Acceptor, Learner, Ballot numbers), **RAFT** (Term, Log Replication, AppendEntries), **Byzantine Generals Problem (BGP)**, **Practical Byzantine Fault Tolerance (PBFT)**, **Consensus in blockchain systems**, **CAP Theorem**. |
