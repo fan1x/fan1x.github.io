@@ -44,7 +44,7 @@ date: 2025-01-01
 | 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
 | 08  | 19.11.  | :heavy_check_mark: | — | — |
 | 09  | 26.11.  | :heavy_check_mark: | 8.2, 8.5 | — |
-| 10  | 03.12.  | :heavy_check_mark: | [Exam Form](https://forms.microsoft.com/e/kzNdkeyH51) | — |
+| 10  | 03.12.  | :heavy_check_mark: | [Exam Form](https://forms.microsoft.com/e/kzNdkeyH51), [slides](../data/2025-26/pds/PDS-en.pptx): pages 107-126 | — |
 | 11  | 10.12.  | :heavy_check_mark: | — | — |
 | 12  | 17.12.  | :heavy_check_mark: | — | — |
 | 13  | 07.01.  | :heavy_check_mark: | — | — |
@@ -85,18 +85,22 @@ date: 2025-01-01
 | | [8.2] *Process resilience* (Paxos, RAFT, byzantine agreement problem) | Process Groups, Consensus, **Paxos** (Proposer, Acceptor, Learner, Ballot numbers), **RAFT** (Term, Log Replication, AppendEntries), **Byzantine Generals Problem (BGP)**, **Practical Byzantine Fault Tolerance (PBFT)**, **Consensus in blockchain systems**, **CAP Theorem**. |
 | | [8.3] *Reliable client-server communication* | Reliable RPC Semantics, Failure detection, **At-least-once semantics**, **At-most-once semantics**, **Idempotent operation**. |
 | | [8.4] *Reliable group communication* (virtual synchrony) | Reliable multicasting, Feedback Implosion, **Atomic multicast**, **Virtual Synchrony**. |
-| | [8.5] *Distributed commit* | **Distributed Commit**, **Two-Phase Commit (2PC)**, Three-Phase Commit (3PC), Recovery, Checkpointing/Distributed Snapshot (Recovery line), Message logging. |
+| | [8.5] *Distributed commit* | **Distributed Commit**, **Two-Phase Commit (2PC)**, Three-Phase Commit (3PC). |
+| | [8.6.2] *Checkpointing* | **Checkpointing**, **distributed snapshot**, **independent chackpointing**  |
 
 ### Missing Topics and Details
+
+- [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) -  Incrementally translated slides from the Czech lecture
+- [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
 
 | Module | Topic | Missing/Unexplained Concepts/Protocols/Algorithms | Sources |
 | :--- | :--- | :--- | :--- |
 | **Coordination** | *Mutual exclusion* | **Maekawa’s Algorithm**. | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
-| | [5.4] *Election algorithms* | **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)**. | |
+| | *Election algorithms* | **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)**. | |
 | **Distributed paging** | *Distributed paging* | **Distributed paging with sequestion or causal consistency** | |
 | **Virtual synchrony** | *Virtual synchrony* | **Trans Algorithm**, **Transis algorithm**, **Isis**. | [Transis](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQDx2lp7pS6uRJKaVUiOS7IFARwZWWtZZutBfUz3gUsWX-Q?e=1dcxSK) |
-| **Global state detection** | *Global state detection* | **Chandy-Lamport Marker Algorithm** (for distributed snapshots/consistent global state), **Diffusing Computation** (for deadlock/termination detection). | [Chandy-Lamport algorithm](https://www.cs.uic.edu/~ajayk/Chapter4.pdf) |
-| **Termination detection** | *Termination detection* | **Dijsktra-Scholten Algorithm**, **Huang's Algorithm** | [wiki-DS](https://en.wikipedia.org/wiki/Dijkstra%E2%80%93Scholten_algorithm), [wiki-Huang](https://en.wikipedia.org/wiki/Huang%27s_algorithm),  |
+| **Global state detection** | *Global state detection* | **Chandy-Lamport Marker Algorithm** (for distributed snapshots/consistent global state), **Diffusing Computation** (for deadlock/termination detection). | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [slides](https://www.cs.uic.edu/~ajayk/Chapter4.pdf) |
+| **Termination detection** | *Termination detection* | **Dijsktra-Scholten Algorithm**, **Huang's Algorithm**  | [wiki-DS](https://en.wikipedia.org/wiki/Dijkstra%E2%80%93Scholten_algorithm), [wiki-Huang](https://en.wikipedia.org/wiki/Huang%27s_algorithm),  |
 | **Deadlock Detection** | *Deadlock Detection* | **TWFG (Transaction-Wait-For Graph), Centralized algorithms: Ho-Ramamoorthy algorith, Path-pushing algorithms: Menasce-Muntz, Obermarck, Edge-chaising algorithms: Mitchell-Merritt, Chandy-Misra-Haas, Diffusing computation: Bracha-Toueg** | [Edge-chasing Chandy-Misra-Haas](https://www.cs.utexas.edu/~misra/scannedPdf.dir/DistrDeadlockDetection.pdf), [DistrDeadlocks.pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQCZwcKxJcAzTphh4wmY2LUIAbpWvBueGRd2Dd5ZokAUVBE?e=yvcHRw) |
 | **Blockchain** | *Blockchain* | **transactions, UTXO, signatures, mining, consensus, payment channels, lightning network** | [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) |
 
