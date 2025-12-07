@@ -92,10 +92,11 @@ date: 2025-01-01
 
 - [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) -  Incrementally translated slides from the Czech lecture
 - [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
+- [PDS-cz.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds.pptx) - Original Czech slides (can be used after translation)
 
 | Module | Topic | Missing/Unexplained Concepts/Protocols/Algorithms | Sources |
 | :--- | :--- | :--- | :--- |
-| **Coordination** | *Mutual exclusion* | **Maekawa’s Algorithm**. | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
+| **Coordination** | *Mutual exclusion* | **Maekawa’s Algorithm**, **Ricard-Agrawala**, **Naive Voting**, **Maekawa voting**. | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
 | | *Election algorithms* | **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)**. | |
 | **Distributed paging** | *Distributed paging* | **Distributed paging with sequestion or causal consistency** | |
 | **Virtual synchrony** | *Virtual synchrony* | **Trans Algorithm**, **Transis algorithm**, **Isis**. | [Transis](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQDx2lp7pS6uRJKaVUiOS7IFARwZWWtZZutBfUz3gUsWX-Q?e=1dcxSK) |
