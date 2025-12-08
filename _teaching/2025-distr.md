@@ -89,7 +89,7 @@ date: 2025-01-01
 | | [8.6.2] *Checkpointing* | **Checkpointing**, **distributed snapshot**, **independent chackpointing**  |
 
 ### Missing Topics and Details
-
+- [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW)
 - [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) -  Incrementally translated slides from the Czech lecture
 - [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
 - [PDS-cz.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds.pptx) - Original Czech slides (can be used as a reference and/or after translation)
