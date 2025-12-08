@@ -92,7 +92,7 @@ date: 2025-01-01
 
 - [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) -  Incrementally translated slides from the Czech lecture
 - [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
-- [PDS-cz.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds.pptx) - Original Czech slides (can be used after translation)
+- [PDS-cz.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds.pptx) - Original Czech slides (can be used as a reference and/or after translation)
 
 | Module | Topic | Missing/Unexplained Concepts/Protocols/Algorithms | Sources |
 | :--- | :--- | :--- | :--- |
