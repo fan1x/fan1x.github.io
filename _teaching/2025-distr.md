@@ -22,7 +22,7 @@ date: 2025-01-01
 ## :books: Recommended Books
 - [Van Steen, Tanenbaum - Distributed Systems](https://www.distributed-systems.net) *(Free download)*
     - [slides](https://www.distributed-systems.net/my-data/DS4/allslides.zip)
-- [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/)
+- [A.D. Kshemkalyani, M. Singhal - Distributed Computing, Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 - Chow, Johnson - Distributed Operating Systems & Algorithms
 - Antonopoulos - Mastering Bitcoin, Mastering Lightning Network
 - Santoro - Design and Analysis of Distributed Algorithms
@@ -44,10 +44,10 @@ date: 2025-01-01
 | 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
 | 08  | 19.11.  | :heavy_check_mark: | — | — |
 | 09  | 26.11.  | :heavy_check_mark: | 8.2, 8.5 | — |
-| 10  | 03.12.  | :heavy_check_mark: | [Exam Form](https://forms.microsoft.com/e/kzNdkeyH51), [slides](../data/2025-26/pds/PDS-en.pptx): pages 107-126 | — |
-| 11  | 10.12.  | :heavy_check_mark: | — | — |
-| 12  | 17.12.  | :heavy_check_mark: | — | — |
-| 13  | 07.01.  | :heavy_check_mark: | — | — |
+| 10  | 03.12.  | :heavy_check_mark: | [slides](../data/2025-26/pds/PDS-en.pptx): pages 107-126 | — |
+| 11  | 10.12.  | :heavy_check_mark: | [slides](../data/2025-26/pds/PDS-en.pptx): pages 46-64 | — |
+| 12  | 17.12.  | :heavy_check_mark: | Tbd: Trans, Transis, Vsync/ISIS | — |
+| 13  | 07.01.  | :heavy_check_mark: | tbd: Blockchain | — |
 {: #pds-schedule}
 
 ---
