@@ -77,7 +77,7 @@ date: 2025-01-01
 | **5. Coordination** | [5.1] *Clock synchronization* | **Physical clocks**, **NTP**, Reference Broadcast Synchronization (RBS), Coordinated Universal Time (UTC). |
 | | [5.2] *Logical clocks* | **Logical Clocks**, **Causal Dependency**, **Lamport’s Logical Clocks** (Timestamp), **Vector Clocks**, **Totally Ordered Multicasting**. |
 | | [5.3] *Mutual exclusion* | **Centralized Algorithm (Sequencer)**, **Ricart-Agrawala Algorithm**,**Token-Ring Algorithm**, **Decentralized algorithm**, Deadlock, **ZooKeeper Locking**. |
-| | [5.4] *Election algorithms* - RAFT | **Bully Algorithm**, **Ring Algorithm**, **RAFT Leader Election**, **Proof of Work (PoW)**, **Proof of Stake (PoS)**, Invitation Algorithm. |
+| | [5.4] *Election algorithms* - **RAFT** | **Bully Algorithm**, **Ring Algorithm**, **RAFT Leader Election**, **Proof of Work (PoW)**, **Proof of Stake (PoS)**, **Invitation Algorithm.** |
 | **6. Naming** | [6.2.3] *Distributed hash tables* | Flat Naming, **Distributed Hash Tables (DHT)**, Chord, Forwarding Pointers, Self-Certifying Name. |
 | **7. Consistency and Replication** | [7.2] **Data-centric consistency models** | **Sequential Consistency, Causal Consistency, Entry Consistency, Eventual Consistency**, Continuous Consistency (Conit), **Distributed Shared Memory (DSM)**, **Conflict-Free Replicated Data Type (CRDT)**, **Coherence Model.** |
 | | [7.4] *Replica management* | Replica placement, Content Distribution Networks (CDN), Permanent/Server-initiated/Client-initiated replicas, **Push-based vs. Pull-based Protocols**, Content-blind caching. |
@@ -97,8 +97,8 @@ date: 2025-01-01
 | Module | Topic | Missing/Unexplained Concepts/Protocols/Algorithms | Sources |
 | :--- | :--- | :--- | :--- |
 | **Coordination** | *Mutual exclusion* | **Maekawa’s Algorithm**, **Ricard-Agrawala**, **Naive Voting**, **Maekawa voting**. | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
-| | *Election algorithms* | **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)**. | |
-| **Distributed paging** | *Distributed paging* | **Distributed paging with sequestion or causal consistency** | |
+| | *Election algorithms* | **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)**. | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) |
+| **Distributed paging** | *Distributed paging* | **Distributed paging with sequestion or causal consistency** | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) |
 | **Virtual synchrony** | *Virtual synchrony* | **Trans Algorithm**, **Transis algorithm**, **VSync/ISIS**. | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [Transis](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQDx2lp7pS6uRJKaVUiOS7IFARwZWWtZZutBfUz3gUsWX-Q?e=1dcxSK), [ISIS+Transis](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW) |
 | **Global state detection** | *Global state detection* | **Chandy-Lamport Marker Algorithm** (for distributed snapshots/consistent global state), **Diffusing Computation** (for deadlock/termination detection). | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [slides](https://www.cs.uic.edu/~ajayk/Chapter4.pdf) |
 | **Termination detection** | *Termination detection* | **Dijsktra-Scholten Algorithm**, **Huang's Algorithm**  | [wiki-DS](https://en.wikipedia.org/wiki/Dijkstra%E2%80%93Scholten_algorithm), [wiki-Huang](https://en.wikipedia.org/wiki/Huang%27s_algorithm),  |
