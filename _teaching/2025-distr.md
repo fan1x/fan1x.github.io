@@ -84,7 +84,7 @@ date: 2025-01-01
 | **8. Fault tolerance** | [8.1] *Introduction* | Failure Models (Crash, Omission, Timing, Arbitrary/Byzantine Failures), Redundancy (Information, Physical, Time), Dependability (Availability, Reliability, Safety). |
 | | [8.2] *Process resilience* (Paxos, RAFT, byzantine agreement problem) | Process Groups, Consensus, **Paxos** (Proposer, Acceptor, Learner, Ballot numbers), **RAFT** (Term, Log Replication, AppendEntries), **Byzantine Generals Problem (BGP)**, **Practical Byzantine Fault Tolerance (PBFT)**, **Consensus in blockchain systems**, **CAP Theorem**. |
 | | [8.3] *Reliable client-server communication* | Reliable RPC Semantics, Failure detection, **At-least-once semantics**, **At-most-once semantics**, **Idempotent operation**. |
-| | [8.4] *Reliable group communication* (virtual synchrony) | Reliable multicasting, Feedback Implosion, **Atomic multicast**, **Virtual Synchrony**. |
+| | [8.4] *Reliable group communication* (virtual synchrony) | Reliable multicasting, Feedback Implosion, **Atomic multicast**, **Causally ordered multicast**, **Virtual Synchrony**. |
 | | [8.5] *Distributed commit* | **Distributed Commit**, **Two-Phase Commit (2PC)**, Three-Phase Commit (3PC). |
 | | [8.6.2] *Checkpointing* | **Checkpointing**, **distributed snapshot**, **independent chackpointing**  |
 
