@@ -46,8 +46,8 @@ date: 2025-01-01
 | 09  | 26.11.  | :heavy_check_mark: | 8.2, 8.5 | — |
 | 10  | 03.12.  | :heavy_check_mark: | [slides](../data/2025-26/pds/PDS-en.pptx): pages 107-126 | — |
 | 11  | 10.12.  | :heavy_check_mark: | [slides](../data/2025-26/pds/PDS-en.pptx): pages 46-64 | — |
-| 12  | 17.12.  | :heavy_check_mark: | Tbd: Trans, Transis, Vsync/ISIS | — |
-| 13  | 07.01.  | :heavy_check_mark: | tbd: Blockchain | — |
+| 12  | 17.12.  | :heavy_check_mark: | TBD: Trans, Transis, Vsync/ISIS, Blockchain | — |
+| 13  | 07.01.  | :heavy_check_mark: | **Shared together with Czech lecture in S4** | CRDT, DHT |
 {: #pds-schedule}
 
 ---
