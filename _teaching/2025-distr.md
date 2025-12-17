@@ -32,6 +32,7 @@ date: 2025-01-01
 ---
 
 ## :calendar: Lecture Schedule
+- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) -  Incrementally translated slides
 
 | Lab | Date    | Lecture | Slides | Study |
 |-----|---------|---------|--------|-------|
@@ -44,10 +45,10 @@ date: 2025-01-01
 | 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
 | 08  | 19.11.  | :heavy_check_mark: | — | — |
 | 09  | 26.11.  | :heavy_check_mark: | 8.2, 8.5 | — |
-| 10  | 03.12.  | :heavy_check_mark: | [slides](../data/2025-26/pds/PDS-en.pptx): pages 107-126 | — |
-| 11  | 10.12.  | :heavy_check_mark: | [slides](../data/2025-26/pds/PDS-en.pptx): pages 46-64 | — |
-| 12  | 17.12.  | :heavy_check_mark: | TBD: Trans, Transis, Vsync/ISIS, Blockchain | — |
-| 13  | 07.01.  | :heavy_check_mark: | **Shared together with Czech lecture in S4** | CRDT, DHT |
+| 10  | 03.12.  | :heavy_check_mark: | pages: 107-126 | — |
+| 11  | 10.12.  | :heavy_check_mark: | pages: 46-64 | — |
+| 12  | 17.12.  | :heavy_check_mark: | pages: 88-105 - Vector clock, Trans, Transis, Vsync/ISIS, Blockchain |  |
+| 13  | 07.01.  | :heavy_check_mark: | **Shared together with the Czech lecture in S4**: CRDT, DHT, ... | |
 {: #pds-schedule}
 
 ---
@@ -90,20 +91,19 @@ date: 2025-01-01
 
 ### Missing Topics and Details
 - [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW)
-- [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) -  Incrementally translated slides from the Czech lecture
+- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) -  Incrementally translated slides from the Czech lecture
 - [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
 - [PDS-cz.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds.pptx) - Original Czech slides (can be used as a reference and/or after translation)
 
-| Module | Topic | Missing/Unexplained Concepts/Protocols/Algorithms | Sources |
+| Topic | Missing/Unexplained Concepts/Protocols/Algorithms | Pages | Addition Sources |
 | :--- | :--- | :--- | :--- |
-| **Coordination** | *Mutual exclusion* | **Maekawa’s Algorithm**, **Ricard-Agrawala**, **Naive Voting**, **Maekawa voting**. | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
-| | *Election algorithms* | **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)**. | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) |
-| **Distributed paging** | *Distributed paging* | **Distributed paging with sequestion or causal consistency** | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx) |
-| **Virtual synchrony** | *Virtual synchrony* | **Trans Algorithm**, **Transis algorithm**, **VSync/ISIS**. | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [Transis](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQDx2lp7pS6uRJKaVUiOS7IFARwZWWtZZutBfUz3gUsWX-Q?e=1dcxSK), [ISIS+Transis](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW) |
-| **Global state detection** | *Global state detection* | **Chandy-Lamport Marker Algorithm** (for distributed snapshots/consistent global state), **Diffusing Computation** (for deadlock/termination detection). | [PDS-en.pptx](../data/2025-26/pds/PDS-en.pptx), [slides](https://www.cs.uic.edu/~ajayk/Chapter4.pdf) |
-| **Termination detection** | *Termination detection* | **Dijsktra-Scholten Algorithm**, **Huang's Algorithm**  | [wiki-DS](https://en.wikipedia.org/wiki/Dijkstra%E2%80%93Scholten_algorithm), [wiki-Huang](https://en.wikipedia.org/wiki/Huang%27s_algorithm),  |
-| **Deadlock Detection** | *Deadlock Detection* | **TWFG (Transaction-Wait-For Graph), Centralized algorithms: Ho-Ramamoorthy algorith, Path-pushing algorithms: Menasce-Muntz, Obermarck, Edge-chaising algorithms: Mitchell-Merritt, Chandy-Misra-Haas, Diffusing computation: Bracha-Toueg** | [Edge-chasing Chandy-Misra-Haas](https://www.cs.utexas.edu/~misra/scannedPdf.dir/DistrDeadlockDetection.pdf), [DistrDeadlocks.pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQCZwcKxJcAzTphh4wmY2LUIAbpWvBueGRd2Dd5ZokAUVBE?e=yvcHRw) |
-| **Blockchain** | *Blockchain* | **transactions, UTXO, signatures, mining, consensus, payment channels, lightning network** | [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) |
-| **Distributed data structures** | *CRDTs*, *Distributed hash-tables* | **CRDT** | [wiki](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) |
+| **Mutual exclusion** | **Maekawa’s Algorithm**, **Ricard-Agrawala**, **Naive Voting**, **Maekawa voting**, **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)** | PDS-en: 46-64 | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
+| **Distributed paging** | **Distributed paging with sequestion or causal consistency** | pds-en\*: 203-209 | |
+| **Virtual synchrony** | **Trans Algorithm**, **Transis algorithm**, **VSync/ISIS**. | pds-en: 87-105 | [Transis](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQDx2lp7pS6uRJKaVUiOS7IFARwZWWtZZutBfUz3gUsWX-Q?e=1dcxSK), [ISIS+Transis](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW) |
+| **Global state detection** | **Chandy-Lamport Marker Algorithm** (for distributed snapshots/consistent global state), **Diffusing Computation** (for deadlock/termination detection). | pds-en: 114-128 | [slides](https://www.cs.uic.edu/~ajayk/Chapter4.pdf) |
+| **Termination detection** | **Dijsktra-Scholten Algorithm**, **Huang's Algorithm**  | pds-en: 108-113 | [wiki-DS](https://en.wikipedia.org/wiki/Dijkstra%E2%80%93Scholten_algorithm), [wiki-Huang](https://en.wikipedia.org/wiki/Huang%27s_algorithm) |
+| **Deadlock Detection** | **TWFG (Transaction-Wait-For Graph), Centralized algorithms: Ho-Ramamoorthy algorith, Path-pushing algorithms: Menasce-Muntz, Obermarck, Edge-chaising algorithms: Mitchell-Merritt, Chandy-Misra-Haas, Diffusing computation: Bracha-Toueg** | pds-en\*: 216-223 | [Edge-chasing Chandy-Misra-Haas](https://www.cs.utexas.edu/~misra/scannedPdf.dir/DistrDeadlockDetection.pdf), [DistrDeadlocks.pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQCZwcKxJcAzTphh4wmY2LUIAbpWvBueGRd2Dd5ZokAUVBE?e=yvcHRw) |
+| **Blockchain** | **transactions, UTXO, signatures, mining, consensus, payment channels, lightning network** | pds-btc: full | |
+| **Distributed data structures** | **CRDT**, **DHT** | tbd | [wiki](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) |
 
 
