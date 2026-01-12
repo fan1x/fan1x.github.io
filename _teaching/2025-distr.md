@@ -84,7 +84,7 @@ Most topics in the syllabus are covered in Distributed Systems. The remainder is
 | | [8.5] *Distributed commit* | **Distributed Commit**, **Two-Phase Commit (2PC)**, Three-Phase Commit (3PC). |
 | | [8.6.2] *Checkpointing* | **Checkpointing**, **distributed snapshot**, **independent chackpointing**  |
 
-### Other Topics and Details
+### Remaining Topics
 - [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW)
 - [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) -  Translated slides from the Czech lecture
 - [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
