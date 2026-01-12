@@ -48,18 +48,13 @@ date: 2025-01-01
 | 10  | 03.12.  | :heavy_check_mark: | pages: 107-126 | — |
 | 11  | 10.12.  | :heavy_check_mark: | pages: 46-64 | — |
 | 12  | 17.12.  | :heavy_check_mark: | pages: 88-105 - Vector clock, Trans, Transis, Vsync/ISIS, Blockchain |  |
-| 13  | 07.01.  | :heavy_check_mark: | **Shared together with the Czech lecture in S4**: CRDT, DHT, ... | |
+| 13  | 07.01.  | :heavy_check_mark: | **Shared together with the Czech lecture in S4**: CRDT | |
 {: #pds-schedule}
 
 ---
 
-### :bangbang: Study Tips
-- Keep up with reading assignments after each lecture.
-- Use Mattermost for quick clarifications.
-
----
-
 ## :scroll: Syllabus
+Most topics in the syllabus are covered in Distributed Systems. The remainder is addressed in the lecture slides and supplementary readings. If anything is unclear or you notice a topic missing, please let me know.
 
 ### Distributed Systems - Van Steen, Tanenbaum
 - [book](https://www.distributed-systems.net) *(free download)*, [slides](https://www.distributed-systems.net/my-data/DS4/allslides.zip)
@@ -89,13 +84,13 @@ date: 2025-01-01
 | | [8.5] *Distributed commit* | **Distributed Commit**, **Two-Phase Commit (2PC)**, Three-Phase Commit (3PC). |
 | | [8.6.2] *Checkpointing* | **Checkpointing**, **distributed snapshot**, **independent chackpointing**  |
 
-### Missing Topics and Details
+### Other Topics and Details
 - [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW)
 - [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) -  Translated slides from the Czech lecture
 - [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
 - [PDS-cz.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds.pptx) - Original Czech slides (can be used as a reference and/or after translation)
 
-| Topic | Missing/Unexplained Concepts/Protocols/Algorithms | Pages | Addition Sources |
+| Topic | Concepts/Protocols/Algorithms | Pages | Addition Sources |
 | :--- | :--- | :--- | :--- |
 | **Mutual exclusion** | **Maekawa’s Algorithm**, **Ricard-Agrawala**, **Naive Voting**, **Maekawa voting**, **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)** | PDS-en: 46-64 | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
 | **Election algorithms** | **Invitation Algorithm**, **Ring Algorithms: Chang & Roberts, Hirschback & Sinclair** | PDS-en: 65-75 | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
