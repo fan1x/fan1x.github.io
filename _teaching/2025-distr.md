@@ -38,8 +38,8 @@ date: 2025-01-01
 |-----|---------|---------|--------|-------|
 | 01  | 01.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_01.pdf) | 1, 2.1–2.3 |
 | 02  | 08.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_02.pdf) | 4.2-4.4, 8.3, 8.4 |
-| 03  | 15.10.  | :x: | — | 5.1-5.6 |
-| 04  | 22.10.  | :x: | — | 7.2, 7.5 |
+| 03  | 15.10.  | :x: | Home study | 5.1-5.6 |
+| 04  | 22.10.  | :x: | Home study | 7.2, 7.5 |
 | 05  | 29.10.  | :heavy_check_mark: | [slides.04](../data/2025-26/pds/allslides/slides.04.pdf): pages 13-50, [slides.08](../data/2025-26/pds/allslides/slides.08.pdf)  pages 67-76, [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 1-21 | — |
 | 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 | 7.3, 7.4, 2.4 |
 | 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
@@ -78,7 +78,7 @@ Most topics in the syllabus are covered in Distributed Systems. The remainder is
 | **7. Consistency and Replication** | [7.2] **Data-centric consistency models** | **Sequential Consistency, Causal Consistency, Entry Consistency, (Strong) Eventual Consistency, Weak Consistency**, Continuous Consistency (Conit), **Distributed Shared Memory (DSM)**, **Conflict-Free Replicated Data Type (CRDT)**, **Coherence Model.** |
 | | [7.4] *Replica management* | Replica placement, Content Distribution Networks (CDN), Permanent/Server-initiated/Client-initiated replicas, **Push-based vs. Pull-based Protocols**, Content-blind caching. |
 | **8. Fault tolerance** | [8.1] *Introduction* | Failure Models (Crash, Omission, Timing, Arbitrary/Byzantine Failures), Redundancy (Information, Physical, Time), Dependability (Availability, Reliability, Safety). |
-| | [8.2] *Process resilience* (Paxos, RAFT, byzantine agreement problem) | Process Groups, Consensus, **Paxos** (Proposer, Acceptor, Learner, Ballot numbers), **RAFT** (Term, Log Replication, AppendEntries), **Byzantine Generals Problem (BGP)**, **Practical Byzantine Fault Tolerance (PBFT)**, **Consensus in blockchain systems**, **CAP Theorem**. |
+| | [8.2] *Process resilience* (Paxos, RAFT, byzantine agreement problem) | Process Groups, Consensus, **Paxos** (Proposer, Acceptor, Learner), **RAFT** (Term, Log Replication, AppendEntries), **Byzantine Generals Problem (BGP)**, **Practical Byzantine Fault Tolerance (PBFT)**, **Consensus in blockchain systems**, **CAP Theorem**. |
 | | [8.3] *Reliable client-server communication* | Reliable RPC Semantics, Failure detection, **At-least-once semantics**, **At-most-once semantics**, **Idempotent operation**. |
 | | [8.4] *Reliable group communication* (virtual synchrony) | Reliable multicasting, Feedback Implosion, **Atomic multicast**, **Causally ordered multicast**, **Virtual Synchrony**. |
 | | [8.5] *Distributed commit* | **Distributed Commit**, **Two-Phase Commit (2PC)**, Three-Phase Commit (3PC). |
