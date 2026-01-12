@@ -86,9 +86,8 @@ Most topics in the syllabus are covered in Distributed Systems. The remainder is
 
 ### Remaining Topics
 - [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW)
-- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) -  Translated slides from the Czech lecture
-- [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Fully translated slides from the Czech lecture
-- [PDS-cz.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds.pptx) - Original Czech slides (can be used as a reference and/or after translation)
+- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) - Slides with translated selected topics (topics covered by the book are incrementally translated from czech)
+- [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Slides on blockchain
 
 | Topic | Concepts/Protocols/Algorithms | Pages | Addition Sources |
 | :--- | :--- | :--- | :--- |
