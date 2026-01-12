@@ -93,7 +93,7 @@ Most topics in the syllabus are covered in Distributed Systems. The remainder is
 | Topic | Concepts/Protocols/Algorithms | Pages | Addition Sources |
 | :--- | :--- | :--- | :--- |
 | **Mutual exclusion** | **Maekawa’s Algorithm**, **Ricard-Agrawala**, **Naive Voting**, **Maekawa voting**, **LeLann Algorithm, Hirschback-Sinclair Algorithm (Ring algorithms)** | PDS-en: 46-64 | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
-| **Election algorithms** | **Invitation Algorithm**, **Ring Algorithms: Chang & Roberts, Hirschback & Sinclair** | PDS-en: 65-75 | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
+| **Election algorithms** | **Invitation Algorithm**, **Ring Algorithms: Chang & Roberts, Hirschback & Sinclair** | PDS-en: 65-75 | |
 | **Distributed paging** | **Distributed paging with sequestion or causal consistency** | pds-en: 203-209 | |
 | **Virtual synchrony** | **Trans Algorithm**, **Transis algorithm**, **VSync/ISIS**. | pds-en: 87-105 | [Transis](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQDx2lp7pS6uRJKaVUiOS7IFARwZWWtZZutBfUz3gUsWX-Q?e=1dcxSK), [ISIS+Transis](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW) |
 | **Global state detection** | **Chandy-Lamport Marker Algorithm** (for distributed snapshots/consistent global state), **Diffusing Computation** (for deadlock/termination detection). | pds-en: 114-128 | [slides](https://www.cs.uic.edu/~ajayk/Chapter4.pdf) |
