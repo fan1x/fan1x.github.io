@@ -32,7 +32,7 @@ date: 2025-01-01
 ---
 
 ## :calendar: Lecture Schedule
-- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) -  Incrementally translated slides
+- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP)
 
 | Lab | Date    | Lecture | Slides | Study |
 |-----|---------|---------|--------|-------|
@@ -48,7 +48,7 @@ date: 2025-01-01
 | 10  | 03.12.  | :heavy_check_mark: | pages: 107-126 | — |
 | 11  | 10.12.  | :heavy_check_mark: | pages: 46-64 | — |
 | 12  | 17.12.  | :heavy_check_mark: | pages: 88-105 - Vector clock, Trans, Transis, Vsync/ISIS, Blockchain |  |
-| 13  | 07.01.  | :heavy_check_mark: | **Shared together with the Czech lecture in S4**: CRDT | |
+| 13  | 07.01.  | :heavy_check_mark: | pages: 237-270 - CRDT | |
 {: #pds-schedule}
 
 ---
