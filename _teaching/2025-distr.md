@@ -93,7 +93,7 @@ Most topics in the syllabus are covered in Distributed Systems. The remainder is
 | :--- | :--- | :--- | :--- |
 | **Mutual exclusion** | **Maekawa’s Algorithm**, **Ricard-Agrawala**, **Naive Voting**, **Maekawa voting** | 46-64 | [Maekawa’s Algorithm](https://lsisreviving.weebly.com/uploads/2/3/6/8/23689241/maekawas_algorithm.pdf), [wiki](https://en.wikipedia.org/wiki/Maekawa%27s_algorithm) |
 | **Election algorithms** | **Invitation Algorithm**, **Ring Algorithms: Chang & Roberts, Hirschback & Sinclair** | 65-75 | |
-| **Distributed paging** | **Distributed paging with sequestion or causal consistency** | 203-209 | |
+| **Distributed paging** | **Distributed paging with sequestion or causal consistency** | 203-209 | Understand single process [Memory paging](https://en.wikipedia.org/wiki/Memory_paging), [Virtual memory](https://en.wikipedia.org/wiki/Virtual_memory), ... |
 | **Virtual synchrony** | **Trans Algorithm**, **Transis algorithm**, **VSync/ISIS**. | 87-105 | [Transis](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQDx2lp7pS6uRJKaVUiOS7IFARwZWWtZZutBfUz3gUsWX-Q?e=1dcxSK), [ISIS+Transis](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW) |
 | **Global state detection** | **Chandy-Lamport Marker Algorithm** (for distributed snapshots/consistent global state), **Diffusing Computation** (for deadlock/termination detection). | 114-128 | [slides](https://www.cs.uic.edu/~ajayk/Chapter4.pdf) |
 | **Termination detection** | **Dijsktra-Scholten Algorithm**, **Huang's Algorithm**  | 108-113 | [wiki-DS](https://en.wikipedia.org/wiki/Dijkstra%E2%80%93Scholten_algorithm), [wiki-Huang](https://en.wikipedia.org/wiki/Huang%27s_algorithm) |
