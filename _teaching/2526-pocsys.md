@@ -21,6 +21,7 @@ date: 2026-01-01
 * [Labs](https://teaching.ms.mff.cuni.cz/nswi170-web/pages/labs/)
 
 ## :test_tube: Individual Labs
+* [Slides](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQDkUupsMyDHQZfglKWgQKfEAak5Y__dx1dBtfGBchyBAzQ?e=aarNGb)
 
 | Lab | Date  | Goals  | Code | Homework |
 |-----|-------|--------|------|----------|
