@@ -23,20 +23,20 @@ date: 2026-01-01
 ## :test_tube: Individual Labs
 * [Slides](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQDkUupsMyDHQZfglKWgQKfEAak5Y__dx1dBtfGBchyBAzQ?e=aarNGb)
 
-| Lab | Date  | Goals  | Code | Homework |
-|-----|-------|--------|------|----------|
-| **01-odd**  | 16.02. | — | — | — |
-| **01-even** | 23.02. | — | — | — |
-| **02-odd**  | 02.03. | — | — | — |
-| **02-even** | 09.03. | — | — | — |
-| **03-odd**  | 16.03. | — | — | — |
-| **03-even** | 23.03. | — | — | — |
-| **04-odd**  | 30.03. | — | — | — |
-| **04-even** :x:  | 06.04. | :bangbang: **cancelled - Easter Monday** | — | — |
-| **05-odd**  | 13.04. | — | — | — |
-| **04-even** | 20.04. | — | — | — |
-| **06-odd**  | 27.04. | — | — | — |
-| **05-even** | 04.05. | — | — | — |
-| **07-odd**  | 11.05. | — | — | — |
-| **06-even** | 18.05. | — | — | — |
+| Lab         | Date   | Goals  | Homework |
+|-------------|--------|--------|----------|
+| **01-odd**  | 16.02. | Intro, C++ course | Celmomether (**deadline: 24.02. 03:59**) |
+| **01-even** | 23.02. | Intro, C++ course | Celmomether (**deadline: 03.03. 03:59**) |
+| **02-odd**  | 02.03. | :bangbang: **Bring your Arduino** | — |
+| **02-even** | 09.03. | :bangbang: **Bring your Arduino** | — |
+| **03-odd**  | 16.03. | — | — |
+| **03-even** | 23.03. | — | — |
+| **04-odd**  | 30.03. | — | — |
+| **04-even** :x:  | 06.04. | :bangbang: **cancelled - Easter Monday** | — |
+| **05-odd**  | 13.04. | — | — |
+| **04-even** | 20.04. | — | — |
+| **06-odd**  | 27.04. | — | — |
+| **05-even** | 04.05. | — | — |
+| **07-odd**  | 11.05. | — | — |
+| **06-even** | 18.05. | — | — |
 {: #pocsys-labs}
