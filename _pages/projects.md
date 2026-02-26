@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## **Welcome & How to Get Involved**
-I’m always looking for motivated students and collaborators interested in **distributed and parallel systems**, **big data processing**, and **operating systems**.  
+I’m always looking for motivated students and collaborators interested in **Performance Critical Systems**, more specifically in **distributed and parallel systems**, **big data (graph) processing**, or **operating systems**.
 If you’d like to work on a *Bachelor’s, Master’s, or Ph.D. thesis*, or collaborate on a *research project leading to a publication*, feel free to contact me. 
 You can either choose from the proposed topics below or suggest your own idea as long as it aligns with my research areas.
 
@@ -17,11 +17,17 @@ I’m also in contact with people from *industry (e.g., Oracle Labs)* and *resea
 
 ## **Research Interests**
 
-- **Distributed and Parallel Data Processing Systems**  
-    *e.g., consensus protocols, blockchain, fault tolerance*
-
 - **Big Data Processing**  
     *e.g., large-scale graph analytics, streaming systems*
+
+- **Graph Analytics**
+    *e.g., analytics of social networks using graphs*
+
+- **Distributed and Parallel Data Processing Systems** 
+    *e.g., consensus protocols, fault tolerance*
+
+- **Blockchain**
+    *e.g., bitcoin, ethereum, blockchain protocols*
 
 - **Operating Systems**  
     *e.g., scheduling algorithms, resource management, virtualization*
@@ -34,12 +40,11 @@ Below are some potential topics for collaboration, project or thesis work. Each 
 ---
 
 ### **Efficient (Graph) Processing on Modern Distributed Systems:**
-1. [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
-2. on blockchain
-3. on disagregated systems
-4. using a learned-index
-5. using data-mining techniques
-6. create a distributed disaggregated architecture that allows 
+1. on blockchain
+2. on disagregated systems
+3. using a learned-index
+4. using data-mining techniques
+5. using worst-case-optimal-join
 ...
 
 ---
@@ -55,7 +60,13 @@ We trace and visualize synchronization primitives, such as blocking (e.g, futex)
 
 ---
 
-### Blochchain Simulator
-Work on a simulator that simulates and visualize various blockchain algorithms.
+## In-Progress Projects
 
----
+### **Efficient graph Processing using CRDTs**
+Improve the standard CSR using [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+
+### **Efficient Disaggregated Heterogeneous Architecture for Graph Processing**
+Create a disaggregated architecture that can be easily used by various graph processing engines on
+
+### **Blochchain Simulator**
+Work on a simulator that simulates and visualize various blockchain algorithms.
