@@ -23,13 +23,13 @@ date: 2026-01-01
 ## :test_tube: Individual Labs
 * [Slides](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQDkUupsMyDHQZfglKWgQKfEAak5Y__dx1dBtfGBchyBAzQ?e=aarNGb)
 
-| Lab | Dates (Odd / Even)       | Goals                                         | Homework                                      |
-|-----|---------------------------|----------------------------------------------|-----------------------------------------------|
-| 01  | 16.02. / 23.02.           | Intro, C++ course                            | Celmomether (odd: **24.02. 03:59**, even: **03.03. 03:59**) |
-| 02  | 02.03. / 09.03.           | Arduino intro, leds, blinking                | Arduino LEDs (odd: **10.03. 03:59**, even: **17.03. 03:59**) |
-| 03  | 16.03. / 23.03.           | Bit operations, logging, buttons             | Arduino Buttons (odd: **24.03. 03:59**, even: —) |
-| 04  | 30.03. / **20.04.**       | — / :bangbang: **6.4. cancelled – Easter Monday** | — |
-| 05  | 13.04. / 04.05.           | —                                            | — |
-| 06  | 27.04. / 18.05.           | —                                            | — |
-| 07  | 11.05.                    | ???                                          | — |
+| Lab | Dates (Odd / Even)        | Goals                             | Homework         | Deadlines (Odd / Even)       | Notes                                          |
+|-----|---------------------------|-----------------------------------|------------------|------------------------------|------------------------------------------------|
+| 01  | 16.02. / 23.02.           | Intro, C++ course                 | Celmomether      | 24.02. 03:59 / 03.03. 03:59  |                                                |
+| 02  | 02.03. / 09.03.           | Arduino intro, LEDs, blinking     | Arduino LEDs     | 10.03. 03:59 / 17.03. 03:59  |                                                |
+| 03  | 16.03. / 23.03.           | Bit operations, logging, buttons  | Arduino Buttons  | 24.03. 03:59 / —             |                                                |
+| 04  | 30.03. / **20.04.**       | — / -                             | —                | — / —                        | :bangbang: **6.4. cancelled – Easter Monday**  |
+| 05  | 13.04. / 04.05.           | —                                 | —                | — / —                        |                                                |
+| 06  | 27.04. / 18.05.           | —                                 | —                | — / —                        |                                                |
+| 07  | 11.05.                    | ???                               | —                | —                            |                                                |
 {: #pocsys-labs}
