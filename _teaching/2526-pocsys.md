@@ -26,7 +26,7 @@ date: 2026-01-01
 | Lab | Dates (Odd / Even)        | Goals                             | Homework         | Deadlines (Odd / Even)       | Notes                                          |
 |-----|---------------------------|-----------------------------------|------------------|------------------------------|------------------------------------------------|
 | 01  | 16.02. / 23.02.           | Intro, C++ course                 | Celmomether      | 24.02. 03:59 / 03.03. 03:59  |                                                |
-| 02  | 02.03. / 09.03.           | Arduino intro, LEDs, blinking     | Arduino LEDs     | 10.03. 03:59 / 17.03. 03:59  |                                                |
+| 02  | 02.03. / 09.03.           | Arduino intro, LEDs, blinking     | Arduino LEDs     | 10.03. 03:59 / 17.03. 03:59  | [Grey code blinking](https://gitlab.mff.cuni.cz/kratm6cm/pocsys26-2/-/blob/master/po2/finalni.ino)                                               |
 | 03  | 16.03. / 23.03.           | Bit operations, logging, buttons  | Arduino Buttons  | 24.03. 03:59 / —             |                                                |
 | 04  | 30.03. / **20.04.**       | — / -                             | —                | — / —                        | :bangbang: **6.4. cancelled – Easter Monday**  |
 | 05  | 13.04. / 04.05.           | —                                 | —                | — / —                        |                                                |
