@@ -2,17 +2,16 @@
 title: "Programming in C++"
 collection: teaching
 type: "Labs"
-permalink: /teaching/2025-cpp
-venue: "Friday 10:40–12:10, SU2, Malá Strana"
-date: 2025-01-01
+permalink: /teaching/26-cpp
+venue: "Wednesday 10:40–12:10, SW2, Malá Strana"
+date: 2026-01-01
 ---
 
 ---
 
 ## :email: Contact
-- **Office:** Room S203, 2nd floor
 - **Mattermost:** [ulita.ms.mff.cuni.cz/mattermost](https://ulita.ms.mff.cuni.cz/mattermost)
-    - Channel: `2526/nprg041-cpp-faltin`
+    - Channel: `2627/nprg041-cpp-faltin`
     - DM: `@faltin.tomas`
 - **Email:** tomas.faltin@matfyz.cuni.cz
 
@@ -37,21 +36,20 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 
 | Lab | Date | Goals | Code | Homework |
 |-----|------|-------|------|----------|
-| **01** | 03.10. | Compilation, debugging, IDE, I/O redirection, cmd args, vector, string | — | **by 09.10. 5:00:** Calculator (+/-) |
-| **02** | 10.10. | Parameters, class, struct, const functions, vector | — | **by 16.10. 5:00:** 3D matrix |
-| **03** | 17.10. | [Covered by J.Klepl](https://teaching.mff.cuni.cz/nprg041-skoda-web/03-classes.php) | — | — |
-| **04** | 24.10. | using, const/constexpr, ownership, special methods | [implement_class_c.cpp](../data/2025-26/cpp/implement_class_c.cpp), [counting_class.cpp](../data/2025-26/cpp/counting_class.cpp), [verbose_class.cpp](../data/2025-26/cpp/verbose_class.cpp) | **by 30.11. 5:00:** Implement class C (1p), 3D matrix (2p) |
-| **05** | 31.10. | Declaration, definition, sequence containers, iterators | [summing_program.cpp](../data/2025-26/cpp/summing_program.cpp) | **by 6.11. 5:00:** Summing program (1p), N-in-row game (3p) |
-| **06** | 07.11. | owners, observers, dynamic allocation, pointers, pointer arithmetic | [linked_list.hpp](../data/2025-26/cpp/linked_list.hpp)  | **by 13.11. 5:00:** linked-list (1p), vector\<int\> (2p) |
-| **07** | 14.11. | std::function, functors, lambdas, algorithms |  |  **by 20.11. 5:00:** People big-data DB (2p) |
-| **08** | 21.11. | Survey results, inheritance, polymorphism |  |  **by 27.11. 5:00:** polymorphic vector (1p) |
-| **09** | 28.11. | templates, concepts* |  | **by 4.12. 5:00:** make generic containers: (poly-)vector, linked-list, matrix (each 1p) |
-| **10** | 05.11. | exceptions, noexcept, RAII, std::optional, std::expected | [exceptions.cpp](../data/2025-26/cpp/exceptions.cpp) | **by 11.12. 5:00:** make all previous containers (poly-)vector, linked-list, matrix (each 1p) properly handling exceptions |
-| **11** | 12.11. | filesystem, streams, reading from file |  | **by 19.12. 5:00** Cross evaluation of the previous homework (2p), **by 22.12. 5:00:** persistent people database (3p) |
-| **12** | 19.11. | random, ranges, threads* | [threads.cpp](../data/2025-26/cpp/threads.cpp) | **by 22.12. 5:00:** Persistent people database with Ranges (2p), **BONUS (3p):** *Parallel* Persistent people database |
-| **13** | 09.01. | exam recommendation, code guidelines |  |  |
-| **01\*** | 01.01. | Covering for [J. Klepl](https://teaching.mff.cuni.cz/nprg041-klepl-web/index.html), [slides](../data/2025-26/cpp/ex01-klepl.pdf) |  |  |
-{: #cpp-labs}
+| **01** | 30.09. | 
+| **02** | 07.10. | 
+| **03** | 14.10. | 
+| **04** | 21.10. | 
+| **05** | 28.10. | :bangbang: Holiday: Den vzniku samostatného československého státu | | |
+| **05** | 04.11. | 
+| **07** | 11.11. |
+| **08** | 18.11. |
+| **09** | 25.11. |
+| **10** | 02.12. | 
+| **11** | 09.12. | 
+| **12** | 16.12. | 
+| **13** | 06.01  |
+{: #cpp-lab
 
 
 ## :white_check_mark: Merge Requests in GitLab

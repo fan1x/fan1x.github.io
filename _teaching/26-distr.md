@@ -2,12 +2,14 @@
 title: "Principles of Distributed Systems"
 collection: teaching
 type: "Lectures"
-permalink: /teaching/2025-distr
+permalink: /teaching/26-distr
 venue: "Wednesday 12:20 - 13:50, S6, Malá Strana"
 date: 2025-01-01
 ---
 
 ---
+
+:bangbang: To be updated
 
 ## :email: Contact
 - **Office:** Room S203, 2nd floor
