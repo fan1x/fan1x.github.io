@@ -40,7 +40,7 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 | **02** | 07.10. |       |       |           | 
 | **03** | 14.10. |       |       |           | 
 | **04** | 21.10. |       |       |           | 
-| :x:    | ~~28.10.~~ | :bangbang: **Holiday**: Den vzniku samostatného československého státu | | |
+| :x:    | ~~28.10.~~ | **Holiday**: Den vzniku samostatného československého státu | — | — |
 | **05** | 04.11. |       |       |           | 
 | **06** | 11.11. |       |       |           |
 | **07** | 18.11. |       |       |           |
