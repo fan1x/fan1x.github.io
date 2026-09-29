@@ -34,22 +34,22 @@ date: 2026-01-01
 ## :test_tube: Individual Labs
 Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQBgs57jhuacQbytvqOy3EMhAQVRjy6GsBivKxg1qJVcIyY?e=Q2ymFu), [pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCw5MyL6zQsS4Wt-vaCJ1GEAc3kKDKYjseWKWds9smdpxE?e=321bWn)
 
-| Lab | Date      | Goals | Code  | Homework  |
-|--------|--------|-------|-------|-----------|
+| Lab     | Date      | Goals | Code  | Homework  |
+|---------|-----------|-------|-------|-----------|
 | **01** | 30.09. |       |       |           | 
 | **02** | 07.10. |       |       |           | 
 | **03** | 14.10. |       |       |           | 
 | **04** | 21.10. |       |       |           | 
-| **05** | 28.10. | :bangbang: Holiday: Den vzniku samostatného československého státu | | |
+| :x:    | 28.10. | :bangbang: Holiday: Den vzniku samostatného československého státu | | |
 | **05** | 04.11. |       |       |           | 
-| **07** | 11.11. |       |       |           |
-| **08** | 18.11. |       |       |           |
-| **09** | 25.11. |       |       |           |
-| **10** | 02.12. |       |       |           | 
-| **11** | 09.12. |       |       |           | 
-| **12** | 16.12. |       |       |           | 
-| **13** | 06.01  |       |       |           |
-{: #cpp-lab
+| **06** | 11.11. |       |       |           |
+| **07** | 18.11. |       |       |           |
+| **08** | 25.11. |       |       |           |
+| **09** | 02.12. |       |       |           | 
+| **10** | 09.12. |       |       |           | 
+| **11** | 16.12. |       |       |           | 
+| **12** | 06.01  |       |       |           |
+{: #cpp-lab}
 
 
 ## :white_check_mark: Merge Requests in GitLab
