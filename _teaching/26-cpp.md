@@ -40,7 +40,7 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 | **02** | 07.10. |       |       |           | 
 | **03** | 14.10. |       |       |           | 
 | **04** | 21.10. |       |       |           | 
-| :x:    | 28.10. | :bangbang: Holiday: Den vzniku samostatného československého státu | | |
+| :x:    | ~~28.10.~~ | :bangbang: **Holiday**: Den vzniku samostatného československého státu | | |
 | **05** | 04.11. |       |       |           | 
 | **06** | 11.11. |       |       |           |
 | **07** | 18.11. |       |       |           |
@@ -61,6 +61,11 @@ For each homework, **submit your solution through a Merge Request (MR)**. This a
 - Go to you Gitlab project in browser and click: `Merge Requests/Create merge request`.
 - Select *Source branch*: `hw1-solution`, *Target Branch:* `master` 
 - Add a *title*, optional *description*, set `@faltint` as *Assignee*, and click **Create merge request**
+
+## AI usage
+- in-progress
+- must understand the code
+- 
 
 ## :trophy: Credit Project
 See [Credit Information Page](https://teaching.mff.cuni.cz/nprg041-web/zapocet.html) for details.
