@@ -21,34 +21,34 @@ date: 2026-01-01
 
 ## :calendar: Important Dates
 
-| Date        | Milestone                      | Details                                              | Submission            |
-|-------------|--------------------------------|------------------------------------------------------|-----------------------|
-| **14.11.2025** | Topic proposal                 | —                                                    | DM on Mattermost      |
-| **12.12.2025** | Approved detailed description  | Written in Markdown                                  | Merge request         |
-| **13.02.2026** | First technology demo          | —                                                    | —                     |
-| **22.05.2026** | Final version                  | —                                                    | —                     |
+| Date        | Milestone                         | Details                                              | Submission            |
+|-------------|-----------------------------------|------------------------------------------------------|-----------------------|
+| **23.11.2026** | Topic proposal                 | —                                                    | Mail                  |
+| **30.11.2026** | Approved detailed description  | Written in Markdown                                  | Merge request         |
+| **10.01.2027** | First technology demo          | —                                                    | —                     |
+| **23.05.2027** | Final version submission       | —                                                    | —                     |
 {: #cpp-schedule}
 
 :bangbang: *Do not leave this until the last minute! Iteration takes time.*
 
 ## :test_tube: Individual Labs
-Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQBWG9f2ItXRTp2fHERDVDZcAUDuMBXY0qj40K7dzyGVQtE?e=U0cZ1x)
+Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQBgs57jhuacQbytvqOy3EMhAQVRjy6GsBivKxg1qJVcIyY?e=Q2ymFu), [pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCw5MyL6zQsS4Wt-vaCJ1GEAc3kKDKYjseWKWds9smdpxE?e=321bWn)
 
-| Lab | Date | Goals | Code | Homework |
-|-----|------|-------|------|----------|
-| **01** | 30.09. | 
-| **02** | 07.10. | 
-| **03** | 14.10. | 
-| **04** | 21.10. | 
+| Lab | Date      | Goals | Code  | Homework  |
+|--------|--------|-------|-------|-----------|
+| **01** | 30.09. |       |       |           | 
+| **02** | 07.10. |       |       |           | 
+| **03** | 14.10. |       |       |           | 
+| **04** | 21.10. |       |       |           | 
 | **05** | 28.10. | :bangbang: Holiday: Den vzniku samostatného československého státu | | |
-| **05** | 04.11. | 
-| **07** | 11.11. |
-| **08** | 18.11. |
-| **09** | 25.11. |
-| **10** | 02.12. | 
-| **11** | 09.12. | 
-| **12** | 16.12. | 
-| **13** | 06.01  |
+| **05** | 04.11. |       |       |           | 
+| **07** | 11.11. |       |       |           |
+| **08** | 18.11. |       |       |           |
+| **09** | 25.11. |       |       |           |
+| **10** | 02.12. |       |       |           | 
+| **11** | 09.12. |       |       |           | 
+| **12** | 16.12. |       |       |           | 
+| **13** | 06.01  |       |       |           |
 {: #cpp-lab
 
 
