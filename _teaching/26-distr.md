@@ -9,11 +9,10 @@ date: 2025-01-01
 
 ---
 
-:bangbang: To be updated
-
 ## :email: Contact
 - **Office:** Room S203, 2nd floor
 - **Mattermost:** [ulita.ms.mff.cuni.cz/mattermost](https://ulita.ms.mff.cuni.cz/mattermost), DM: `@faltin.tomas`
+    - email me if you need an invite.
 - **Email:** tomas.faltin@matfyz.cuni.cz
 
 ---
@@ -38,8 +37,8 @@ Latest slides for lectures:
 
 | Lecture | Date       | Goals   | Slides & Pages |
 |---------|------------|---------|----------------|
-| :x:     | 29.09.     | [SOSP/Distributed Systems Session](https://sigops.org/s/conferences/sosp/2026/schedule.html) instead  | -- |
-| **01**  | 06.10.     |  Introduction | [pdf](https://cunicz-my.sharepoint.com/:b:/r/personal/46734522_cuni_cz/Documents/_teaching/pds25/PDS-en.pdf?d=w0918d3aa63664551b1d005b4b5bfa2c7&csf=1&web=1&e=hs9xSe) (pages: 1-15) | -- |
+| :x:     | ~~29.09.~~ | [Distributed Systems@SOSP](https://sigops.org/s/conferences/sosp/2026/schedule.html) instead  | -- |
+| **01**  | 06.10.     |  Introduction | [pdf:1-15](https://cunicz-my.sharepoint.com/:b:/r/personal/46734522_cuni_cz/Documents/_teaching/pds25/PDS-en.pdf?d=w0918d3aa63664551b1d005b4b5bfa2c7&csf=1&web=1&e=hs9xSe) | -- |
 | **02**  | 13.10.     | Communication |                |
 | **03**  | 20.10.     |         |                |
 | **04**  | 27.10.     |         |                |
