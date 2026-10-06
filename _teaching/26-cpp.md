@@ -19,14 +19,21 @@ date: 2026-01-01
 * [Credit Information](https://teaching.mff.cuni.cz/nprg041-web/zapocet.html)
 * [Lecture Webpage](https://teaching.mff.cuni.cz/nprg041-web/index.html)
 
+## Useful Links
+* [Gitlab](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin)
+  * Usage: [Merge Requests](#merge-requests-in-gitlab)
+* Online compilers: [Godbolt](https://godbolt.org), [Coliru](https://coliru.stacked-crooked.com)
+* Documentation: [cppreference.com](https://en.cppreference.com/w/)
+* [AI tools](#ai-usage)
+
 ## :calendar: Important Dates
 
 | Date        | Milestone                         | Details                                              | Submission            |
 |-------------|-----------------------------------|------------------------------------------------------|-----------------------|
-| **23.11.2026** | Topic proposal                 | —                                                    | Mail                  |
-| **30.11.2026** | Approved detailed description  | Written in Markdown                                  | Merge request         |
-| **10.01.2027** | First technology demo          | —                                                    | —                     |
-| **23.05.2027** | Final version submission       | —                                                    | —                     |
+| ??? | Topic proposal                 | —                                                    | Mail                  |
+| ??? | Approved detailed description  | Written in Markdown                                  | Merge request         |
+| ??? | First technology demo          | —                                                    | —                     |
+| ??? | Final version submission       | —                                                    | —                     |
 {: #cpp-schedule}
 
 :bangbang: *Do not leave this until the last minute! Iteration takes time.*
@@ -53,7 +60,7 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 
 
 ## :white_check_mark: Merge Requests in GitLab
-For each homework, **submit your solution through a Merge Request (MR)**. This allows me to review your code and provide comments.
+Always submit your solution through a **Merge Request (MR)**. This allows me to review your code and provide comments.
 
 1. Create a separate branch, e.g, *hw1-solution* for your homework: `git checkout -b hw1-solution`
 2. Add you solution and push your new branch to Gitlab
@@ -63,9 +70,10 @@ For each homework, **submit your solution through a Merge Request (MR)**. This a
 - Add a *title*, optional *description*, set `@faltint` as *Assignee*, and click **Create merge request**
 
 ## AI usage
-- in-progress
-- must understand the code
-- 
+- [e-infra](https://docs.cerit.io/en/docs/ai-as-a-service/chat-ai)
+  - Free access for students of MFF UK, sign in with your university account, would require approval
+- Microsoft 365 Copilot - Sign with your university account, e.g., `xxxx@cuni.cz`
+- [Github Copilot](https://github.com/education/students) - Need to sign to the students program to get free access and credits.
 
 ## :trophy: Credit Project
 See [Credit Information Page](https://teaching.mff.cuni.cz/nprg041-web/zapocet.html) for details.

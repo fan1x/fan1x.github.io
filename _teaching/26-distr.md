@@ -13,10 +13,7 @@ date: 2025-01-01
 
 ## :email: Contact
 - **Office:** Room S203, 2nd floor
-- **Mattermost:** [ulita.ms.mff.cuni.cz/mattermost](https://ulita.ms.mff.cuni.cz/mattermost)
-    - Invite link in SIS/notice-board
-    - Channel: `2526/nswi035-distrib-en`
-    - DM: `@faltin.tomas`
+- **Mattermost:** [ulita.ms.mff.cuni.cz/mattermost](https://ulita.ms.mff.cuni.cz/mattermost), DM: `@faltin.tomas`
 - **Email:** tomas.faltin@matfyz.cuni.cz
 
 ---
@@ -25,7 +22,7 @@ date: 2025-01-01
 - [Van Steen, Tanenbaum - Distributed Systems](https://www.distributed-systems.net) *(Free download)*
     - [slides](https://www.distributed-systems.net/my-data/DS4/allslides.zip)
 - [A.D. Kshemkalyani, M. Singhal - Distributed Computing, Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
-- Chow, Johnson - Distributed Operating Systems & Algorithms
+- [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAWhICToTusYlfvXcMlrj5_A?e=KQ3xKA)
 - Antonopoulos - Mastering Bitcoin, Mastering Lightning Network
 - Santoro - Design and Analysis of Distributed Algorithms
 - Mullender - Distributed Systems
@@ -34,33 +31,35 @@ date: 2025-01-01
 ---
 
 ## :calendar: Lecture Schedule
-- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP)
+Latest slides for lectures: 
+- `PDS-main` - Slides with translated selected topics: [pdf](https://cunicz-my.sharepoint.com/:b:/r/personal/46734522_cuni_cz/Documents/_teaching/pds25/PDS-en.pdf?d=w0918d3aa63664551b1d005b4b5bfa2c7&csf=1&web=1&e=hs9xSe), [pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP)
+- `PDS-btc` - Slides on blockchain: [pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx)
 
-| Lab | Date    | Lecture | Slides | Study |
-|-----|---------|---------|--------|-------|
-| 01  | 01.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_01.pdf) | 1, 2.1–2.3 |
-| 02  | 08.10.  | :heavy_check_mark: | [pdf](../data/2025-26/pds/pds_en_02.pdf) | 4.2-4.4, 8.3, 8.4 |
-| 03  | 15.10.  | :x: | Home study | 5.1-5.6 |
-| 04  | 22.10.  | :x: | Home study | 7.2, 7.5 |
-| 05  | 29.10.  | :heavy_check_mark: | [slides.04](../data/2025-26/pds/allslides/slides.04.pdf): pages 13-50, [slides.08](../data/2025-26/pds/allslides/slides.08.pdf)  pages 67-76, [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 1-21 | — |
-| 06  | 05.11.  | :heavy_check_mark: | [slides.05](../data/2025-26/pds/allslides/slides.05.pdf): pages 22-88 | 7.3, 7.4, 2.4 |
-| 07  | 12.11.  | :x: (Dean's day) | — | 8.1, 8.2, 8.5 |
-| 08  | 19.11.  | :heavy_check_mark: | — | — |
-| 09  | 26.11.  | :heavy_check_mark: | 8.2, 8.5 | — |
-| 10  | 03.12.  | :heavy_check_mark: | pages: 107-126 | — |
-| 11  | 10.12.  | :heavy_check_mark: | pages: 46-64 | — |
-| 12  | 17.12.  | :heavy_check_mark: | pages: 88-105 - Vector clock, Trans, Transis, Vsync/ISIS, Blockchain |  |
-| 13  | 07.01.  | :heavy_check_mark: | pages: 237-270 - CRDT | |
+
+| Lecture | Date       | Goals   | Slides & Pages |
+|---------|------------|---------|----------------|
+| :x:     | 29.09.     | [SOSP/Distributed Systems Session](https://sigops.org/s/conferences/sosp/2026/schedule.html) instead  | -- |
+| **01**  | 06.10.     |  Introduction | [pdf](https://cunicz-my.sharepoint.com/:b:/r/personal/46734522_cuni_cz/Documents/_teaching/pds25/PDS-en.pdf?d=w0918d3aa63664551b1d005b4b5bfa2c7&csf=1&web=1&e=hs9xSe) (pages: 1-15) | -- |
+| **02**  | 13.10.     | Communication |                |
+| **03**  | 20.10.     |         |                |
+| **04**  | 27.10.     |         |                |
+| **05**  | 03.11.     |         |                |
+| **06**  | 10.11.     |         |                |
+| :x:     | ~~17.11.~~ | **Holiday**: Mezinárodní den studentstva | — |
+| **07**  | 24.11.     |         |                |
+| **08**  | 01.12.     |         |                |
+| **09**  | 08.12.     |         |                |
+| **10**  | 15.12.     |         |                |
+| **11**  | 05.01.     |         |                |
 {: #pds-schedule}
 
 ---
 
 ## :scroll: Syllabus
-Most topics in the syllabus are covered in Distributed Systems. The remainder is addressed in the lecture slides and supplementary readings. If anything is unclear or you notice a topic missing, please let me know.
+Most topics in the syllabus are covered in Distributed Systems by Van Steen. The remainder is addressed in supplementary readings. If anything is unclear or you notice a topic missing, please let me know.
 
 ### Distributed Systems - Van Steen, Tanenbaum
 - [book](https://www.distributed-systems.net) *(free download)*, [slides](https://www.distributed-systems.net/my-data/DS4/allslides.zip)
-
 
 | Module | Topic | Key Concepts/Protocols/Algorithms |
 |:---|:---|:---|
@@ -86,9 +85,8 @@ Most topics in the syllabus are covered in Distributed Systems. The remainder is
 | | [8.5] *Distributed commit* | **Distributed Commit**, **Two-Phase Commit (2PC)**, Three-Phase Commit (3PC). |
 | | [8.6.2] *Checkpointing* | **Checkpointing**, **distributed snapshot**, **independent chackpointing**  |
 
-### Remaining Topics
-- [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAZl_S0Mo3GbkvE5YSoyh518?e=bTMILW)
-- [PDS-en.pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP) - Slides with translated selected topics (topics covered by the book are incrementally translated from czech)
+### Remaining Topics Not Covered in the Book
+- [Chow, Johnson - Distributed Operating Systems & Algorithms](https://cunicz-my.sharepoint.com/:f:/g/personal/46734522_cuni_cz/IgB3aziuyPmDTq9Iq-0rBiZOAWhICToTusYlfvXcMlrj5_A?e=KQ3xKA)
 - [pds-btc.pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx) - Slides on blockchain
 
 | Topic | Concepts/Protocols/Algorithms | Pages | Addition Sources |
