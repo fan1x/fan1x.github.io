@@ -31,14 +31,14 @@ date: 2025-01-01
 
 ## :calendar: Lecture Schedule
 Latest slides for lectures: 
-- `PDS-main` - Slides with translated selected topics: [pdf](https://cunicz-my.sharepoint.com/:b:/r/personal/46734522_cuni_cz/Documents/_teaching/pds25/PDS-en.pdf?d=w0918d3aa63664551b1d005b4b5bfa2c7&csf=1&web=1&e=hs9xSe), [pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=aza6UP)
+- `PDS-main` - Slides with translated selected topics: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cuni_cz/IQCq0xgJZmNRRbHQBbS1v6LHAUrGTCknA5pjR0pVctLPFUM?e=7fHsnX), [pptx](https://cunicz-my.sharepoint.com/:p:/g/personal/46734522_cuni_cz/IQCx8ET6NlvoSpkf_fKk6b7YAYTItO-gyCmfkvIHLnvzTyo?e=mUY7KJ)
 - `PDS-btc` - Slides on blockchain: [pptx](https://teaching.mff.cuni.cz/nswi035-web/pds-btc.pptx)
 
 
 | Lecture | Date       | Goals   | Slides & Pages |
 |---------|------------|---------|----------------|
 | :x:     | ~~29.09.~~ | [Distributed Systems@SOSP](https://sigops.org/s/conferences/sosp/2026/schedule.html) instead  | -- |
-| **01**  | 06.10.     |  Introduction | [pdf:1-15](https://cunicz-my.sharepoint.com/:b:/r/personal/46734522_cuni_cz/Documents/_teaching/pds25/PDS-en.pdf?d=w0918d3aa63664551b1d005b4b5bfa2c7&csf=1&web=1&e=hs9xSe) | -- |
+| **01**  | 06.10.     |  Introduction | PDS-main:1-15 | -- |
 | **02**  | 13.10.     | Communication |                |
 | **03**  | 20.10.     |         |                |
 | **04**  | 27.10.     |         |                |
