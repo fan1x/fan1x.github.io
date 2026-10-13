@@ -38,9 +38,9 @@ Latest slides for lectures:
 | Lecture | Date       | Goals   | Slides & Pages |
 |---------|------------|---------|----------------|
 | :x:     | ~~29.09.~~ | [Distributed Systems@SOSP](https://sigops.org/s/conferences/sosp/2026/schedule.html) instead  | -- |
-| **01**  | 06.10.     |  Introduction | PDS-main:1-15 | -- |
-| **02**  | 13.10.     | Communication |                |
-| **03**  | 20.10.     |         |                |
+| **01**  | 06.10.     |  Introduction | PDS-main:1-15 |
+| **02**  | 13.10.     | Communication | PDS-main:16-35 |
+| **03**  | 20.10.     | Synchronization Algorithms | PDS-main:36-???                |
 | **04**  | 27.10.     |         |                |
 | **05**  | 03.11.     |         |                |
 | **06**  | 10.11.     |         |                |
