@@ -49,7 +49,7 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 | **10** | 09.12. |       |       |           | 
 | **11** | 16.12. |       |       |           | 
 | **12** | 06.01  |       |       |           |
-{: #cpp-lab}
+{: #cpp-labs}
 
 
 ## :white_check_mark: Merge Requests in GitLab
