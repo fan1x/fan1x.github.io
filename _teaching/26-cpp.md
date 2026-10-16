@@ -25,6 +25,7 @@ date: 2026-01-01
 * Online compilers: [Godbolt](https://godbolt.org), [Coliru](https://coliru.stacked-crooked.com)
 * Documentation: [cppreference.com](https://en.cppreference.com/w/)
 * [AI tools](#ai-usage)
+* Package managers: [vcpkg](https://learn.microsoft.com/en-us/vcpkg/), [Conan](https://conan.io/)
 
 ## :calendar: Important Dates
 
