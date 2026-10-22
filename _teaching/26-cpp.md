@@ -39,7 +39,7 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 | **01** | 30.09. | Organization | --  | -- | 
 | **02** | 07.10. | Hello World, compilation, IDEs, `vector`       | -- | [Simple Calculator (deadline 23.10.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw01/README.md) | 
 | **03** | 14.10. | classes, methods, const-correctness, argument passing - ref/val | -- | [Matrix (deadline 30.10.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw02/README.md) | 
-| **04** | 21.10. |       |       |           | 
+| **04** | 21.10. | Iterators, auto (basics) | [Implement Class C](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/snippets/72) | N-in-row for P-players (deadline 06.11.) |
 | :x:    | ~~28.10.~~ | **Holiday**: Den vzniku samostatného československého státu | — | — |
 | **05** | 04.11. |       |       |           | 
 | **06** | 11.11. |       |       |           |

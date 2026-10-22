@@ -40,8 +40,8 @@ Latest slides for lectures:
 | :x:     | ~~29.09.~~ | [Distributed Systems@SOSP](https://sigops.org/s/conferences/sosp/2026/schedule.html) instead  | -- |
 | **01**  | 06.10.     |  Introduction | PDS-main:1-15 |
 | **02**  | 13.10.     | Communication | PDS-main:16-35 |
-| **03**  | 20.10.     | Synchronization Algorithms | PDS-main:36-???                |
-| **04**  | 27.10.     |         |                |
+| **03**  | 20.10.     | Synchronization Algorithms, Logical Closk, Mutual Exclusion: Lamport's algorithm | PDS-main:36-53                |
+| **04**  | 27.10.     | Mutual Exclusion: Ricart & Agrawala, ...        | PDS-main:54-???               |
 | **05**  | 03.11.     |         |                |
 | **06**  | 10.11.     |         |                |
 | :x:     | ~~17.11.~~ | **Holiday**: Mezinárodní den studentstva | — |
