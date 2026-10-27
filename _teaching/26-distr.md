@@ -41,9 +41,9 @@ Latest slides for lectures:
 | **01**  | 06.10.     |  Introduction | PDS-main:1-15 |
 | **02**  | 13.10.     | Communication | PDS-main:16-35 |
 | **03**  | 20.10.     | Synchronization Algorithms, Logical Closk, Mutual Exclusion: Lamport's algorithm | PDS-main:36-53                |
-| **04**  | 27.10.     | Mutual Exclusion: Ricart & Agrawala, ...        | PDS-main:54-???               |
-| **05**  | 03.11.     |         |                |
-| **06**  | 10.11.     |         |                |
+| **04**  | 27.10.     | Mutual Exclusion: Ricart & Agrawala, Maekawa, Tree-based, Token-based | PDS-main:54-66              |
+| **05**  | 03.11.     | Coordinator Election: Bully, Invitation, Chang & Roberts, Hirshberg & Sinclair; Delivery Protocols: ... | PDS-main:67-??               |
+| **06**  | 10.11.     |  |                |
 | :x:     | ~~17.11.~~ | **Holiday**: Mezinárodní den studentstva | — |
 | **07**  | 24.11.     |         |                |
 | **08**  | 01.12.     |         |                |
