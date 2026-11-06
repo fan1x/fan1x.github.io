@@ -41,7 +41,7 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 | **03** | 14.10. | classes, methods, const-correctness, argument passing - ref/val | -- | [Matrix (deadline 30.10.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw02/README.md) | 
 | **04** | 21.10. | Iterators, auto (basics) | [Implement Class C](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/snippets/72) | N-in-row for P-players (deadline 06.11.) |
 | :x:    | ~~28.10.~~ | **Holiday**: Den vzniku samostatného československého státu | — | — |
-| **05** | 04.11. |       |       |           | 
+| **05** | 04.11. | Algorithms, functions as parameters (lambdas, functors, ...) | [Algorithms and Lambdas](https://gitlab.mff.cuni.cz/-/snippets/73) | Pair Programming: People Registry (deadline 20.11.) | 
 | **06** | 11.11. |       |       |           |
 | **07** | 18.11. |       |       |           |
 | **08** | 25.11. |       |       |           |
