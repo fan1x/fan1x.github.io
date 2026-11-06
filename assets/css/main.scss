@@ -58,7 +58,7 @@
   }
 
   /* If your theme has zebra striping, ensure readability */
-  #pds-schedule tbody tr:nth-child() td {
+  #pds-schedule tbody tr:nth-child(6) td {
     color: #fff; /* enforce light text on the dark highlight */
   }
 }
