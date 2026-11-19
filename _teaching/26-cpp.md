@@ -37,18 +37,18 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 | Lab     | Date      | Goals | Code  | Homework  |
 |---------|-----------|-------|-------|-----------|
 | **01** | 30.09. | Organization | --  | -- | 
-| **02** | 07.10. | Hello World, compilation, IDEs, `vector`       | -- | [Simple Calculator (deadline 23.10.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw01/README.md) | 
-| **03** | 14.10. | classes, methods, const-correctness, argument passing - ref/val | -- | [Matrix (deadline 30.10.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw02/README.md) | 
-| **04** | 21.10. | Iterators, auto (basics) | [Implement Class C](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/snippets/72) | N-in-row for P-players (deadline 06.11.) |
+| **02** | 07.10. | Hello World, compilation, IDEs, `vector`       | -- | [HW01: Simple Calculator (deadline 23.10.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw01/README.md) | 
+| **03** | 14.10. | classes, methods, const-correctness, argument passing - ref/val | -- | [HW02: Matrix (deadline 30.10.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw02/README.md) | 
+| **04** | 21.10. | Iterators, auto (basics) | [Implement Class C](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/snippets/72) | [HW03: N-in-row for P-players (deadline 06.11.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw03/README.md) |
 | :x:    | ~~28.10.~~ | **Holiday**: Den vzniku samostatného československého státu | — | — |
-| **05** | 04.11. | Algorithms, functions as parameters (lambdas, functors, ...) | [Algorithms and Lambdas](https://gitlab.mff.cuni.cz/-/snippets/73) | Pair Programming: People Registry (deadline 20.11.) | 
-| **06** | 11.11. |       |       |           |
-| **07** | 18.11. |       |       |           |
-| **08** | 25.11. |       |       |           |
-| **09** | 02.12. |       |       |           | 
-| **10** | 09.12. |       |       |           | 
-| **11** | 16.12. |       |       |           | 
-| **12** | 06.01  |       |       |           |
+| **05** | 04.11. | Algorithms, functions as parameters (lambdas, functors, ...) | [Algorithms and Lambdas](https://gitlab.mff.cuni.cz/-/snippets/73) | [HW04: Pair Programming: People Registry (deadline 20.11.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw04/README.md) | 
+| **06** | 11.11. | Containers | [Map](https://gitlab.mff.cuni.cz/-/snippets/75)  | [HW05: Fast Person Registry (deadline 28.11.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw05/README.md) |
+| **07** | 18.11. | Pointers, memory management | [Feedback (by 25.11.)](https://forms.cloud.microsoft/pages/responsepage.aspx?id=2naS4DT5hkC_CIgWogQUoszXmvTS_PBLoqVAiTrVNe1UMUM1Q0dUMFdWV1lQTUs3QUdYQVZYMUtYUS4u&route=shorturl), [Linked List](https://gitlab.mff.cuni.cz/-/snippets/76) | [HW06: Personal linked-list and vector (deadline 04.12.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw06/README.md) |
+| **08** | 25.11. |       |       | [HW07: ??? (deadline 11.12.)]() |
+| **09** | 02.12. |       |       | [HW08: ??? (deadline 18.12.)]() | 
+| **10** | 09.12. |       |       | [HW09: ??? (deadline 01.01.)]() | 
+| **11** | 16.12. |       |       | [HW10: ??? (deadline 08.01.)]() |
+| **12** | 06.01  |       |       | -- |
 {: #cpp-labs}
 
 
