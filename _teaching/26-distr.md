@@ -42,14 +42,14 @@ Latest slides for lectures:
 | **02**  | 13.10.     | Communication | PDS-main:16-35 |
 | **03**  | 20.10.     | Synchronization Algorithms, Logical Closk, Mutual Exclusion: Lamport's algorithm | PDS-main:36-53                |
 | **04**  | 27.10.     | Mutual Exclusion: Ricart & Agrawala, Maekawa, Tree-based, Token-based | PDS-main:54-66              |
-| **05**  | 03.11.     | Coordinator Election: Bully, Invitation, Chang & Roberts, Hirshberg & Sinclair; Delivery Protocols: ... | PDS-main:67-??               |
-| **06**  | ~~10.11.~~ | **Rector's Day** |                |
-| :x:     | ~~17.11.~~ | **Holiday**: Mezinárodní den studentstva | — |
-| **07**  | 24.11.     |         |                |
-| **08**  | 01.12.     |         |                |
-| **09**  | 08.12.     |         |                |
-| **10**  | 15.12.     |         |                |
-| **11**  | 05.01.     |         |                |
+| **05**  | 03.11.     | Coordinator Election: Bully, Invitation, Chang & Roberts, Hirshberg & Sinclair; Delivery Protocols: ... | PDS-main:67-81            |
+| :x:     | ~~10.11.~~ | **Rector's Day** | --              |
+| :x:     | ~~17.11.~~ | **Holiday**: Mezinárodní den studentstva | -- |
+| **06**  | 24.11.     |         | PDS-main:82-?? |
+| **07**  | 01.12.     |         |                |
+| **08**  | 08.12.     |         |                |
+| **09**  | 15.12.     |         |                |
+| **10**  | 05.01.     |         |                |
 {: #pds-schedule}
 
 ---
