@@ -44,7 +44,7 @@ Latest slides: [pdf](https://cunicz-my.sharepoint.com/:b:/g/personal/46734522_cu
 | **05** | 04.11. | Algorithms, functions as parameters (lambdas, functors, ...) | [Algorithms and Lambdas](https://gitlab.mff.cuni.cz/-/snippets/73) | [HW04: Pair Programming: People Registry (deadline 20.11.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw04/README.md) | 
 | **06** | 11.11. | Containers | [Map](https://gitlab.mff.cuni.cz/-/snippets/75)  | [HW05: Fast Person Registry (deadline 28.11.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw05/README.md) |
 | **07** | 18.11. | Pointers, memory management | [Feedback (by 25.11.)](https://forms.cloud.microsoft/pages/responsepage.aspx?id=2naS4DT5hkC_CIgWogQUoszXmvTS_PBLoqVAiTrVNe1UMUM1Q0dUMFdWV1lQTUs3QUdYQVZYMUtYUS4u&route=shorturl), [Linked List](https://gitlab.mff.cuni.cz/-/snippets/76) | [HW06: Personal linked-list and vector (deadline 04.12.)](https://gitlab.mff.cuni.cz/teaching/nprg041/2026-27/faltin/shared/-/blob/master/homeworks/hw06/README.md) |
-| **08** | 25.11. |       |       | [HW07: ??? (deadline 11.12.)]() |
+| **08** | 25.11. | Templates, concepts (intro) | [Templates](https://gitlab.mff.cuni.cz/-/snippets/77) | [HW07: ??? (deadline 11.12.)]() |
 | **09** | 02.12. |       |       | [HW08: ??? (deadline 18.12.)]() | 
 | **10** | 09.12. |       |       | [HW09: ??? (deadline 01.01.)]() | 
 | **11** | 16.12. |       |       | [HW10: ??? (deadline 08.01.)]() |
